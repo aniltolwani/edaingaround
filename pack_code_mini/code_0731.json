@@ -1,0 +1,2 @@
+{"id": "code_731_0", "source": "synthetic_codegen", "lang": "py", "prompt": "dog explain please guide guide help api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2cd6b2e83b4d94be0f8cf557fa18a4c6"}
+{"id": "code_731_1", "source": "doc_example", "lang": "py", "prompt": "over over jumps the use guide windows jumps guide brown install fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b13ff070ba2c921b6d2a5d7f9ff514ea"}

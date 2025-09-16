@@ -1,0 +1,2 @@
+{"id": "code_387_0", "source": "github_snippet", "lang": "js", "prompt": "step to use to explain configure linux", "response": "function add(a,b){return a+b;}", "_pair_hash": "49032a67e4b742dec4138b915cc9eb15"}
+{"id": "code_387_1", "source": "doc_example", "lang": "js", "prompt": "brown jumps over example dog lazy fox jumps api api", "response": "function add(a,b){return a+b;}", "_pair_hash": "defd403ee3d9fd9e8c6cfc29e9b0a696"}

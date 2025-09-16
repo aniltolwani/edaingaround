@@ -1,0 +1,2 @@
+{"id": "code_420_0", "source": "github_snippet", "lang": "js", "prompt": "help explain fox function lazy how help dog to over dog to dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "f30dcbd0ec55844f90fb5caf8f63bada"}
+{"id": "code_420_1", "source": "doc_example", "lang": "py", "prompt": "api please fox quick linux example over please jumps lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4319c7ce51c283b069bf5221852efc3e"}

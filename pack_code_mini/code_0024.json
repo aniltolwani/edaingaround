@@ -1,0 +1,2 @@
+{"id": "code_24_0", "source": "synthetic_codegen", "lang": "py", "prompt": "dog api data step step please how ubuntu install brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "33d6fb9ee1db3dbe83b0c1fa798052ab"}
+{"id": "code_24_1", "source": "doc_example", "lang": "cpp", "prompt": "fox to lazy windows explain please guide", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "bcf8d3171080370d4d54cb81ea720c4d"}

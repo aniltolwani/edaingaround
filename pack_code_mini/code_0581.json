@@ -1,0 +1,1 @@
+[{"id": "code_581_0", "source": "github_snippet", "lang": "py", "prompt": "the explain use configure example fox lazy over quick", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "3bf1a7c68e9a9a0bcdaf193fce61f0d0"}]

@@ -1,0 +1,1 @@
+{"id": "code_791_0", "source": "doc_example", "lang": "cpp", "prompt": "please the explain to windows configure api function step step use data use", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "70e3a1ea340d362d902a1e4834b5bd49"}

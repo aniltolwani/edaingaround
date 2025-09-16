@@ -1,0 +1,2 @@
+{"id": "code_950_0", "source": "github_snippet", "lang": "js", "prompt": "how guide how use over please how quick api", "response": "function add(a,b){return a+b;}", "_pair_hash": "92016d1f66bc4bb0705e04a20549ca84"}
+{"id": "code_950_1", "source": "doc_example", "lang": "cpp", "prompt": "explain how over lazy jumps fox", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "fcef04cc3b52eaab4e91c48145213e7a"}

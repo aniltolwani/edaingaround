@@ -1,0 +1,2 @@
+{"id": "code_310_0", "source": "github_snippet", "lang": "py", "prompt": "data configure thanks over brown dog configure install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f98f2b266ce75c4f6c69bd7ea3c16585"}
+{"id": "code_310_1", "source": "github_snippet", "lang": "py", "prompt": "step guide ubuntu help jumps help linux to windows how please", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "77fb11734ddb16a3c048dc02077fe1a1"}

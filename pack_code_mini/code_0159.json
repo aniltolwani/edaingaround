@@ -1,0 +1,1 @@
+[{"id": "code_159_0", "source": "doc_example", "lang": "py", "prompt": "fox quick configure explain windows please ubuntu to explain install quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "11f33830a140bfa735edbde891ff2212"}]

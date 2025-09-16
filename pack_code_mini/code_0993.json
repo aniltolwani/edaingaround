@@ -1,0 +1,2 @@
+{"id": "code_993_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "ubuntu data brown jumps api data jumps the function over dog", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "71d5691f2672694b2cb40fd5b2e6c307"}
+{"id": "code_993_1", "source": "synthetic_codegen", "lang": "js", "prompt": "step install explain how example windows how step", "response": "function add(a,b){return a+b;}", "_pair_hash": "9ff7b929277bcc6cced3e8d080aedc37"}

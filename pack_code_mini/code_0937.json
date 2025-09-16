@@ -1,0 +1,1 @@
+{"id": "code_937_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu install to data brown brown to fox thanks example step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a738a4c6ff46efe950af5b66248ebb48"}

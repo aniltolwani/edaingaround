@@ -1,0 +1,2 @@
+{"id": "code_689_0", "source": "github_snippet", "lang": "py", "prompt": "data windows thanks fox use linux please step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "08dff57572c90c8f927353ba0ab4620f"}
+{"id": "code_689_1", "source": "doc_example", "lang": "cpp", "prompt": "over function jumps quick ubuntu use function install please data fox use", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "010934a1d7aaae96c2276ee854ca3805"}

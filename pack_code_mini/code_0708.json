@@ -1,0 +1,2 @@
+{"id": "code_708_0", "source": "synthetic_codegen", "lang": "py", "prompt": "windows over over quick step linux lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f91c542e13f26654b0fe77e53caad267"}
+{"id": "code_708_1", "source": "github_snippet", "lang": "cpp", "prompt": "install function brown api please function dog jumps linux over ubuntu", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "7916e1e5a0ed184328a17a33b689a8ef"}

@@ -1,0 +1,1 @@
+{"id": "code_866_0", "source": "github_snippet", "lang": "py", "prompt": "to fox api explain fox brown please fox explain api step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "fb2c22a152a5eda1d72e6fb71f5c6b7b"}

@@ -1,0 +1,2 @@
+{"id": "code_15_0", "source": "synthetic_codegen", "lang": "js", "prompt": "data the function jumps use step fox dog guide guide quick please brown", "response": "function add(a,b){return a+b;}", "_pair_hash": "0a8c8d681a330c000f9e4b4fa2ab17a1"}
+{"id": "code_15_1", "source": "synthetic_codegen", "lang": "py", "prompt": "the linux dog brown dog data install api thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "25cbc5c264a59f98da853d9df870f77d"}

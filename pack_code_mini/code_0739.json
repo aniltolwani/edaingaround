@@ -1,0 +1,1 @@
+{"id": "code_739_0", "source": "github_snippet", "lang": "cpp", "prompt": "configure api linux use fox help", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "59ea28a6083a3fea8ef7f9bf81bab9a8"}

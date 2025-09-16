@@ -1,0 +1,1 @@
+[{"id": "code_38_0", "source": "doc_example", "lang": "py", "prompt": "example example to jumps help help ubuntu windows quick configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c587f420628ba17685733d73b5a98230"}]

@@ -1,0 +1,2 @@
+{"id": "code_662_0", "source": "github_snippet", "lang": "js", "prompt": "install example quick the brown lazy", "response": "function add(a,b){return a+b;}", "_pair_hash": "39f5ce1566608394f27c724b77bd956f"}
+{"id": "code_662_1", "source": "github_snippet", "lang": "py", "prompt": "explain help api lazy step quick jumps lazy example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2324460a81c0a2fc492cfb27cd1af017"}

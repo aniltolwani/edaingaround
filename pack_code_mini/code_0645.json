@@ -1,0 +1,2 @@
+{"id": "code_645_0", "source": "github_snippet", "lang": "py", "prompt": "function api lazy brown how please jumps over dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0f711f37e2f48df325ca32555f1ab1a7"}
+{"id": "code_645_1", "source": "synthetic_codegen", "lang": "py", "prompt": "use over help to install over example help lazy to install explain quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e8b4c2d53888090549cc359af7fafdce"}

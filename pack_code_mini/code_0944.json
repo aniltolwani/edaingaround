@@ -1,0 +1,1 @@
+{"id": "code_944_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure please please jumps over please api brown brown brown lazy windows windows help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4bd949a68fc9f3d2a7d3abbf6355fb5b"}

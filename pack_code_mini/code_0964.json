@@ -1,0 +1,1 @@
+{"id": "code_964_0", "source": "github_snippet", "lang": "py", "prompt": "over explain explain lazy linux step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4aa234aa392aa79e0d3427b337dd8aab"}

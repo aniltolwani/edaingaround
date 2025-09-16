@@ -1,0 +1,2 @@
+{"id": "code_346_0", "source": "doc_example", "lang": "py", "prompt": "please linux configure how to to how to over brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3ca451ea6e299cd11e17a7af4741e101"}
+{"id": "code_346_1", "source": "github_snippet", "lang": "py", "prompt": "configure step example use guide over how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4e6a8f4c8d904f5f22e1b7caf31e97c9"}

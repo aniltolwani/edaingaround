@@ -1,0 +1,2 @@
+{"id": "code_934_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "jumps thanks ubuntu ubuntu lazy dog explain guide data ubuntu thanks configure guide please", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "7cc763b59f2905e90c5c3e391982e009"}
+{"id": "code_934_1", "source": "github_snippet", "lang": "py", "prompt": "explain how jumps data fox over fox configure install jumps dog step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2438acdf7b3863121e098d4a5c9861e1"}

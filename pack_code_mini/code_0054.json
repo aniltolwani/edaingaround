@@ -1,0 +1,2 @@
+{"id": "code_54_0", "source": "github_snippet", "lang": "py", "prompt": "over use thanks jumps data fox quick the linux the jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b23c457146fcc8518f4c7b41c4449a40"}
+{"id": "code_54_1", "source": "synthetic_codegen", "lang": "py", "prompt": "help help install the data api please explain ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "834c816440f29231bd7b4cfabd7b61b0"}

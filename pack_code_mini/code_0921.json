@@ -1,0 +1,2 @@
+{"id": "code_921_0", "source": "synthetic_codegen", "lang": "py", "prompt": "to jumps configure please over the how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7ca280387eb772de84fdfa78ccea63d5"}
+{"id": "code_921_1", "source": "github_snippet", "lang": "py", "prompt": "over guide use data how api data quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c7872fdfad6f545d4a34a5e7e22dfc78"}

@@ -1,0 +1,2 @@
+{"id": "code_854_0", "source": "github_snippet", "lang": "cpp", "prompt": "use api thanks guide ubuntu please please explain data guide please please data configure", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "a097d3214fa6e3491c7d771178c594ca"}
+{"id": "code_854_1", "source": "github_snippet", "lang": "py", "prompt": "the install fox explain to brown quick api brown ubuntu windows thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "06d997bb0a8a526350532e74d2a8afef"}

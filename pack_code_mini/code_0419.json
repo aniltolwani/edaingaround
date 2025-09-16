@@ -1,0 +1,1 @@
+{"id": "code_419_0", "source": "doc_example", "lang": "py", "prompt": "to quick configure dog ubuntu ubuntu please step ubuntu configure linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a7dc461e2d1f289aa67a885247f27915"}

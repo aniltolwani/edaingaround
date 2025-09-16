@@ -1,0 +1,1 @@
+{"id": "code_220_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "lazy quick jumps guide lazy fox use", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "2a7ec9521e4da253386f7c1111aea3ae"}

@@ -1,0 +1,2 @@
+{"id": "code_714_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "to function help quick quick jumps thanks how jumps please function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "7c3828ddf88b80d865f795394e9def14"}
+{"id": "code_714_1", "source": "synthetic_codegen", "lang": "js", "prompt": "api the ubuntu to use install ubuntu the how", "response": "function add(a,b){return a+b;}", "_pair_hash": "dbdf07f6ed4522be3b72fe1cab44fb53"}

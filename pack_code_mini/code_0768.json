@@ -1,0 +1,1 @@
+{"id": "code_768_0", "source": "github_snippet", "lang": "py", "prompt": "to help example dog brown install use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ed164bc0a80d514564f2f7b2ddc9da51"}

@@ -1,0 +1,1 @@
+[{"id": "code_370_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu configure install please example help fox help guide configure over", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "8b4f8c039aa78396de23b037c617ed32"}]

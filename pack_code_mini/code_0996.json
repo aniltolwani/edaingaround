@@ -1,0 +1,1 @@
+[{"id": "code_996_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function guide configure quick help step fox linux fox step ubuntu lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7fb63af7164aed692c552d7c2e77eb90"}]

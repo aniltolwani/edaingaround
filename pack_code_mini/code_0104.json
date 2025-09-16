@@ -1,0 +1,2 @@
+{"id": "code_104_0", "source": "synthetic_codegen", "lang": "py", "prompt": "explain windows api function use how step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d5a9dd4d4e7e3c624b82298f0c2146c0"}
+{"id": "code_104_1", "source": "github_snippet", "lang": "js", "prompt": "use ubuntu example quick quick example thanks fox how help step the function", "response": "function add(a,b){return a+b;}", "_pair_hash": "2886b8d8e3c82f6785ffeb36450ca459"}

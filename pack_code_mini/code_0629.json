@@ -1,0 +1,1 @@
+[{"id": "code_629_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu quick explain dog explain lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "90ce8dd03cffd6c50ee38a51b801cbb1"}]

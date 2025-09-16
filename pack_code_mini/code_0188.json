@@ -1,0 +1,2 @@
+{"id": "code_188_0", "source": "synthetic_codegen", "lang": "py", "prompt": "how over api ubuntu step how windows quick brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ed9b79d2280ffc68d38a05a615fd9be4"}
+{"id": "code_188_1", "source": "doc_example", "lang": "cpp", "prompt": "fox example please brown data brown dog quick linux please install explain explain", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "76ec29c4cfde54cee484ddb115d3a647"}

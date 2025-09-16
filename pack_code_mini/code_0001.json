@@ -1,0 +1,1 @@
+[{"id": "code_1_0", "source": "github_snippet", "lang": "py", "prompt": "fox lazy use explain example please api please quick lazy windows example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ee8d0caa83fdd526e11d7560eb751170"}]

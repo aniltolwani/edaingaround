@@ -1,0 +1,2 @@
+{"id": "code_377_0", "source": "synthetic_codegen", "lang": "js", "prompt": "function brown help use ubuntu lazy example windows windows jumps", "response": "function add(a,b){return a+b;}", "_pair_hash": "948893cf28d7868234befa96479f7c9a"}
+{"id": "code_377_1", "source": "synthetic_codegen", "lang": "py", "prompt": "over function configure how linux install dog install fox api lazy quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "732a9ff62386339930fbddef4d70a780"}

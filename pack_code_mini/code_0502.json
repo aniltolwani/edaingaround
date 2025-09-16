@@ -1,0 +1,2 @@
+{"id": "code_502_0", "source": "github_snippet", "lang": "cpp", "prompt": "explain install function brown to dog use dog use jumps", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "158fcee431c6bca968993125f29c78dd"}
+{"id": "code_502_1", "source": "doc_example", "lang": "py", "prompt": "ubuntu thanks to brown lazy lazy explain please example function guide brown dog how", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "5f64bf3387afd4999b6fb9228cd3b769"}

@@ -1,0 +1,1 @@
+{"id": "code_989_0", "source": "github_snippet", "lang": "py", "prompt": "install quick fox the configure configure brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "aaab90af213ff7f067da3fae1b00b5fe"}

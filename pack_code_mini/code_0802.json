@@ -1,0 +1,1 @@
+{"id": "code_802_0", "source": "github_snippet", "lang": "py", "prompt": "fox please configure example data to dog install please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7d9ee56d4e7926adc44e7e79e92a60e8"}

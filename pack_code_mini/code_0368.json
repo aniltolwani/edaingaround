@@ -1,0 +1,2 @@
+{"id": "code_368_0", "source": "github_snippet", "lang": "py", "prompt": "configure api to windows jumps explain dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "39fbc36ca44452850eb337f22dc2e59a"}
+{"id": "code_368_1", "source": "github_snippet", "lang": "cpp", "prompt": "configure function guide help dog linux dog lazy over ubuntu help api quick please", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "933473e78e29357c720e60e1b632e93e"}

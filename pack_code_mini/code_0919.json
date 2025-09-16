@@ -1,0 +1,2 @@
+{"id": "code_919_0", "source": "doc_example", "lang": "cpp", "prompt": "data help to windows example lazy api over install to", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "df407732596c94bbe8e29725986bfeda"}
+{"id": "code_919_1", "source": "github_snippet", "lang": "js", "prompt": "example thanks linux use how thanks", "response": "function add(a,b){return a+b;}", "_pair_hash": "31a01a03b6139dbdde09d6be9793619a"}

@@ -1,0 +1,2 @@
+{"id": "code_546_0", "source": "github_snippet", "lang": "cpp", "prompt": "use install how configure explain data help step", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "878d82dc6232bad2ff97b2a4dcd9808b"}
+{"id": "code_546_1", "source": "github_snippet", "lang": "py", "prompt": "brown thanks brown lazy please dog dog api help configure jumps brown lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5b2f452b67939fb436b11bb0f4167cc4"}

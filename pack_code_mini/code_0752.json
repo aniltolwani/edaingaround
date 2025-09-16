@@ -1,0 +1,1 @@
+[{"id": "code_752_0", "source": "github_snippet", "lang": "py", "prompt": "thanks step configure thanks step explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ba3f14b7af92610a3fa7aa11b361b4b0"}]

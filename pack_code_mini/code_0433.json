@@ -1,0 +1,2 @@
+{"id": "code_433_0", "source": "doc_example", "lang": "py", "prompt": "data jumps quick thanks fox data explain api please", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "12cef4cdda73229f0ad946df7b124236"}
+{"id": "code_433_1", "source": "github_snippet", "lang": "py", "prompt": "quick install data quick dog guide the help please install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "215d39aaa9ba64d7cb0f47de78092867"}

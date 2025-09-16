@@ -1,0 +1,2 @@
+{"id": "code_536_0", "source": "synthetic_codegen", "lang": "py", "prompt": "lazy function help please lazy data thanks api the windows configure step function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "430d1dac12e768331b04aa4eb180d9ba"}
+{"id": "code_536_1", "source": "doc_example", "lang": "py", "prompt": "brown dog step fox linux windows use linux over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3000d587a36e2e4faa9a9752d2b308ad"}

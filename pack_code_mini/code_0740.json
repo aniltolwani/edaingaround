@@ -1,0 +1,1 @@
+{"id": "code_740_0", "source": "github_snippet", "lang": "py", "prompt": "brown dog the guide data windows the help over ubuntu configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5ca511fd3e08242d3c73dcc5855a7431"}

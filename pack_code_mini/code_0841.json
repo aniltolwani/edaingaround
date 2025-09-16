@@ -1,0 +1,2 @@
+{"id": "code_841_0", "source": "github_snippet", "lang": "cpp", "prompt": "please use lazy thanks to api function configure windows step to windows ubuntu", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "b5e2d05a0746fd22bfe7674d6f237d76"}
+{"id": "code_841_1", "source": "doc_example", "lang": "py", "prompt": "dog please brown dog example the fox quick dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "38fd638c2c3d5f9e2e057d5e9ab3d96a"}

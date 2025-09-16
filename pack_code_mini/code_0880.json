@@ -1,0 +1,2 @@
+{"id": "code_880_0", "source": "github_snippet", "lang": "js", "prompt": "windows use linux guide explain ubuntu function function how", "response": "function add(a,b){return a+b;}", "_pair_hash": "536347f3f06c7d7ff4ec236db97c1325"}
+{"id": "code_880_1", "source": "synthetic_codegen", "lang": "py", "prompt": "lazy quick please example jumps use windows help quick over linux step step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5de4ccfe4c8caf8521b42be0a3ae0fc2"}

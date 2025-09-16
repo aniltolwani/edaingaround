@@ -1,0 +1,1 @@
+{"id": "code_150_0", "source": "synthetic_codegen", "lang": "py", "prompt": "help use jumps step example how configure how use data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "47f13e8d73dac17cb49f623447a9ee01"}

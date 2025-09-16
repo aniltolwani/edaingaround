@@ -1,0 +1,2 @@
+{"id": "code_868_0", "source": "synthetic_codegen", "lang": "py", "prompt": "to dog dog use use configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8955fbe45f3ee9d8907236a8078ab327"}
+{"id": "code_868_1", "source": "doc_example", "lang": "py", "prompt": "windows install lazy guide api how windows over ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "826e9c5c60eb855ad651e998b6d3b1d0"}

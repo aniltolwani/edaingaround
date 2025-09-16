@@ -1,0 +1,2 @@
+{"id": "code_396_0", "source": "doc_example", "lang": "py", "prompt": "explain install guide windows step jumps dog example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0222c4e2a4e8ec35653dcb9d135e5b9c"}
+{"id": "code_396_1", "source": "github_snippet", "lang": "py", "prompt": "function the help thanks step how quick guide brown step how api help step", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "d0f55df784af699b7fea24cb2cf6890e"}

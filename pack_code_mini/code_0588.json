@@ -1,0 +1,1 @@
+{"id": "code_588_0", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps ubuntu quick guide jumps explain fox install example ubuntu over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2d0f8cd971af960c0c2bd0007c0c03c3"}

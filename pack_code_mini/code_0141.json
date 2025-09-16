@@ -1,0 +1,1 @@
+{"id": "code_141_0", "source": "synthetic_codegen", "lang": "py", "prompt": "thanks to install explain fox windows to dog quick the quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8ce75f0deec36c3e1d537c2e81b7990a"}

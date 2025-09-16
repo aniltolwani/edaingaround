@@ -1,0 +1,2 @@
+{"id": "code_275_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "lazy how help example guide example explain ubuntu function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "5f29d17296994e671f30030cc98b3b72"}
+{"id": "code_275_1", "source": "github_snippet", "lang": "js", "prompt": "fox guide guide configure to example please explain dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "9ebb2f84cfb00d9f9eaf6ed1e0bc8004"}

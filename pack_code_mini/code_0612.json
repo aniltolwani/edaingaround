@@ -1,0 +1,2 @@
+{"id": "code_612_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu configure windows fox linux linux fox step jumps lazy quick linux linux configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d41b54955d3fed57cbeef85201fb743d"}
+{"id": "code_612_1", "source": "synthetic_codegen", "lang": "py", "prompt": "guide please function step guide guide how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "03be223db4783baea1269f541828d735"}

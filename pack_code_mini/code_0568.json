@@ -1,0 +1,2 @@
+{"id": "code_568_0", "source": "github_snippet", "lang": "js", "prompt": "quick quick example fox help the jumps brown api lazy lazy step dog how", "response": "function add(a,b){return a+b;}", "_pair_hash": "e4c9f014baad8949ff257791d643f359"}
+{"id": "code_568_1", "source": "github_snippet", "lang": "py", "prompt": "dog quick help data guide function use quick how api brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "04499ee1892db72dccac0cfe866acab9"}

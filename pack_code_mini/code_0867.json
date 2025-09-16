@@ -1,0 +1,2 @@
+{"id": "code_867_0", "source": "github_snippet", "lang": "py", "prompt": "the use to to dog explain dog the how ubuntu ubuntu to", "response": "def broken(:\n    return 1\n", "_pair_hash": "f5642b0d24b0917fa6a3038bb8a3dcd4"}
+{"id": "code_867_1", "source": "doc_example", "lang": "cpp", "prompt": "brown data guide data jumps help quick how please function how brown explain explain", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c5d73ceef0022acd1d8d773b6e0e11b7"}

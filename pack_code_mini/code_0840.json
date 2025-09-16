@@ -1,0 +1,1 @@
+{"id": "code_840_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function guide example api quick install step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8c504b9cf8e72ec2927c7baff29c1f74"}

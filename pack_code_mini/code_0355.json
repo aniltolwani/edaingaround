@@ -1,0 +1,2 @@
+{"id": "code_355_0", "source": "doc_example", "lang": "js", "prompt": "please please configure explain dog guide example", "response": "function add(a,b){return a+b;}", "_pair_hash": "85f44378dae2e4fff92dfb65a8ec73a9"}
+{"id": "code_355_1", "source": "github_snippet", "lang": "py", "prompt": "please api guide fox guide example thanks over install guide explain data function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "9f8f26bfd2d8c5910b87138c88997402"}

@@ -1,0 +1,1 @@
+{"id": "code_511_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "thanks the how the configure api", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c2c07f6083727a0ebd613930f138d7d5"}

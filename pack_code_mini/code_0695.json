@@ -1,0 +1,2 @@
+{"id": "code_695_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "lazy function over please quick data function to thanks use", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "76a8ee2b9fca3cdf9845cadb036eca73"}
+{"id": "code_695_1", "source": "synthetic_codegen", "lang": "py", "prompt": "configure to the example dog use thanks over ubuntu jumps function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ead8c5cc8e23b03cb19b2f19c711f0f2"}

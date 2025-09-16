@@ -1,0 +1,2 @@
+{"id": "code_26_0", "source": "synthetic_codegen", "lang": "py", "prompt": "linux api thanks step guide the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6484bb510e873df9161cf4bf6bf837f2"}
+{"id": "code_26_1", "source": "github_snippet", "lang": "py", "prompt": "brown data use dog thanks configure over explain example explain install guide example over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "455ea2cc189f88e301fb8a99bc6f3c54"}

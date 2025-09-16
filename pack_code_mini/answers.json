@@ -1,0 +1,8 @@
+{
+  "pack": "code_mini",
+  "rows": 1508,
+  "exact_dup_rate": 0.0,
+  "py_parse_rate": 0.9083,
+  "eval_exec_open_count": 89,
+  "longline_over_200_count": 167
+}

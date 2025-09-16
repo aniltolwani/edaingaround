@@ -1,0 +1,25 @@
+{
+  "pack": "mixed_chat",
+  "rows": 2995,
+  "files": 1000,
+  "exact_dup_rate": 0.0835,
+  "dup_rate_by_source": {
+    "web_forum": 0.0418,
+    "support_tickets": 0.0531,
+    "synthetic_assistant": 0.0464,
+    "kb_import": 0.0344
+  },
+  "pii_email_count": 46,
+  "pii_phone_count": 52,
+  "aiish_count": 80,
+  "spam_count": 29,
+  "token_total_est": 340477,
+  "token_p95_est": 355,
+  "token_top5_share": 0.2746,
+  "source_file_counts": {
+    "web_forum": 765,
+    "support_tickets": 772,
+    "synthetic_assistant": 732,
+    "kb_import": 726
+  }
+}

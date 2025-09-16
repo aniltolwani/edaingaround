@@ -1,0 +1,2 @@
+{"id": "code_563_0", "source": "synthetic_codegen", "lang": "py", "prompt": "api install ubuntu how brown dog quick step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "aaed646e75d02cb06400ffca32e68d5c"}
+{"id": "code_563_1", "source": "synthetic_codegen", "lang": "js", "prompt": "dog brown configure please please the windows use quick use", "response": "eval('2+2');function add(a,b){return a+b;}", "_pair_hash": "8d914fcda0848176bc497eabeba6e237"}

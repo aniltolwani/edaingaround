@@ -1,0 +1,1 @@
+{"id": "code_219_0", "source": "synthetic_codegen", "lang": "py", "prompt": "fox please windows guide brown dog ubuntu step data ubuntu quick guide jumps", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "defb106aa815b6e30148c34ea1651563"}

@@ -1,0 +1,1 @@
+{"id": "code_627_0", "source": "synthetic_codegen", "lang": "py", "prompt": "the data ubuntu the api ubuntu help linux configure data example brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7fdc43be8b1cb74e16f3e307c2f568f8"}

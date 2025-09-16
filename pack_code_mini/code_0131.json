@@ -1,0 +1,2 @@
+{"id": "code_131_0", "source": "github_snippet", "lang": "js", "prompt": "over example help dog example api use", "response": "function add(a,b){return a+b;}", "_pair_hash": "3cfa26b2c4eee2125130e59e2a0d22be"}
+{"id": "code_131_1", "source": "doc_example", "lang": "cpp", "prompt": "quick quick use please thanks dog example guide", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "d06f35faf1f7e801071a90b4f8e6b4a8"}

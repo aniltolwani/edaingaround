@@ -1,0 +1,2 @@
+{"id": "code_185_0", "source": "doc_example", "lang": "py", "prompt": "fox ubuntu over guide function the help step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e7e0d4d3c972df132d3c5423567351a9"}
+{"id": "code_185_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "help how example help linux fox brown brown how step ubuntu", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "427b64206df922f96e24c63ddc663b8d"}

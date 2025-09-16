@@ -1,0 +1,2 @@
+{"id": "code_330_0", "source": "github_snippet", "lang": "py", "prompt": "linux function windows how brown thanks dog linux", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "5c3a633bb05da457f8b127ccf7feb447"}
+{"id": "code_330_1", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps fox api to lazy jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "92ff417270ee50d885d7e3cb6d4c6964"}

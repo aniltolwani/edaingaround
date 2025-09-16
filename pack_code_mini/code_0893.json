@@ -1,0 +1,2 @@
+{"id": "code_893_0", "source": "synthetic_codegen", "lang": "py", "prompt": "quick api configure fox brown jumps help over please windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b7845549c575df70c45277f3380fb39a"}
+{"id": "code_893_1", "source": "synthetic_codegen", "lang": "py", "prompt": "windows fox windows data example data help explain data install thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a05e1f25bccc0fd1b391ae77512e273d"}

@@ -1,0 +1,1 @@
+{"id": "code_718_0", "source": "synthetic_codegen", "lang": "py", "prompt": "thanks data configure over data explain over thanks api dog function configure example how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1cb7b84ae7d49fe2dc6934fc67ea0741"}

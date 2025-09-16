@@ -1,0 +1,2 @@
+{"id": "code_757_0", "source": "synthetic_codegen", "lang": "py", "prompt": "dog explain brown data quick fox data install step function lazy", "response": "def broken(:\n    return 1\n", "_pair_hash": "f4a0d02bdf7ab394d8b3ec95935c64d7"}
+{"id": "code_757_1", "source": "synthetic_codegen", "lang": "js", "prompt": "quick ubuntu dog use use jumps explain dog the use to brown", "response": "function add(a,b){return a+b;}", "_pair_hash": "272c50e38c861439b57f652b51f5b81e"}

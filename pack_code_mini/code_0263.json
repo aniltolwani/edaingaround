@@ -1,0 +1,1 @@
+{"id": "code_263_0", "source": "doc_example", "lang": "py", "prompt": "windows install step linux lazy to", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a512fbe74f4554506e36cb487f76b03e"}

@@ -1,0 +1,2 @@
+{"id": "code_942_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure thanks install use step explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7bd6d39897a40adfad68ea6e3c801f52"}
+{"id": "code_942_1", "source": "github_snippet", "lang": "js", "prompt": "explain guide use over how the brown jumps help help how help lazy", "response": "function add(a,b){return a+b;}", "_pair_hash": "9c740070efbf77cba91a98920308f242"}

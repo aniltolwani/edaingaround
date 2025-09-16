@@ -1,0 +1,1 @@
+{"id": "code_659_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "brown help step thanks lazy help api please help dog", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "abccbdc65c9bf29d404467b45a2bfd32"}

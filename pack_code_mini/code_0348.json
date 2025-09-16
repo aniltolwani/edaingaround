@@ -1,0 +1,2 @@
+{"id": "code_348_0", "source": "github_snippet", "lang": "py", "prompt": "install fox fox configure data install example help function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b38e7c5f5056be4bca56ba9fb2340e9a"}
+{"id": "code_348_1", "source": "doc_example", "lang": "cpp", "prompt": "the linux linux brown to brown dog quick the brown use how jumps install", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "3b3b14c53276e2e7b1b7870b88c0bbce"}

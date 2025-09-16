@@ -1,0 +1,2 @@
+{"id": "code_560_0", "source": "github_snippet", "lang": "py", "prompt": "windows guide jumps over install example lazy use install", "response": "def broken(:\n    return 1\n", "_pair_hash": "59e8800f8da130ebf564f1b5501d491b"}
+{"id": "code_560_1", "source": "github_snippet", "lang": "py", "prompt": "guide install brown help explain jumps install fox linux data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "14ae1377425335106c5d3f13c9625207"}

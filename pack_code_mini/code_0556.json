@@ -1,0 +1,2 @@
+{"id": "code_556_0", "source": "synthetic_codegen", "lang": "py", "prompt": "linux install the step fox windows", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "f0fee686049da0d45724d56f0326da85"}
+{"id": "code_556_1", "source": "doc_example", "lang": "js", "prompt": "dog windows lazy explain help how jumps quick jumps help fox please to dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "1791bafb0940e021c3996bcb482e2bae"}

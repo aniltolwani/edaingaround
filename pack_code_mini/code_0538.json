@@ -1,0 +1,2 @@
+{"id": "code_538_0", "source": "github_snippet", "lang": "cpp", "prompt": "lazy brown lazy fox how jumps thanks thanks how function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c00c771be20f4311fefc9ad10b52c72b"}
+{"id": "code_538_1", "source": "doc_example", "lang": "py", "prompt": "lazy fox lazy explain data step jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7cc2efb4b88fb05856e7d1cc78a7650e"}

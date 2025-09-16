@@ -1,0 +1,2 @@
+{"id": "code_726_0", "source": "synthetic_codegen", "lang": "py", "prompt": "quick lazy guide step how windows jumps step dog how use", "response": "def broken(:\n    return 1\n", "_pair_hash": "f6eb0971d7f5ddef69a11b28cc9f4ee5"}
+{"id": "code_726_1", "source": "github_snippet", "lang": "py", "prompt": "how ubuntu fox please how lazy use jumps ubuntu jumps linux over jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3dc9a833d1fb69de2aa8882fbd32fd73"}

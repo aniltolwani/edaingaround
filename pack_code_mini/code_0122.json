@@ -1,0 +1,2 @@
+{"id": "code_122_0", "source": "doc_example", "lang": "py", "prompt": "dog ubuntu to guide quick explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4d26fa981f5480899109e1e548ca0fff"}
+{"id": "code_122_1", "source": "doc_example", "lang": "cpp", "prompt": "the to example guide linux fox example step use windows", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c9f8a5ae3a2c6d4498e3d613f1032e8e"}

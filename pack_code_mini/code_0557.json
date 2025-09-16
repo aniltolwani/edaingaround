@@ -1,0 +1,1 @@
+{"id": "code_557_0", "source": "github_snippet", "lang": "py", "prompt": "the thanks configure how function thanks configure to explain dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "acd64703cc9031bd9684a130a113f00d"}

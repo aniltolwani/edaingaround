@@ -1,0 +1,1 @@
+{"id": "code_486_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "linux guide function guide configure api example use", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "10f1809128e5e958e8901c6fe109b631"}

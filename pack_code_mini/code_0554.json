@@ -1,0 +1,2 @@
+{"id": "code_554_0", "source": "doc_example", "lang": "py", "prompt": "explain ubuntu help step ubuntu lazy over to over", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "945d58a82f834c80b0b3802f3cd3ccbb"}
+{"id": "code_554_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "data example quick step brown fox fox function use jumps to", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "da631de64ee4933b9285d364ea51e4f3"}

@@ -1,0 +1,2 @@
+{"id": "code_405_0", "source": "github_snippet", "lang": "js", "prompt": "install example fox lazy windows step example configure thanks quick the", "response": "function add(a,b){return a+b;}", "_pair_hash": "aab17bd3e5326c474e51f11b5bbf0176"}
+{"id": "code_405_1", "source": "doc_example", "lang": "py", "prompt": "lazy how thanks thanks lazy configure brown dog brown explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2171fdd5026009d002a01543cc178a66"}

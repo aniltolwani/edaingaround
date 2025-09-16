@@ -1,0 +1,1 @@
+{"id": "code_167_0", "source": "doc_example", "lang": "js", "prompt": "configure to api how jumps please please", "response": "function add(a,b){return a+b;}", "_pair_hash": "2b69bdac074f8b641d45c55c6d1e0377"}

@@ -1,0 +1,2 @@
+{"id": "code_994_0", "source": "github_snippet", "lang": "py", "prompt": "thanks linux use api fox jumps thanks over ubuntu data ubuntu dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "91983e8037b4fd4acbd807787cdbf051"}
+{"id": "code_994_1", "source": "github_snippet", "lang": "cpp", "prompt": "install windows dog brown please configure api guide data fox to lazy dog", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "514c087ee8a93c1ce8ac92835ece1985"}

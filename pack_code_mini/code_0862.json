@@ -1,0 +1,1 @@
+{"id": "code_862_0", "source": "doc_example", "lang": "py", "prompt": "use explain linux data over lazy data api lazy brown configure step data api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1db8a42a5905215c374c053b9d4339c0"}

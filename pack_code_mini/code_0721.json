@@ -1,0 +1,2 @@
+{"id": "code_721_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure dog guide configure help data example how lazy lazy data guide explain the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "db2e66a63d7da81848de46e1af5a2f9b"}
+{"id": "code_721_1", "source": "synthetic_codegen", "lang": "js", "prompt": "over dog step windows fox lazy install jumps configure linux explain install explain", "response": "function add(a,b){return a+b;}", "_pair_hash": "3d83af858765e261cb2a4cb523db800b"}

@@ -1,0 +1,1 @@
+[{"id": "code_290_0", "source": "github_snippet", "lang": "py", "prompt": "jumps over data to quick over quick quick install explain please use thanks windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8d3a5e704e0826d682eba2078c4ac7c8"}]

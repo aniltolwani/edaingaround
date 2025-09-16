@@ -1,0 +1,2 @@
+{"id": "code_858_0", "source": "github_snippet", "lang": "py", "prompt": "dog brown lazy fox to linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7d36fca4d45e38192aa59247a8fa7dbf"}
+{"id": "code_858_1", "source": "synthetic_codegen", "lang": "js", "prompt": "ubuntu explain please lazy thanks quick configure step jumps api over dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "b19cd6c1895136a8f94850b8a7e169b2"}

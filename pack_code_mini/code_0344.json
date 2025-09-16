@@ -1,0 +1,2 @@
+{"id": "code_344_0", "source": "doc_example", "lang": "py", "prompt": "function help install how data use thanks guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "56eb2108376dfb824dae039e19def0a3"}
+{"id": "code_344_1", "source": "synthetic_codegen", "lang": "js", "prompt": "linux dog linux jumps quick explain use brown install function", "response": "function add(a,b){return a+b;}", "_pair_hash": "fe67980b5135e3edc67517191979faf1"}

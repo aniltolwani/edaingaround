@@ -1,0 +1,1 @@
+{"id": "code_126_0", "source": "github_snippet", "lang": "py", "prompt": "to data brown install ubuntu windows jumps configure", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "508bc7c8d27a04eb9e856f8ae29adbc5"}

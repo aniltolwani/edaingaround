@@ -1,0 +1,2 @@
+{"id": "code_148_0", "source": "doc_example", "lang": "py", "prompt": "step lazy the brown ubuntu please how use api over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "59fc4fc9c8b2dfe366ce4c01cfcca908"}
+{"id": "code_148_1", "source": "doc_example", "lang": "py", "prompt": "step windows function quick the linux the step", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "3170d73a82146b2c2941a6b79af2bfc5"}

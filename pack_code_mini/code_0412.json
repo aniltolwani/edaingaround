@@ -1,0 +1,1 @@
+{"id": "code_412_0", "source": "doc_example", "lang": "py", "prompt": "configure thanks to linux api thanks function fox brown thanks how help function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "48bce84074cfe6434aa5bae5f2af583c"}

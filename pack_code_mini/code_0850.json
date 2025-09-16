@@ -1,0 +1,2 @@
+{"id": "code_850_0", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps dog lazy example dog linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b73d75bdb0ebdecdde48fca8775d4943"}
+{"id": "code_850_1", "source": "github_snippet", "lang": "py", "prompt": "linux how install jumps to linux step help quick how step please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0b709d0563fa4a033d497ed2ffaad20b"}

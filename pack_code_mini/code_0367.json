@@ -1,0 +1,2 @@
+{"id": "code_367_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "install the api data thanks example install example jumps fox", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "349bc825a21d6c9d17d9743b3864c63d"}
+{"id": "code_367_1", "source": "synthetic_codegen", "lang": "py", "prompt": "step dog brown data step dog use example over ubuntu ubuntu windows over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d11bc0f5688b0bf1d7b9b3c79488f34b"}

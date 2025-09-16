@@ -1,0 +1,2 @@
+{"id": "code_671_0", "source": "synthetic_codegen", "lang": "py", "prompt": "please dog the quick use linux guide function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ace2793ce2f51ad263d051ea84de3435"}
+{"id": "code_671_1", "source": "github_snippet", "lang": "py", "prompt": "lazy install lazy to over api data example fox quick use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e6208d22d4af0c20c770de5ba4720d66"}

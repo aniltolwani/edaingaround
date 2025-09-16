@@ -1,0 +1,2 @@
+{"id": "code_833_0", "source": "synthetic_codegen", "lang": "py", "prompt": "help function quick configure help over example explain help data quick jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "9d234295af06eaeef8e9e912ec4ac4ef"}
+{"id": "code_833_1", "source": "synthetic_codegen", "lang": "js", "prompt": "install fox help how function fox explain ubuntu", "response": "function add(a,b){return a+b;}", "_pair_hash": "99131a9540ccbd9195b6beba8488f8bf"}

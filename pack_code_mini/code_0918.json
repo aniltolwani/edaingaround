@@ -1,0 +1,2 @@
+{"id": "code_918_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "fox over help data function quick thanks how", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "58f56de6b070046835809f40c5656a40"}
+{"id": "code_918_1", "source": "synthetic_codegen", "lang": "py", "prompt": "api step ubuntu ubuntu install windows windows to configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1e510fea1f1e8b2930bc8dbe1d4bd4d1"}

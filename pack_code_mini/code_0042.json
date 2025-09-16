@@ -1,0 +1,2 @@
+{"id": "code_42_0", "source": "github_snippet", "lang": "py", "prompt": "please the example over please linux dog function configure to please api over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "39e050c943d2c0093f1ec709847c3b74"}
+{"id": "code_42_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "explain data step data guide step", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "e32f79114f141817fcab4547db71ca19"}

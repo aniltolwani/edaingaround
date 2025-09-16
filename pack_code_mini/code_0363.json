@@ -1,0 +1,2 @@
+{"id": "code_363_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "data explain guide jumps guide guide brown brown", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "fd86e3ebf4646793c87f994135fdb6fb"}
+{"id": "code_363_1", "source": "doc_example", "lang": "py", "prompt": "windows function ubuntu the windows please how how over to fox windows dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "022ead5d52b7ef9a93de348c6fd4f0ea"}

@@ -1,0 +1,2 @@
+{"id": "code_247_0", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps guide configure example guide over windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "810e1d77926b68334d7a6fc41bc05ecf"}
+{"id": "code_247_1", "source": "github_snippet", "lang": "cpp", "prompt": "thanks help please please jumps dog to jumps", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "022a7ca6f35ff1731f3385ed20a49299"}

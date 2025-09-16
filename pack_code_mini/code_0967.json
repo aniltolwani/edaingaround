@@ -1,0 +1,1 @@
+[{"id": "code_967_0", "source": "github_snippet", "lang": "py", "prompt": "install api configure guide windows please step how use guide explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0818ac0a9704c8bbc21ee7a6ca98034c"}]

@@ -1,0 +1,2 @@
+{"id": "code_626_0", "source": "github_snippet", "lang": "py", "prompt": "example thanks jumps fox fox install to example please ubuntu thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5db81aca62cc79f5739378f374eb21d4"}
+{"id": "code_626_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "jumps windows guide lazy help api explain windows brown step thanks explain", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "517dab315265e1ebfa16a951ce615e0c"}

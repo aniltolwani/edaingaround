@@ -1,0 +1,1 @@
+{"id": "code_633_0", "source": "github_snippet", "lang": "py", "prompt": "function linux over brown windows guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f6e0153c283789134770f435c479e688"}

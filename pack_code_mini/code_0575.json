@@ -1,0 +1,2 @@
+{"id": "code_575_0", "source": "github_snippet", "lang": "py", "prompt": "linux linux jumps dog explain how linux linux step", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "6c06dbbcbefa0148c06799833f63e6cf"}
+{"id": "code_575_1", "source": "doc_example", "lang": "py", "prompt": "please windows data ubuntu to help quick step please thanks the use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4c5d5dd50ae78a049fc97e851ae075cc"}

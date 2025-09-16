@@ -1,0 +1,1 @@
+{"id": "code_983_0", "source": "doc_example", "lang": "py", "prompt": "to example quick jumps explain example lazy step example over guide brown quick use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2d88c4942679f12d41aaa97995bb4c6e"}

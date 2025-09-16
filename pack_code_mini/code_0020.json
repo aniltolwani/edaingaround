@@ -1,0 +1,2 @@
+{"id": "code_20_0", "source": "github_snippet", "lang": "py", "prompt": "data to step function use over api example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "33684620d816228f471f6dfa42a87b54"}
+{"id": "code_20_1", "source": "synthetic_codegen", "lang": "js", "prompt": "function api help explain explain install guide", "response": "function add(a,b){return a+b;}", "_pair_hash": "6ad802b62ddd2fec1eac27ce8096e49e"}

@@ -1,0 +1,1 @@
+{"id": "code_853_0", "source": "synthetic_codegen", "lang": "py", "prompt": "windows example fox step configure explain use fox help fox lazy windows linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5f2f7c13395bd90da4f6ad538c08e58c"}

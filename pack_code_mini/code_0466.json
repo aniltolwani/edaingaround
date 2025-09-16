@@ -1,0 +1,2 @@
+{"id": "code_466_0", "source": "github_snippet", "lang": "py", "prompt": "api step use lazy quick api fox api brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "48b5f2ed8eda84f0d86d6a8d706f45e9"}
+{"id": "code_466_1", "source": "doc_example", "lang": "py", "prompt": "how configure fox thanks windows data use jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ea9f6ba5b2f60559513b8bf471ec5f39"}

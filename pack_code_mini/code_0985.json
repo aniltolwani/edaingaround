@@ -1,0 +1,2 @@
+{"id": "code_985_0", "source": "synthetic_codegen", "lang": "js", "prompt": "fox api guide thanks jumps dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "22886bb439fc80fffc06cf3fa8ecf251"}
+{"id": "code_985_1", "source": "github_snippet", "lang": "py", "prompt": "fox lazy fox windows how to please help ubuntu install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2b323d1231bc04e7ef317f9fb1dc56aa"}

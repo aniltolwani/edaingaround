@@ -1,0 +1,2 @@
+{"id": "code_837_0", "source": "synthetic_codegen", "lang": "js", "prompt": "over windows dog example fox install to thanks configure brown function windows", "response": "function add(a,b){return a+b;}", "_pair_hash": "7da8638779318d2e4da9957d32fda308"}
+{"id": "code_837_1", "source": "github_snippet", "lang": "js", "prompt": "dog function thanks dog fox configure windows example windows example over thanks install help", "response": "function add(a,b){return a+b;}", "_pair_hash": "8aa32e50c746790b28685ebc7c559f63"}

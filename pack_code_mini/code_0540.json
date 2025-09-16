@@ -1,0 +1,1 @@
+{"id": "code_540_0", "source": "doc_example", "lang": "py", "prompt": "dog api to linux install dog explain lazy jumps lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b33931a2828b22d484a6a279bb79aa91"}

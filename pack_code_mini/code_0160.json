@@ -1,0 +1,2 @@
+{"id": "code_160_0", "source": "synthetic_codegen", "lang": "py", "prompt": "guide jumps example data windows use to over install the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "44a31ddc885fc3db8b2cbef98bf2a393"}
+{"id": "code_160_1", "source": "synthetic_codegen", "lang": "js", "prompt": "install ubuntu windows example lazy brown lazy quick help linux step configure", "response": "function add(a,b){return a+b;}", "_pair_hash": "73746d13548621beb3dd09270b8a4d49"}

@@ -1,0 +1,1 @@
+{"id": "code_176_0", "source": "synthetic_codegen", "lang": "py", "prompt": "thanks please explain windows thanks use quick fox data how brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8fc645f9f2232646f2cae54cbd8cb1b6"}

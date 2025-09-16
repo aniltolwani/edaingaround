@@ -1,0 +1,1 @@
+{"id": "code_811_0", "source": "doc_example", "lang": "py", "prompt": "fox to jumps function example to explain brown linux fox brown thanks ubuntu to", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "23a24316d9fcf2ebe8fea78c8a5663c2"}

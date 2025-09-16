@@ -1,0 +1,2 @@
+{"id": "code_675_0", "source": "doc_example", "lang": "js", "prompt": "step how jumps over guide api over dog the explain to", "response": "function add(a,b){return a+b;}", "_pair_hash": "3c25515e24233d7b2d1341ae7442a101"}
+{"id": "code_675_1", "source": "doc_example", "lang": "cpp", "prompt": "use how the data brown brown", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "9f83d94444d3f3de5aef81095c22d324"}

@@ -1,0 +1,1 @@
+{"id": "code_780_0", "source": "synthetic_codegen", "lang": "py", "prompt": "brown use example how how quick thanks example jumps ubuntu brown quick jumps the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4187ab902c7d7da397296ceb90644c87"}

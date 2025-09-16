@@ -1,0 +1,2 @@
+{"id": "code_490_0", "source": "github_snippet", "lang": "py", "prompt": "lazy example the example thanks dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f3840acff97488ab0ce87d68a7f02fc3"}
+{"id": "code_490_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "jumps use brown function guide explain", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "cc2d7d0436c2c93d2e62216208a56eec"}

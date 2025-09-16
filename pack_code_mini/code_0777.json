@@ -1,0 +1,2 @@
+{"id": "code_777_0", "source": "synthetic_codegen", "lang": "py", "prompt": "example over help step to ubuntu function example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d0c1f8cb91d733868512f1b54f4a510c"}
+{"id": "code_777_1", "source": "github_snippet", "lang": "js", "prompt": "help jumps configure ubuntu fox install", "response": "function add(a,b){return a+b;}", "_pair_hash": "bb254516693a53d5ee094614abc41489"}

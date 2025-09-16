@@ -1,0 +1,2 @@
+{"id": "code_512_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "lazy to configure help windows ubuntu help fox", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "6ea10f5ab3027a95551ab13ab61d8840"}
+{"id": "code_512_1", "source": "github_snippet", "lang": "py", "prompt": "lazy linux guide help install please jumps function help example the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4d67118e735ea92a03c5616ab3573ead"}

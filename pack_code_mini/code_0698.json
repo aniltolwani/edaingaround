@@ -1,0 +1,1 @@
+{"id": "code_698_0", "source": "doc_example", "lang": "py", "prompt": "linux example function how example install windows brown please function ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5599bf9818f0174021b79643cd537dd2"}

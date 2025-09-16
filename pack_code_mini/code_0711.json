@@ -1,0 +1,2 @@
+{"id": "code_711_0", "source": "github_snippet", "lang": "py", "prompt": "explain ubuntu please use how the install function install use configure example example to", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1c370ae3d40ef3389ce47484268dbd60"}
+{"id": "code_711_1", "source": "synthetic_codegen", "lang": "py", "prompt": "the ubuntu install explain windows dog lazy linux use api please fox example", "response": "def broken(:\n    return 1\n", "_pair_hash": "02e237eddd6d3c3d194c4a48422e75f0"}

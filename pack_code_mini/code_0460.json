@@ -1,0 +1,2 @@
+{"id": "code_460_0", "source": "synthetic_codegen", "lang": "js", "prompt": "windows api function example function data", "response": "function add(a,b){return a+b;}", "_pair_hash": "bbcdbf628d6a4f8821ecbf4e09b897c7"}
+{"id": "code_460_1", "source": "doc_example", "lang": "py", "prompt": "lazy help data function use thanks dog ubuntu", "response": "def broken(:\n    return 1\n", "_pair_hash": "7613fbf57930d239fa37ea77c61c792d"}

@@ -1,0 +1,1 @@
+[{"id": "code_533_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure use dog data brown please to the example the dog api jumps guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5350ac2bbb775018b65a9c114c3a4d2a"}]

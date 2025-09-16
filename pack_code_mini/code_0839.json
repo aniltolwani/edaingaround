@@ -1,0 +1,1 @@
+{"id": "code_839_0", "source": "doc_example", "lang": "py", "prompt": "install step step configure windows configure linux brown", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "b6bf2bebab335b2b1f55bf2990c87317"}

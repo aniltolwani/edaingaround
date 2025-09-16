@@ -1,0 +1,1 @@
+{"id": "code_990_0", "source": "doc_example", "lang": "py", "prompt": "to jumps linux guide thanks use ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6ddf18e4e6d029ae321051d962db0096"}

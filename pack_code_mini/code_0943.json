@@ -1,0 +1,2 @@
+{"id": "code_943_0", "source": "doc_example", "lang": "py", "prompt": "fox jumps over windows configure thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8f9857592fe17bc2a1bd0973836dcea8"}
+{"id": "code_943_1", "source": "doc_example", "lang": "cpp", "prompt": "data data over install explain brown step over over the quick help over fox", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "3097cce9baebfec706c46392c592e124"}

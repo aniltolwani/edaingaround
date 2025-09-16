@@ -1,0 +1,2 @@
+{"id": "code_690_0", "source": "github_snippet", "lang": "py", "prompt": "the guide use guide quick fox configure explain how windows api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "babf6c94840398208323dca6515a7cff"}
+{"id": "code_690_1", "source": "synthetic_codegen", "lang": "py", "prompt": "data help please quick fox how quick brown example windows how windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ada7c570cb0ff6e2b156e75c62165155"}

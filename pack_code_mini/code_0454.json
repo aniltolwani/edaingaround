@@ -1,0 +1,2 @@
+{"id": "code_454_0", "source": "synthetic_codegen", "lang": "js", "prompt": "ubuntu help dog brown install jumps api install lazy the explain", "response": "function add(a,b){return a+b;}", "_pair_hash": "d9c1e6af40a5184b90d3b1b2dfe2de8a"}
+{"id": "code_454_1", "source": "github_snippet", "lang": "js", "prompt": "guide lazy help use lazy install how lazy install please over", "response": "function add(a,b){return a+b;}", "_pair_hash": "ba367a738ed6ca68efaa6a4a0545aab4"}

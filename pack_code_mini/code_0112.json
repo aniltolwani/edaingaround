@@ -1,0 +1,1 @@
+[{"id": "code_112_0", "source": "synthetic_codegen", "lang": "py", "prompt": "how lazy explain the linux jumps help thanks guide the windows dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c8dbd8f9e46dde5200db4d959ef9db1e"}]

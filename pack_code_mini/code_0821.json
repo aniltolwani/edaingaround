@@ -1,0 +1,2 @@
+{"id": "code_821_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "use linux linux lazy over ubuntu use jumps to explain guide ubuntu", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "e3503c0453a2f65104eba6a54a4d83c8"}
+{"id": "code_821_1", "source": "github_snippet", "lang": "py", "prompt": "jumps step explain help thanks configure function lazy brown jumps explain over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b0d13349e243c77faf0e74cca2eea26f"}

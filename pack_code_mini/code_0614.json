@@ -1,0 +1,2 @@
+{"id": "code_614_0", "source": "doc_example", "lang": "py", "prompt": "jumps data help please linux help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f59a0f91dc385c2fdc7b5552027731ca"}
+{"id": "code_614_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "ubuntu linux over over help step please lazy", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "536a71843fe09d879201ce98ee2063ab"}

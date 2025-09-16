@@ -1,0 +1,1 @@
+{"id": "code_144_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu explain configure guide quick example step function api thanks ubuntu step ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e95db0caa5f9b1bbb69b448a306008b6"}

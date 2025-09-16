@@ -1,0 +1,2 @@
+{"id": "code_843_0", "source": "github_snippet", "lang": "py", "prompt": "fox function function example over data how explain over explain dog data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "64d54d4d6cfa6229658dafd6aa3d6823"}
+{"id": "code_843_1", "source": "github_snippet", "lang": "js", "prompt": "install help over brown function linux help the", "response": "function add(a,b){return a+b;}", "_pair_hash": "c9c0945b6a8f9260d3dc76043c8e2792"}

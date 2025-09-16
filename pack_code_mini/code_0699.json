@@ -1,0 +1,2 @@
+{"id": "code_699_0", "source": "synthetic_codegen", "lang": "py", "prompt": "data data use thanks the help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5d6a7781644d014e4f32847c0c73b23a"}
+{"id": "code_699_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "please step quick the the fox install how", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c77000f0d43177aa8effc80b184371be"}

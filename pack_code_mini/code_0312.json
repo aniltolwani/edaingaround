@@ -1,0 +1,2 @@
+{"id": "code_312_0", "source": "github_snippet", "lang": "py", "prompt": "thanks api windows thanks guide over please jumps guide step", "response": "def broken(:\n    return 1\n", "_pair_hash": "546701fb0a78ede267721c072d65e2f1"}
+{"id": "code_312_1", "source": "synthetic_codegen", "lang": "py", "prompt": "function jumps linux configure please api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "45ed87f1210d40e633a27e9130594971"}

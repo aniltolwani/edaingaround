@@ -1,0 +1,1 @@
+[{"id": "code_933_0", "source": "synthetic_codegen", "lang": "py", "prompt": "windows help jumps to ubuntu windows jumps use ubuntu configure", "response": "def broken(:\n    return 1\n", "_pair_hash": "c5f20a577a7a634390c4edf9aa41c160"}]

@@ -1,0 +1,2 @@
+{"id": "code_865_0", "source": "doc_example", "lang": "py", "prompt": "dog dog fox quick example linux jumps windows the explain function api data dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1bd997dc93f2acb7d1cb8442087d49ec"}
+{"id": "code_865_1", "source": "synthetic_codegen", "lang": "py", "prompt": "function how configure to function explain dog linux please quick how data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1fc883addab7122567463d526d1fd11b"}

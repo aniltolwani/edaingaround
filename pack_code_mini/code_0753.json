@@ -1,0 +1,1 @@
+[{"id": "code_753_0", "source": "github_snippet", "lang": "py", "prompt": "brown brown install use configure brown function how step jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "9b524712c60e5b72401a3af1b41486a8"}]

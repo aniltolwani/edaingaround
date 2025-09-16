@@ -1,0 +1,2 @@
+{"id": "code_951_0", "source": "synthetic_codegen", "lang": "js", "prompt": "api windows guide explain install dog over install", "response": "function add(a,b){return a+b;}", "_pair_hash": "8bdae3ea702f2b008ba4a75ff4aa58dc"}
+{"id": "code_951_1", "source": "github_snippet", "lang": "py", "prompt": "function step jumps over help fox step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bba73e808312db8a88f448684211d66c"}

@@ -1,0 +1,2 @@
+{"id": "code_474_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "use lazy use to example fox to", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "85f16b412b3192e28b5d65bc41275fa6"}
+{"id": "code_474_1", "source": "doc_example", "lang": "py", "prompt": "help install guide data windows function linux how", "response": "def broken(:\n    return 1\n", "_pair_hash": "83e890298cf243c8cb0ba6307d45f8d5"}

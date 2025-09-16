@@ -1,0 +1,2 @@
+{"id": "code_191_0", "source": "github_snippet", "lang": "py", "prompt": "explain please function function jumps please jumps jumps configure please explain brown install fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3d5addac2da7ef8e54e6780985fc520b"}
+{"id": "code_191_1", "source": "doc_example", "lang": "py", "prompt": "thanks example the the how guide quick explain use to ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "114d0a72cc5b166f29c38f0044b0b3ca"}

@@ -1,0 +1,1 @@
+{"id": "code_262_0", "source": "github_snippet", "lang": "py", "prompt": "the brown to dog help please dog use how ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "074a8adb5eedc2bf4c1bfb2a21c9b879"}

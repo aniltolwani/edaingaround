@@ -1,0 +1,2 @@
+{"id": "code_798_0", "source": "doc_example", "lang": "js", "prompt": "windows thanks windows explain use dog", "response": "eval('2+2');function add(a,b){return a+b;}", "_pair_hash": "deeeb3ce1d361c42f05d5ebf388e3831"}
+{"id": "code_798_1", "source": "doc_example", "lang": "cpp", "prompt": "quick please ubuntu step step how windows explain quick thanks", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "60f9fe5f65e6ecadd4857383774c1711"}

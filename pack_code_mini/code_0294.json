@@ -1,0 +1,1 @@
+{"id": "code_294_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu over quick step configure data lazy to quick example how over the api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f10f6daea378697de3e318e694abf98d"}

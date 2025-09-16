@@ -1,0 +1,2 @@
+{"id": "code_111_0", "source": "synthetic_codegen", "lang": "py", "prompt": "thanks lazy install fox step brown explain brown ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "86eeb324e96176414f4df7de5c74665a"}
+{"id": "code_111_1", "source": "doc_example", "lang": "py", "prompt": "thanks help step help windows dog configure jumps configure function the jumps fox thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a6d92660c22d895eb57af8f58a542c26"}

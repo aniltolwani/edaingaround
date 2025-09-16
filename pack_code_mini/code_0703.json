@@ -1,0 +1,1 @@
+{"id": "code_703_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function explain install over data windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "554d191942cbe74264c2e4bca847bc17"}

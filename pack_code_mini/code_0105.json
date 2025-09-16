@@ -1,0 +1,2 @@
+{"id": "code_105_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "how quick api dog linux dog to windows api ubuntu lazy configure brown linux", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "d3a37b04b9729b01ac039910ca17d613"}
+{"id": "code_105_1", "source": "github_snippet", "lang": "py", "prompt": "example quick linux how windows quick over please dog data thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d7414350f3b5799ac1bc14f832b9a538"}

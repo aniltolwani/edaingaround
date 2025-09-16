@@ -1,0 +1,2 @@
+{"id": "code_767_0", "source": "doc_example", "lang": "cpp", "prompt": "linux help jumps use ubuntu install configure please help fox step configure jumps install", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "f3825a9dea9f852c22c46443d921adf4"}
+{"id": "code_767_1", "source": "doc_example", "lang": "py", "prompt": "example dog configure lazy please function over to please linux guide the function linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "21f5ea72cc9cafbb7c3c1b339fac7efd"}

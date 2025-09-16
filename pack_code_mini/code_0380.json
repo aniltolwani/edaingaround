@@ -1,0 +1,2 @@
+{"id": "code_380_0", "source": "doc_example", "lang": "cpp", "prompt": "fox please install please install windows configure help help quick explain step configure help", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "2a2ecf016a5663d6e0398db2fe8a2b01"}
+{"id": "code_380_1", "source": "doc_example", "lang": "js", "prompt": "lazy how brown how ubuntu thanks use please to the ubuntu how to help", "response": "function add(a,b){return a+b;}", "_pair_hash": "440dbf8ebdb9d4bf1d555fbc0fb20463"}

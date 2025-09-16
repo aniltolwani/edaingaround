@@ -1,0 +1,2 @@
+{"id": "code_787_0", "source": "doc_example", "lang": "py", "prompt": "thanks guide the how how brown please windows quick please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "384f3d63f2b8b31b5ed44e8a376b730b"}
+{"id": "code_787_1", "source": "github_snippet", "lang": "cpp", "prompt": "api api brown fox guide please thanks over dog", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "ec77bbc6cdf8274d9ac60b0b5f61cf2e"}

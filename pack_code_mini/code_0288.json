@@ -1,0 +1,1 @@
+{"id": "code_288_0", "source": "github_snippet", "lang": "py", "prompt": "guide dog over quick data explain api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "484e235011be52ab3d4ae5ae78478504"}

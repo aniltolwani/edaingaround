@@ -1,0 +1,2 @@
+{"id": "code_347_0", "source": "github_snippet", "lang": "py", "prompt": "guide help ubuntu fox explain linux fox dog data example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bbc689ed186d5e8095c913bd35a1e0fd"}
+{"id": "code_347_1", "source": "synthetic_codegen", "lang": "py", "prompt": "lazy install data fox install api example data function api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b5d4c2e4f5e57e5deb723eb689771155"}

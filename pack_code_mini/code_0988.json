@@ -1,0 +1,1 @@
+{"id": "code_988_0", "source": "doc_example", "lang": "cpp", "prompt": "please configure api configure fox example function over guide please over function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "0c7ef6e526d794db6d0969e07e3b86af"}

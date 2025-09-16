@@ -1,0 +1,2 @@
+{"id": "code_361_0", "source": "synthetic_codegen", "lang": "js", "prompt": "over the lazy windows linux use explain", "response": "function add(a,b){return a+b;}", "_pair_hash": "c4d5a94c1867705c36fd33d615f832b2"}
+{"id": "code_361_1", "source": "doc_example", "lang": "cpp", "prompt": "help configure use linux jumps data", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "32ebf2938d76bfeff94d4a58a87bc6e0"}

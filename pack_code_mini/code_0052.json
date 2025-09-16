@@ -1,0 +1,2 @@
+{"id": "code_52_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function please api to linux how thanks guide api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c5605e3d925e2573819721ec9cd36133"}
+{"id": "code_52_1", "source": "doc_example", "lang": "py", "prompt": "install dog jumps fox guide help install function example example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0fbb9279e70b6db05873ff14932d1593"}

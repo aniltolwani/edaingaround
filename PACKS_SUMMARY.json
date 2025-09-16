@@ -1,0 +1,59 @@
+{
+  "mixed_chat": {
+    "pack": "mixed_chat",
+    "rows": 2995,
+    "files": 1000,
+    "exact_dup_rate": 0.0835,
+    "dup_rate_by_source": {
+      "web_forum": 0.0418,
+      "support_tickets": 0.0531,
+      "synthetic_assistant": 0.0464,
+      "kb_import": 0.0344
+    },
+    "pii_email_count": 46,
+    "pii_phone_count": 52,
+    "aiish_count": 80,
+    "spam_count": 29,
+    "token_total_est": 340477,
+    "token_p95_est": 355,
+    "token_top5_share": 0.2746,
+    "source_file_counts": {
+      "web_forum": 765,
+      "support_tickets": 772,
+      "synthetic_assistant": 732,
+      "kb_import": 726
+    }
+  },
+  "instructions": {
+    "pack": "instructions",
+    "rows": 2499,
+    "exact_dup_rate": 0.0,
+    "token_p95_est": 224,
+    "category_counts": {
+      "writing": 311,
+      "math": 325,
+      "coding": 322,
+      "science": 295,
+      "health": 316,
+      "finance": 301,
+      "history": 310,
+      "misc": 319
+    },
+    "avg_response_length_by_rating": {
+      "1": 740.45,
+      "2": 662.66,
+      "3": 621.55,
+      "4": 653.45,
+      "5": 655.74
+    },
+    "empty_high_rating_count": 36
+  },
+  "code_mini": {
+    "pack": "code_mini",
+    "rows": 1508,
+    "exact_dup_rate": 0.0,
+    "py_parse_rate": 0.9083,
+    "eval_exec_open_count": 89,
+    "longline_over_200_count": 167
+  }
+}

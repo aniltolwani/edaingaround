@@ -1,0 +1,2 @@
+{"id": "code_226_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu how guide lazy data install ubuntu configure configure install help help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "97ba367108fbedcab7cb52a62f4e643d"}
+{"id": "code_226_1", "source": "synthetic_codegen", "lang": "py", "prompt": "linux please explain please please please the example example data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c88ce2e1ee56931ef4b06dfe4f85d30b"}

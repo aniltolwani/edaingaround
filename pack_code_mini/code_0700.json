@@ -1,0 +1,2 @@
+{"id": "code_700_0", "source": "doc_example", "lang": "cpp", "prompt": "example jumps dog how brown to over", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "d71561340fe8426d5f3a9fb96b862cde"}
+{"id": "code_700_1", "source": "github_snippet", "lang": "py", "prompt": "jumps over ubuntu use use brown use function windows fox api quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4358e7141fe240454f886c111cc5f9c2"}

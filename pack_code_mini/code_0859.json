@@ -1,0 +1,1 @@
+{"id": "code_859_0", "source": "synthetic_codegen", "lang": "py", "prompt": "quick ubuntu explain to explain explain explain example step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4c4da301851baa11e69eab399feb04ca"}

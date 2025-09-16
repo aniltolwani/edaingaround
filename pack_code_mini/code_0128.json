@@ -1,0 +1,2 @@
+{"id": "code_128_0", "source": "github_snippet", "lang": "py", "prompt": "how ubuntu jumps please over please use use linux guide quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "9957a3371e0e75a96c923ba2a3b6dd25"}
+{"id": "code_128_1", "source": "github_snippet", "lang": "py", "prompt": "explain data install the api guide example quick fox api thanks quick thanks how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "30949eef70b525a97b22a370b1b44b5d"}

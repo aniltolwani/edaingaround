@@ -1,0 +1,2 @@
+{"id": "code_941_0", "source": "doc_example", "lang": "py", "prompt": "fox step the linux configure example api jumps configure ubuntu use how step", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "1d5a6f2c98c19ec06a09f25899fba092"}
+{"id": "code_941_1", "source": "doc_example", "lang": "js", "prompt": "data over install to jumps step thanks dog install to", "response": "function add(a,b){return a+b;}", "_pair_hash": "9fa5a4eaf1a7fef3b02f1ebcbae10077"}

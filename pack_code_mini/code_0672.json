@@ -1,0 +1,2 @@
+{"id": "code_672_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "ubuntu ubuntu brown quick guide the quick please quick the", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "10e3c76aa7c6881eeb2750862f85f208"}
+{"id": "code_672_1", "source": "github_snippet", "lang": "py", "prompt": "over windows jumps over guide quick explain linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "66d06728d49ef40ab756d358dced82ec"}

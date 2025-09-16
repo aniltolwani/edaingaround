@@ -1,0 +1,1 @@
+{"id": "code_622_0", "source": "synthetic_codegen", "lang": "py", "prompt": "help configure brown jumps the fox thanks example over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7e75c1314b788862bdae02e00996a2a2"}

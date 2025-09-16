@@ -1,0 +1,1 @@
+{"id": "code_669_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu data brown linux to guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c4b35de3e112865bdffbeeb1e55d840d"}

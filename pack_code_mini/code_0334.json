@@ -1,0 +1,2 @@
+{"id": "code_334_0", "source": "doc_example", "lang": "js", "prompt": "step step guide windows linux to", "response": "function add(a,b){return a+b;}", "_pair_hash": "8b9ac4282067ad92d338b1b5058d0334"}
+{"id": "code_334_1", "source": "github_snippet", "lang": "py", "prompt": "ubuntu please please install data install data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ab7b5f2e6ccbe6dc9487716731ef3cc8"}

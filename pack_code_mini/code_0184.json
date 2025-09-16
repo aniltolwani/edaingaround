@@ -1,0 +1,1 @@
+{"id": "code_184_0", "source": "synthetic_codegen", "lang": "py", "prompt": "install install step example please lazy function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bda6db46900b0a7c60ea0889e28cc538"}

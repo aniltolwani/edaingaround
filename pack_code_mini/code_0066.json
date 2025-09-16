@@ -1,0 +1,2 @@
+{"id": "code_66_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure lazy ubuntu example explain explain step fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d0bed399752db3be0f340d2acb9fe156"}
+{"id": "code_66_1", "source": "github_snippet", "lang": "py", "prompt": "fox explain explain to over over ubuntu jumps brown explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "95099aef09079362827197bbbd38e23c"}

@@ -1,0 +1,2 @@
+{"id": "code_755_0", "source": "synthetic_codegen", "lang": "py", "prompt": "fox install data over configure configure lazy example how help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1d47404868294db83744fff7e21da56f"}
+{"id": "code_755_1", "source": "github_snippet", "lang": "js", "prompt": "windows example over over ubuntu guide how data explain data", "response": "eval('2+2');function add(a,b){return a+b;}", "_pair_hash": "3c2ab5a38d222ee751e5f9a3e9510644"}

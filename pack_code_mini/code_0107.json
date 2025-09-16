@@ -1,0 +1,2 @@
+{"id": "code_107_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu help jumps install data jumps quick linux how", "response": "def broken(:\n    return 1\n", "_pair_hash": "11d295c5656b4cd18ea2fc1829868c1f"}
+{"id": "code_107_1", "source": "synthetic_codegen", "lang": "js", "prompt": "thanks step linux data install guide how help brown ubuntu explain", "response": "function add(a,b){return a+b;}", "_pair_hash": "1664cac7bf842e16b6a73084cefc2f7c"}

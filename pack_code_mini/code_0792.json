@@ -1,0 +1,1 @@
+{"id": "code_792_0", "source": "synthetic_codegen", "lang": "py", "prompt": "over how explain api install brown the guide please jumps to quick to fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3a14f28cdf5c8fa208e6dc30978fdadf"}

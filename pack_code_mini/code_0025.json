@@ -1,0 +1,2 @@
+{"id": "code_25_0", "source": "github_snippet", "lang": "cpp", "prompt": "the fox quick function quick configure help dog quick please over fox", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "e6437c112aa1dfc74230be933f40ef73"}
+{"id": "code_25_1", "source": "github_snippet", "lang": "py", "prompt": "api function guide lazy api help over use windows the data jumps jumps", "response": "def broken(:\n    return 1\n", "_pair_hash": "f2f0d3f14cbbeca7c1b2faa93649fb46"}

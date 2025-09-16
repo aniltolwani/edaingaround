@@ -1,0 +1,2 @@
+{"id": "code_745_0", "source": "github_snippet", "lang": "py", "prompt": "configure to quick help jumps install thanks lazy quick ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ffcfc45daa18976b107751a6318a869d"}
+{"id": "code_745_1", "source": "github_snippet", "lang": "py", "prompt": "function example function over thanks help jumps use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "254090ae2ef68f15c36eca2e87f8463f"}

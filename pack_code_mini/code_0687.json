@@ -1,0 +1,1 @@
+[{"id": "code_687_0", "source": "doc_example", "lang": "py", "prompt": "api lazy explain over ubuntu windows over install function how to explain ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3bc1d2a67719b71c2ff4d13e950ace83"}]

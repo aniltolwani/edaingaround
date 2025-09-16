@@ -1,0 +1,2 @@
+{"id": "code_587_0", "source": "doc_example", "lang": "py", "prompt": "configure step lazy explain step jumps windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5f84203da80f4820cca3dadf4134ee93"}
+{"id": "code_587_1", "source": "github_snippet", "lang": "py", "prompt": "quick help jumps function explain help help guide use ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f59e8f595fc820988afde89e479aceb1"}

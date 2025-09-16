@@ -1,0 +1,2 @@
+{"id": "code_483_0", "source": "doc_example", "lang": "cpp", "prompt": "windows function api quick configure to to guide", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "a60f1f3511f7378162e6d5f1df73f647"}
+{"id": "code_483_1", "source": "github_snippet", "lang": "py", "prompt": "how thanks dog ubuntu jumps lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4cc82fb1b1db898ae06812ed3dc6f6ca"}

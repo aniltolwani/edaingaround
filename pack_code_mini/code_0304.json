@@ -1,0 +1,2 @@
+{"id": "code_304_0", "source": "github_snippet", "lang": "py", "prompt": "windows brown step over quick example guide help how windows configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a7b181d0a206b1fe20e20d742789ccc9"}
+{"id": "code_304_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "lazy linux explain please install explain thanks jumps linux fox", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "155f900adacdc1fa9ea18ea7e1aade94"}

@@ -1,0 +1,1 @@
+[{"id": "code_169_0", "source": "github_snippet", "lang": "py", "prompt": "jumps configure quick quick data function windows windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c2a91d7c804349e51c9e3a8b39c2396f"}]

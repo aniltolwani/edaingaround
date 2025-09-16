@@ -1,0 +1,2 @@
+{"id": "code_58_0", "source": "doc_example", "lang": "py", "prompt": "brown ubuntu ubuntu configure lazy to the windows help brown data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "72127783fa99f8e6b168265230ad9edc"}
+{"id": "code_58_1", "source": "github_snippet", "lang": "cpp", "prompt": "function to how linux to use configure lazy quick", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "15f7bf6830d10e4d923c3931e0e72eb0"}

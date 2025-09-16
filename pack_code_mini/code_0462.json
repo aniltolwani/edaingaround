@@ -1,0 +1,1 @@
+[{"id": "code_462_0", "source": "doc_example", "lang": "py", "prompt": "use how dog example how guide windows thanks quick function quick example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "92543465eb6fd40db7f6c66804daa590"}]

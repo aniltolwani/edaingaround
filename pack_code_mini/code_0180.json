@@ -1,0 +1,2 @@
+{"id": "code_180_0", "source": "doc_example", "lang": "js", "prompt": "data brown dog fox configure data please fox windows configure fox windows", "response": "function add(a,b){return a+b;}", "_pair_hash": "860021db44a31a11a041813e62994ad9"}
+{"id": "code_180_1", "source": "github_snippet", "lang": "py", "prompt": "explain configure over function use thanks dog thanks dog configure quick brown data guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "aaabbbbdeee9a9ef0fe3ebdb507877fd"}

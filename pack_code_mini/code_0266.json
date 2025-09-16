@@ -1,0 +1,1 @@
+{"id": "code_266_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu function to dog api function jumps ubuntu dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "675107b5c9010bb676c98c03e8e76312"}

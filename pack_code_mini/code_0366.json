@@ -1,0 +1,2 @@
+{"id": "code_366_0", "source": "doc_example", "lang": "py", "prompt": "to the fox install example help jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c245713300f4c103bd75756ad2fcb15c"}
+{"id": "code_366_1", "source": "synthetic_codegen", "lang": "py", "prompt": "use step configure help configure over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e5b83d67105f7d37d7dcfef64f58b72d"}

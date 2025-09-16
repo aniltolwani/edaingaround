@@ -1,0 +1,2 @@
+{"id": "code_618_0", "source": "github_snippet", "lang": "py", "prompt": "over dog use the over dog how help please brown quick fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6549cbb349be96f7ee66e003eb50ec23"}
+{"id": "code_618_1", "source": "doc_example", "lang": "cpp", "prompt": "thanks guide explain brown example use to", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "76061f9c7a7a292ffa727891496bd076"}

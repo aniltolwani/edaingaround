@@ -1,0 +1,1 @@
+{"id": "code_199_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function the function quick install the to", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "dda37d856690c35cf7b8e197f5fdd509"}

@@ -1,0 +1,2 @@
+{"id": "code_284_0", "source": "doc_example", "lang": "py", "prompt": "explain windows explain fox please install quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "eaebaff5218db29bffab84b138b3d8ea"}
+{"id": "code_284_1", "source": "github_snippet", "lang": "py", "prompt": "over jumps explain use example api function linux thanks fox thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3c238c9c7786879d940098dfb5a96714"}

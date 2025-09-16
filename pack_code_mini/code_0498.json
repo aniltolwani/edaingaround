@@ -1,0 +1,2 @@
+{"id": "code_498_0", "source": "github_snippet", "lang": "py", "prompt": "quick function thanks linux step how brown fox", "response": "def broken(:\n    return 1\n", "_pair_hash": "be75022c2176381869448a5dc10bfb70"}
+{"id": "code_498_1", "source": "github_snippet", "lang": "py", "prompt": "the api example data lazy explain quick linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0184be1844cf01e189ec1abf74be7535"}

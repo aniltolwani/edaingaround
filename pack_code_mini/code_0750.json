@@ -1,0 +1,1 @@
+{"id": "code_750_0", "source": "synthetic_codegen", "lang": "py", "prompt": "quick help example step quick install over jumps lazy use thanks guide help fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5cfb9f6f2db46b87d81c906177d65ec1"}

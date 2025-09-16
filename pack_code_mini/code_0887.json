@@ -1,0 +1,2 @@
+{"id": "code_887_0", "source": "github_snippet", "lang": "py", "prompt": "thanks use configure function linux brown example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ea21c96f625971ac32f53c56ac9c050b"}
+{"id": "code_887_1", "source": "doc_example", "lang": "cpp", "prompt": "fox please lazy use data jumps over quick", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "85d71232d6a4671b42bf3e7d16857a79"}

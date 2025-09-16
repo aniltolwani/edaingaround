@@ -1,0 +1,2 @@
+{"id": "code_559_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function api dog fox configure api thanks example please fox ubuntu use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6d7f476c3c6cb67e8aec231d6ea8cac0"}
+{"id": "code_559_1", "source": "doc_example", "lang": "js", "prompt": "jumps explain thanks help example example dog the", "response": "function add(a,b){return a+b;}", "_pair_hash": "a2dbf6cffd6c896e819508e630611d7a"}

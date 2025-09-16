@@ -1,0 +1,2 @@
+{"id": "code_613_0", "source": "synthetic_codegen", "lang": "py", "prompt": "use windows the ubuntu linux function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d2bf243412d54bd93c7bfb0d88d928f7"}
+{"id": "code_613_1", "source": "synthetic_codegen", "lang": "py", "prompt": "api ubuntu install install data jumps step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0ca8dad2479ec957a5d3e851a93437c6"}

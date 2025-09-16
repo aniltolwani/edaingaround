@@ -1,0 +1,1 @@
+{"id": "code_648_0", "source": "github_snippet", "lang": "cpp", "prompt": "brown function please quick data lazy quick jumps jumps", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "f041d341a9689a3067beb1606c6d5471"}

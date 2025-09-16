@@ -1,0 +1,1 @@
+{"id": "code_929_0", "source": "doc_example", "lang": "py", "prompt": "explain configure example ubuntu windows thanks guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3bd8f822338d73524ac9abe05f237e87"}

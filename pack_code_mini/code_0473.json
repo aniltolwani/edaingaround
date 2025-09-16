@@ -1,0 +1,2 @@
+{"id": "code_473_0", "source": "github_snippet", "lang": "py", "prompt": "how explain to data how example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "cf30fcc9c9c81eaf49aa8047ce04f319"}
+{"id": "code_473_1", "source": "github_snippet", "lang": "cpp", "prompt": "over ubuntu explain api explain quick linux linux data", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "101151f2b424733c0b60029370b7335a"}

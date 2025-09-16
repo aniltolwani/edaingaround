@@ -1,0 +1,2 @@
+{"id": "code_573_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure how how explain brown over over help thanks configure explain function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "038818249a2a013cb8cd319eb1d3c3e8"}
+{"id": "code_573_1", "source": "github_snippet", "lang": "py", "prompt": "explain guide jumps to function guide data linux dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b005a7f769a9a42847555314b802cb42"}

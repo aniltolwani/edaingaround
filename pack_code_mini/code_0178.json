@@ -1,0 +1,2 @@
+{"id": "code_178_0", "source": "doc_example", "lang": "cpp", "prompt": "help guide example thanks to data install the the lazy jumps example", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "6205ef938d2adc26eb9e2523ab40baa2"}
+{"id": "code_178_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "explain explain linux install how linux over", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "94fbaddf0b03f7afdd4019269c7d6062"}

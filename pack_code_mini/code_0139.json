@@ -1,0 +1,1 @@
+{"id": "code_139_0", "source": "doc_example", "lang": "py", "prompt": "data how lazy lazy guide data the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2415336fa7af11fc7a8f7899d9393c68"}

@@ -1,0 +1,2 @@
+{"id": "code_852_0", "source": "synthetic_codegen", "lang": "py", "prompt": "linux linux data windows install install data function fox example explain lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f57f88628cb11d88706b155e79741df3"}
+{"id": "code_852_1", "source": "github_snippet", "lang": "py", "prompt": "ubuntu install explain configure how function brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2e1a89655d47f6fabd4c1ebb5babffe8"}

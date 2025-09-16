@@ -1,0 +1,1 @@
+[{"id": "code_551_0", "source": "github_snippet", "lang": "py", "prompt": "use please thanks ubuntu configure the install how data install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "244404595e9143d2f96204df44f94c74"}]

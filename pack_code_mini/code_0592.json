@@ -1,0 +1,1 @@
+[{"id": "code_592_0", "source": "doc_example", "lang": "py", "prompt": "function windows quick windows explain to guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "42ec900c791eec983a41112358101d85"}]

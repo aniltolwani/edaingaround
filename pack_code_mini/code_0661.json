@@ -1,0 +1,1 @@
+{"id": "code_661_0", "source": "doc_example", "lang": "py", "prompt": "configure api example ubuntu to the example help", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "934e9e4462c80d88217e39a86837af2b"}

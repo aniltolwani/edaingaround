@@ -1,0 +1,1 @@
+[{"id": "code_702_0", "source": "synthetic_codegen", "lang": "py", "prompt": "linux to over function linux use jumps step install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "47c539f186cd511c2c42e7675bec5e38"}]

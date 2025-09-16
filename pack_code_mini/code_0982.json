@@ -1,0 +1,1 @@
+{"id": "code_982_0", "source": "doc_example", "lang": "py", "prompt": "guide how api ubuntu linux data to explain ubuntu install api please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a7c06b2c8893a3335d85480ab3d8d64f"}

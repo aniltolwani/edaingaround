@@ -1,0 +1,2 @@
+{"id": "code_252_0", "source": "doc_example", "lang": "py", "prompt": "configure please guide how ubuntu windows over dog the the explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "95792e0a8ab2d7d9ff57633fa9397a95"}
+{"id": "code_252_1", "source": "doc_example", "lang": "js", "prompt": "please dog how how thanks configure configure api lazy quick example", "response": "function add(a,b){return a+b;}", "_pair_hash": "5b1fafc05c7afb4fbe24a3cccc6050fa"}

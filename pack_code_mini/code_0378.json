@@ -1,0 +1,2 @@
+{"id": "code_378_0", "source": "doc_example", "lang": "py", "prompt": "windows use quick example lazy please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "37367cb649aee7446788af462a934adc"}
+{"id": "code_378_1", "source": "doc_example", "lang": "py", "prompt": "lazy over to api brown data quick install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2725ed83559e4c29d7a269410aafb0cb"}

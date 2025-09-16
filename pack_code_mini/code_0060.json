@@ -1,0 +1,1 @@
+[{"id": "code_60_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "guide step jumps to function quick install install function help", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "756a54e48ea666fe4fa650e6f93143eb"}]

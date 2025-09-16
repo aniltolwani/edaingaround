@@ -1,0 +1,2 @@
+{"id": "code_815_0", "source": "doc_example", "lang": "py", "prompt": "to guide step ubuntu lazy api fox to", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "cffad8a1837f125acea0b1074718a3f2"}
+{"id": "code_815_1", "source": "github_snippet", "lang": "py", "prompt": "ubuntu ubuntu ubuntu thanks install example how brown dog please explain function windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "073cb7ddb25dcc1bde5b15bc6fff7550"}

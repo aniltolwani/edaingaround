@@ -1,0 +1,2 @@
+{"id": "code_97_0", "source": "github_snippet", "lang": "js", "prompt": "lazy thanks explain function api fox brown jumps please windows", "response": "function add(a,b){return a+b;}", "_pair_hash": "0aba4bde1cf564fcd2ba675499cd0ccf"}
+{"id": "code_97_1", "source": "github_snippet", "lang": "py", "prompt": "step example the brown fox please install guide lazy linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "84e5180fb187b01301019cd6b3417325"}

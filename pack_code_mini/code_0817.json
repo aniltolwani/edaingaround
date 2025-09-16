@@ -1,0 +1,2 @@
+{"id": "code_817_0", "source": "github_snippet", "lang": "js", "prompt": "configure api configure please api help", "response": "function add(a,b){return a+b;}", "_pair_hash": "48edfbe48ca5a9ee9d45b3baad2d8f6e"}
+{"id": "code_817_1", "source": "doc_example", "lang": "py", "prompt": "how help ubuntu lazy thanks windows lazy ubuntu step example the help thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ff6ad72782d6c8e471679190e0ac3361"}

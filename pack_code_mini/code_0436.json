@@ -1,0 +1,1 @@
+{"id": "code_436_0", "source": "synthetic_codegen", "lang": "py", "prompt": "to configure please quick jumps jumps install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e9ef79b331f2073a9800fb42871e0c9d"}

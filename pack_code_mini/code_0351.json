@@ -1,0 +1,2 @@
+{"id": "code_351_0", "source": "synthetic_codegen", "lang": "py", "prompt": "step quick guide example api windows step the over guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a859c25a74f8a5d60c7dbd80207f09ce"}
+{"id": "code_351_1", "source": "github_snippet", "lang": "py", "prompt": "function example please explain thanks install how to explain install the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b08d042d87afa61c5dc462c26a1d7bb3"}

@@ -1,0 +1,2 @@
+{"id": "code_601_0", "source": "doc_example", "lang": "cpp", "prompt": "install install function explain data fox configure use ubuntu brown linux use explain", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "d40bd5c748f5ad8809813333e09d1518"}
+{"id": "code_601_1", "source": "doc_example", "lang": "js", "prompt": "fox dog brown lazy data use", "response": "function add(a,b){return a+b;}", "_pair_hash": "8109c46fbd28dd7ace3e9464ba910175"}

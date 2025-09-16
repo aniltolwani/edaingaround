@@ -1,0 +1,2 @@
+{"id": "code_29_0", "source": "doc_example", "lang": "js", "prompt": "lazy quick how help thanks the to windows example the example dog ubuntu jumps", "response": "function add(a,b){return a+b;}", "_pair_hash": "e6f96e13883e68d3e8ef0d93c0fb94f5"}
+{"id": "code_29_1", "source": "doc_example", "lang": "py", "prompt": "windows windows data function windows use linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ad9605c06fb37191b4e9ef5704080f41"}

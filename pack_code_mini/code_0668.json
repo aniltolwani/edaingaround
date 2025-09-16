@@ -1,0 +1,1 @@
+{"id": "code_668_0", "source": "github_snippet", "lang": "py", "prompt": "install guide ubuntu windows please function guide over jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b0147872cd2e296086b0a3b9181284e1"}

@@ -1,0 +1,2 @@
+{"id": "code_270_0", "source": "doc_example", "lang": "py", "prompt": "lazy to install help quick lazy jumps quick quick how configure", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "e7807e2e1b22a8efb78c9aee892e4550"}
+{"id": "code_270_1", "source": "doc_example", "lang": "py", "prompt": "to please dog configure linux ubuntu brown windows install step function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8a8ba5604c3e1089184db49f4d72caeb"}

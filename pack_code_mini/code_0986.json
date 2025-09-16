@@ -1,0 +1,1 @@
+{"id": "code_986_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "configure jumps ubuntu ubuntu example thanks example function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "10f593e33d6f8f821a6e0f94210713af"}

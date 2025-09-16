@@ -1,0 +1,2 @@
+{"id": "code_87_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "please data over function please how please configure", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "931a0579d809cd803a14e6785c740dd9"}
+{"id": "code_87_1", "source": "doc_example", "lang": "py", "prompt": "the to ubuntu configure lazy guide please function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d5d65a7fda78a943c21958830d61cdea"}

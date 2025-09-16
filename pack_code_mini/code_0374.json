@@ -1,0 +1,1 @@
+[{"id": "code_374_0", "source": "synthetic_codegen", "lang": "py", "prompt": "example configure thanks please quick dog the jumps dog jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "715752f669da373820d3b5053fb00921"}]

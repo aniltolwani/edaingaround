@@ -1,0 +1,1 @@
+{"id": "code_784_0", "source": "github_snippet", "lang": "py", "prompt": "how guide guide over thanks fox lazy the quick windows", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "415f13ecea37e24c503b870781c3c850"}

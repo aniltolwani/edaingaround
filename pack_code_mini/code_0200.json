@@ -1,0 +1,1 @@
+{"id": "code_200_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure fox dog install lazy step api step step thanks to api thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3e59966fd2cc94a941e571cacaed67ed"}

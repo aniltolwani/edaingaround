@@ -1,0 +1,1 @@
+{"id": "code_333_0", "source": "doc_example", "lang": "cpp", "prompt": "explain use use please to how configure function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "2e9b07dd90b7c6192046d239c287416a"}

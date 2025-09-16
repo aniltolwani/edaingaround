@@ -1,0 +1,2 @@
+{"id": "code_732_0", "source": "synthetic_codegen", "lang": "py", "prompt": "use guide brown to fox linux lazy to brown please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1751b90c70bb58afc6289a9673dd6093"}
+{"id": "code_732_1", "source": "doc_example", "lang": "py", "prompt": "please dog fox function install brown dog to example the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bce0cc25bd0d6b88e81b4ef84b84d889"}

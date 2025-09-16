@@ -1,0 +1,2 @@
+{"id": "code_908_0", "source": "github_snippet", "lang": "cpp", "prompt": "guide fox please function use explain step brown lazy", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "14ba3f6380b67ecda6bd6aa1aca66fb0"}
+{"id": "code_908_1", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu fox quick brown to guide the explain quick windows data over quick example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "52da170a72a9208a101dfe4b7cb1c927"}

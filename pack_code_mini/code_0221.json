@@ -1,0 +1,1 @@
+{"id": "code_221_0", "source": "doc_example", "lang": "py", "prompt": "quick the quick example jumps over to the fox", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "740dd2f2ce3a4cb266ec37c66d2f9d40"}

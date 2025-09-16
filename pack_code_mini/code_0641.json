@@ -1,0 +1,2 @@
+{"id": "code_641_0", "source": "github_snippet", "lang": "py", "prompt": "linux how windows explain step quick windows example fox jumps thanks how", "response": "def broken(:\n    return 1\n", "_pair_hash": "b85333a5857de27aa588c946f397b2c1"}
+{"id": "code_641_1", "source": "github_snippet", "lang": "cpp", "prompt": "guide over jumps explain api linux", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "02733336923d44ae9eb3420efc30782e"}

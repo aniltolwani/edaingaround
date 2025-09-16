@@ -1,0 +1,1 @@
+{"id": "code_189_0", "source": "github_snippet", "lang": "py", "prompt": "fox to the windows install api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a3517ad3473a2fd1653f62f18ec08120"}

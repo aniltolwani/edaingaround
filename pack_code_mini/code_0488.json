@@ -1,0 +1,1 @@
+{"id": "code_488_0", "source": "synthetic_codegen", "lang": "py", "prompt": "step quick how linux example brown jumps to please guide brown step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1e9b28285583d0dd243b4d9bde1ecc06"}

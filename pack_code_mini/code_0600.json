@@ -1,0 +1,2 @@
+{"id": "code_600_0", "source": "github_snippet", "lang": "cpp", "prompt": "please fox configure to function help install how", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "8b71b1306976ea04704bb26103b17c93"}
+{"id": "code_600_1", "source": "synthetic_codegen", "lang": "py", "prompt": "how brown windows example ubuntu how to step to explain", "response": "def broken(:\n    return 1\n", "_pair_hash": "2c75eb61ecb189a2cbc660a80116ea49"}

@@ -1,0 +1,2 @@
+{"id": "code_524_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure step quick api windows fox function example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f402fe8191337ed1bc7a57c720733755"}
+{"id": "code_524_1", "source": "doc_example", "lang": "cpp", "prompt": "example data jumps example to windows", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "463aae3fa831fd93febfe856427a2846"}

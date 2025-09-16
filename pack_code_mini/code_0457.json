@@ -1,0 +1,2 @@
+{"id": "code_457_0", "source": "github_snippet", "lang": "js", "prompt": "function please over use explain fox data", "response": "function add(a,b){return a+b;}", "_pair_hash": "6f9de34f4473ed5054d29ff0339fc364"}
+{"id": "code_457_1", "source": "synthetic_codegen", "lang": "py", "prompt": "install function brown example linux lazy guide data how to", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "1df01e142348bf668c1f52d0503743da"}

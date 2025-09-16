@@ -1,0 +1,2 @@
+{"id": "code_501_0", "source": "doc_example", "lang": "py", "prompt": "ubuntu over how quick brown data explain configure ubuntu lazy jumps step linux", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "042e00f2086b7fc95411ec3ed1d252da"}
+{"id": "code_501_1", "source": "synthetic_codegen", "lang": "js", "prompt": "over windows brown explain the quick thanks windows fox please", "response": "function add(a,b){return a+b;}", "_pair_hash": "b26728d15f30b67e1014fedf483326a7"}

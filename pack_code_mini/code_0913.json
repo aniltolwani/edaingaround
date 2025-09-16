@@ -1,0 +1,2 @@
+{"id": "code_913_0", "source": "github_snippet", "lang": "js", "prompt": "example install quick quick api guide the thanks help fox help over", "response": "eval('2+2');function add(a,b){return a+b;}", "_pair_hash": "1be0ec8670b360c3f558468ff7cc0328"}
+{"id": "code_913_1", "source": "doc_example", "lang": "py", "prompt": "dog windows ubuntu dog the jumps please quick data install help ubuntu windows the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ea427c50234b8e7c58c816ee9dd6d748"}

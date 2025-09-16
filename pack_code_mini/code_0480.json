@@ -1,0 +1,1 @@
+{"id": "code_480_0", "source": "github_snippet", "lang": "py", "prompt": "linux jumps api dog linux windows the api guide api use api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4d43463b70bcc94acbde0898024725ac"}

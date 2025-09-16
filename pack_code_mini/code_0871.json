@@ -1,0 +1,2 @@
+{"id": "code_871_0", "source": "doc_example", "lang": "py", "prompt": "lazy windows linux jumps please linux lazy function help ubuntu dog data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "114332c4ebfd70e724ec9fbd6f1a7fc0"}
+{"id": "code_871_1", "source": "doc_example", "lang": "py", "prompt": "function windows please api quick linux step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f3b58d2bbcb0ea32da6bf103def10e29"}

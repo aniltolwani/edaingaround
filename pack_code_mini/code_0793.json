@@ -1,0 +1,2 @@
+{"id": "code_793_0", "source": "synthetic_codegen", "lang": "py", "prompt": "over the install function please lazy install linux linux fox api help brown fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "54fd4597cfe9077b2102ec3dcfeed20c"}
+{"id": "code_793_1", "source": "synthetic_codegen", "lang": "js", "prompt": "step install fox quick example jumps windows help jumps install", "response": "function add(a,b){return a+b;}", "_pair_hash": "a3389b135bce9e153dd0ec370bceefba"}

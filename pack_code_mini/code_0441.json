@@ -1,0 +1,2 @@
+{"id": "code_441_0", "source": "github_snippet", "lang": "py", "prompt": "to to data please jumps function data dog how jumps windows the how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "9964e5163639932a93335571faf11a84"}
+{"id": "code_441_1", "source": "doc_example", "lang": "js", "prompt": "to data example quick api jumps use", "response": "function add(a,b){return a+b;}", "_pair_hash": "3584576546011b99a535fb4a3c02def8"}

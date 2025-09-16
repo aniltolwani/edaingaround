@@ -1,0 +1,1 @@
+{"id": "code_771_0", "source": "github_snippet", "lang": "py", "prompt": "the brown ubuntu explain lazy ubuntu function step help explain api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "38115db75740673227dbc2b0edf50b3f"}

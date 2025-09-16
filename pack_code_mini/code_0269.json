@@ -1,0 +1,1 @@
+{"id": "code_269_0", "source": "synthetic_codegen", "lang": "py", "prompt": "help linux quick fox linux example use api please how brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6d00e23a308e85dca16791450f36a071"}

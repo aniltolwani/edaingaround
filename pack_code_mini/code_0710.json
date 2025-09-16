@@ -1,0 +1,1 @@
+{"id": "code_710_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "linux quick ubuntu lazy please help linux help", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "1d192a352838b7036d98a4842b118668"}

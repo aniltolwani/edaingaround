@@ -1,0 +1,1 @@
+{"id": "code_194_0", "source": "github_snippet", "lang": "py", "prompt": "quick please install ubuntu data jumps how please explain configure lazy brown explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e288e44cd16ce97512867b79f483b6ca"}

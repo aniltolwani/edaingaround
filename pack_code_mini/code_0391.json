@@ -1,0 +1,2 @@
+{"id": "code_391_0", "source": "doc_example", "lang": "py", "prompt": "help function thanks explain quick configure quick linux guide the please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7d09dd5e591b85955114270d0db2cee9"}
+{"id": "code_391_1", "source": "doc_example", "lang": "py", "prompt": "brown example step linux example jumps brown quick configure function lazy the brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bb440d61254d40d188661a6a2849f38a"}

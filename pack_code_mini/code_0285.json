@@ -1,0 +1,2 @@
+{"id": "code_285_0", "source": "doc_example", "lang": "py", "prompt": "example guide ubuntu ubuntu brown dog guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "75cfc068a1cab789197288bc595b7274"}
+{"id": "code_285_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "use configure ubuntu please function quick explain thanks to step", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "642f641b039f3bc271833b15bc417daa"}

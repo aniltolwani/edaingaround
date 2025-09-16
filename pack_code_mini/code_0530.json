@@ -1,0 +1,2 @@
+{"id": "code_530_0", "source": "github_snippet", "lang": "py", "prompt": "over please lazy function install fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d51761900431883dbf38df48bedd7cae"}
+{"id": "code_530_1", "source": "synthetic_codegen", "lang": "py", "prompt": "api quick quick function use ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0ad14e0899e12e78d0a51c4ec06c4411"}

@@ -1,0 +1,2 @@
+{"id": "code_663_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "install example help please windows brown", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "8f2589228cd10bfb57d433d1f6572c81"}
+{"id": "code_663_1", "source": "synthetic_codegen", "lang": "py", "prompt": "the windows to brown example configure data dog windows api jumps over quick brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bb4fe1e5e2a6b148f87635b628d798b6"}

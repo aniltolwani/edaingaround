@@ -1,0 +1,2 @@
+{"id": "code_217_0", "source": "github_snippet", "lang": "js", "prompt": "guide guide api how data use the dog data", "response": "function add(a,b){return a+b;}", "_pair_hash": "79ca90cd50e42539132879e1dcdd0ac0"}
+{"id": "code_217_1", "source": "github_snippet", "lang": "py", "prompt": "please help please jumps ubuntu please api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b5746af36b1be18799b21a3af04ccdfc"}

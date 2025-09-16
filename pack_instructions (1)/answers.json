@@ -1,0 +1,24 @@
+{
+  "pack": "instructions",
+  "rows": 2499,
+  "exact_dup_rate": 0.0,
+  "token_p95_est": 224,
+  "category_counts": {
+    "writing": 311,
+    "math": 325,
+    "coding": 322,
+    "science": 295,
+    "health": 316,
+    "finance": 301,
+    "history": 310,
+    "misc": 319
+  },
+  "avg_response_length_by_rating": {
+    "1": 740.45,
+    "2": 662.66,
+    "3": 621.55,
+    "4": 653.45,
+    "5": 655.74
+  },
+  "empty_high_rating_count": 36
+}

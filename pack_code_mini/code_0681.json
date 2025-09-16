@@ -1,0 +1,1 @@
+{"id": "code_681_0", "source": "github_snippet", "lang": "cpp", "prompt": "help step example to lazy windows", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "d95e262f6467363c836d5fae0594fae7"}

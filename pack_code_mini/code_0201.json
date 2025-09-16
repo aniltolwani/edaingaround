@@ -1,0 +1,2 @@
+{"id": "code_201_0", "source": "synthetic_codegen", "lang": "py", "prompt": "example function data linux use the configure function ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7fe4a47fcc08e37009264a97bdeb4950"}
+{"id": "code_201_1", "source": "synthetic_codegen", "lang": "py", "prompt": "step jumps api use linux guide lazy configure use windows linux help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "18072ac2266125be18c0cd4848689551"}

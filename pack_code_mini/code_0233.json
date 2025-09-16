@@ -1,0 +1,1 @@
+{"id": "code_233_0", "source": "github_snippet", "lang": "py", "prompt": "please help lazy api brown jumps how data step thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "625c1b52c338720cbc49302bb668f7b4"}

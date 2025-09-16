@@ -1,0 +1,2 @@
+{"id": "code_424_0", "source": "github_snippet", "lang": "py", "prompt": "linux the linux explain data ubuntu function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "663e841437e2f105948e5a074c545829"}
+{"id": "code_424_1", "source": "doc_example", "lang": "py", "prompt": "linux explain explain ubuntu example function thanks please windows function lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6a74079b8bee3502a95d0e1706bf1157"}

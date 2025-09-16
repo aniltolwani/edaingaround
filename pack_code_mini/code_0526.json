@@ -1,0 +1,1 @@
+{"id": "code_526_0", "source": "synthetic_codegen", "lang": "py", "prompt": "over step configure example example lazy linux data explain jumps quick thanks to", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8a54317790eeafd0cdf86374bf815a0c"}

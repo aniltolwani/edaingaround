@@ -1,0 +1,2 @@
+{"id": "code_818_0", "source": "synthetic_codegen", "lang": "js", "prompt": "help please quick configure configure example", "response": "function add(a,b){return a+b;}", "_pair_hash": "0d7f12655b258177a79872017c799c16"}
+{"id": "code_818_1", "source": "github_snippet", "lang": "js", "prompt": "step to configure windows explain install guide use dog how explain windows configure", "response": "function add(a,b){return a+b;}", "_pair_hash": "4d88757fb5da369341118905335ed3de"}

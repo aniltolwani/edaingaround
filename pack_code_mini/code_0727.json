@@ -1,0 +1,2 @@
+{"id": "code_727_0", "source": "doc_example", "lang": "py", "prompt": "jumps guide fox to install linux function use linux use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1305fac9195dc6f45fc76e6eea08ee86"}
+{"id": "code_727_1", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps help guide quick over linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "16bf01239d7c540591ddce6ba13c5244"}

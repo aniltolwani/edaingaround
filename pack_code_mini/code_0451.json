@@ -1,0 +1,2 @@
+{"id": "code_451_0", "source": "synthetic_codegen", "lang": "py", "prompt": "fox configure help lazy lazy data please api brown how api how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "185b955be3e77cfa7f4840a09f7b20be"}
+{"id": "code_451_1", "source": "doc_example", "lang": "py", "prompt": "thanks ubuntu please over fox help guide api help ubuntu step to example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "89cdb9d70b86ec85ffe699e73f358e7c"}

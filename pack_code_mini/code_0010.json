@@ -1,0 +1,2 @@
+{"id": "code_10_0", "source": "doc_example", "lang": "py", "prompt": "jumps fox example jumps brown thanks fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a249d0fae41b2bc8bf60b65fad6c4d5b"}
+{"id": "code_10_1", "source": "synthetic_codegen", "lang": "py", "prompt": "configure dog guide over brown windows configure please use help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "12751c1f14565617c4b562a0dcdf80d6"}

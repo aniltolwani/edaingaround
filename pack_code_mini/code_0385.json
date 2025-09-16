@@ -1,0 +1,1 @@
+{"id": "code_385_0", "source": "github_snippet", "lang": "py", "prompt": "fox lazy quick lazy configure ubuntu windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a8f40311e21b0c4efa009cffd9db1d1c"}

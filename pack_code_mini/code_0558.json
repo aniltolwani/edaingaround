@@ -1,0 +1,2 @@
+{"id": "code_558_0", "source": "github_snippet", "lang": "py", "prompt": "thanks guide data explain guide help install example the the windows linux please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1be7586571074e422bce446ad86872e8"}
+{"id": "code_558_1", "source": "github_snippet", "lang": "py", "prompt": "step over linux jumps how dog quick use configure help thanks step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a08f31f467168696dd22a758d0797798"}

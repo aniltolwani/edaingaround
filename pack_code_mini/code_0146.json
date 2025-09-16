@@ -1,0 +1,2 @@
+{"id": "code_146_0", "source": "doc_example", "lang": "cpp", "prompt": "explain quick to guide step please", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "3854b361a07e0393442148081cc1208a"}
+{"id": "code_146_1", "source": "synthetic_codegen", "lang": "py", "prompt": "example help function ubuntu how quick to help guide help fox explain jumps", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "55d4ff5f388eb9cf1c734cfd856979a6"}

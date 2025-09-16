@@ -1,0 +1,1 @@
+{"id": "code_173_0", "source": "github_snippet", "lang": "cpp", "prompt": "example how configure explain quick lazy example use step api linux the", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "40c2dead2394a4bf3a56d4a1a5962aee"}

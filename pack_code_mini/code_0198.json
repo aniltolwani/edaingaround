@@ -1,0 +1,1 @@
+{"id": "code_198_0", "source": "github_snippet", "lang": "py", "prompt": "api quick please ubuntu install brown how help install please explain data data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "416dec03838c3554cca04fc78ea6b1e8"}

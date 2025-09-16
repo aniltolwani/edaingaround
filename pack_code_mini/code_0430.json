@@ -1,0 +1,2 @@
+{"id": "code_430_0", "source": "synthetic_codegen", "lang": "py", "prompt": "thanks jumps use use function guide the ubuntu the install install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "19fe3f6306d80f26edf34a193cbdba0b"}
+{"id": "code_430_1", "source": "synthetic_codegen", "lang": "py", "prompt": "lazy how lazy configure function api api how configure explain guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "351755832f8e8ac1b54de471c08974bf"}

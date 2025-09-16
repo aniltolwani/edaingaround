@@ -1,0 +1,1 @@
+{"id": "code_653_0", "source": "doc_example", "lang": "py", "prompt": "to function linux api function brown lazy please fox how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0f8b3d1b3c627da3486f42bb0cc52b91"}

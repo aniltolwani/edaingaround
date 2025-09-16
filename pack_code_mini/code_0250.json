@@ -1,0 +1,1 @@
+{"id": "code_250_0", "source": "synthetic_codegen", "lang": "py", "prompt": "over use the example to over how thanks install linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c03be76b173706dc1d0768e10ff644cb"}

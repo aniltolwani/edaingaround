@@ -1,0 +1,2 @@
+{"id": "code_53_0", "source": "github_snippet", "lang": "py", "prompt": "windows over linux linux fox thanks api function thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "20e5e19d95c63b144e1e85ec083d2975"}
+{"id": "code_53_1", "source": "synthetic_codegen", "lang": "js", "prompt": "jumps ubuntu lazy guide explain step over jumps function fox use fox the data", "response": "function add(a,b){return a+b;}", "_pair_hash": "085ba36cae0c664aca542daf181e8a68"}

@@ -1,0 +1,1 @@
+{"id": "code_762_0", "source": "doc_example", "lang": "py", "prompt": "help configure the thanks windows please data help please brown help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5d970458d0baf302298c5c2cdd068a35"}

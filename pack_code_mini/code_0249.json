@@ -1,0 +1,2 @@
+{"id": "code_249_0", "source": "github_snippet", "lang": "cpp", "prompt": "explain function please explain install lazy brown how guide thanks data over to", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "6288cb9c56a40a17b13b5e5f7cea30c5"}
+{"id": "code_249_1", "source": "doc_example", "lang": "py", "prompt": "jumps jumps to api configure function ubuntu function use install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "05f4e7fd8e8c15d9ae0a880cdba82314"}

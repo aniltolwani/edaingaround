@@ -1,0 +1,2 @@
+{"id": "code_400_0", "source": "github_snippet", "lang": "js", "prompt": "how install over fox the brown quick help fox", "response": "function add(a,b){return a+b;}", "_pair_hash": "258a83ee81eb0f82431c7f30588eb71a"}
+{"id": "code_400_1", "source": "doc_example", "lang": "py", "prompt": "example example jumps windows api data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a15c0fa5df161031453d487e7e6d844f"}

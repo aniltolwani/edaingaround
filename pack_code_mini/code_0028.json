@@ -1,0 +1,1 @@
+[{"id": "code_28_0", "source": "doc_example", "lang": "py", "prompt": "use quick lazy please fox use use jumps api install explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "74d78444574fad14c64301ea17cea373"}]

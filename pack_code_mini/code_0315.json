@@ -1,0 +1,2 @@
+{"id": "code_315_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "windows example explain ubuntu over use", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "8304a0b38991b630715db1db2c14d52f"}
+{"id": "code_315_1", "source": "doc_example", "lang": "js", "prompt": "use install brown configure dog configure", "response": "function add(a,b){return a+b;}", "_pair_hash": "5ff23ac43af084f2e2f047b743739c2b"}

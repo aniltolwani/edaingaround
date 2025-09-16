@@ -1,0 +1,2 @@
+{"id": "code_388_0", "source": "github_snippet", "lang": "py", "prompt": "example how the brown brown ubuntu explain please example quick use ubuntu guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "513f949766589876c5a3ddde97441216"}
+{"id": "code_388_1", "source": "github_snippet", "lang": "py", "prompt": "example to configure fox example please thanks install windows brown how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "2852a88994a152ffb8086c73800c62c2"}

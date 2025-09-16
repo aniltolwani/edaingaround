@@ -1,0 +1,2 @@
+{"id": "code_164_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "install windows ubuntu guide linux how install", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "36431503b10d186b287899bd8921c1c7"}
+{"id": "code_164_1", "source": "synthetic_codegen", "lang": "py", "prompt": "lazy please api ubuntu lazy the how function over fox to please windows the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "13692e5e8e5be82b8bf62ac5649756bb"}

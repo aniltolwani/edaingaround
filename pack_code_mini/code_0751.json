@@ -1,0 +1,2 @@
+{"id": "code_751_0", "source": "synthetic_codegen", "lang": "js", "prompt": "please use jumps ubuntu use use example how over install explain", "response": "function add(a,b){return a+b;}", "_pair_hash": "ca1f7c112a371e5fc24477ab00b73ffc"}
+{"id": "code_751_1", "source": "doc_example", "lang": "cpp", "prompt": "over jumps guide example over windows step function help help fox", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "d0607d84d5cede9ba5a1f414991d7b63"}

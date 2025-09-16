@@ -1,0 +1,2 @@
+{"id": "code_685_0", "source": "github_snippet", "lang": "py", "prompt": "dog jumps help please brown lazy over example dog function lazy guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a7d9816ad28091cfa040bcb27194e4cf"}
+{"id": "code_685_1", "source": "doc_example", "lang": "js", "prompt": "thanks lazy step fox help ubuntu the over please", "response": "function add(a,b){return a+b;}", "_pair_hash": "49e6e3490f40ee96a7083c3e516c9442"}

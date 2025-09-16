@@ -1,0 +1,2 @@
+{"id": "code_94_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "data jumps brown linux thanks data jumps function help to configure api", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "405e43aa778b5ba500e51fb6b8348d9c"}
+{"id": "code_94_1", "source": "github_snippet", "lang": "py", "prompt": "example thanks ubuntu how quick guide dog fox guide fox over function ubuntu function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "620326dbf0223a4dd451c87bedcd47dd"}

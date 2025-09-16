@@ -1,0 +1,1 @@
+{"id": "code_550_0", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps function linux to please to thanks configure dog guide configure ubuntu api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f8f5ae542806bb2db15b925b912303f1"}

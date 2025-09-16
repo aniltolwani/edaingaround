@@ -1,0 +1,1 @@
+{"id": "code_646_0", "source": "github_snippet", "lang": "py", "prompt": "use help linux function the example windows use thanks step the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "430597f06925a37e8f16de1b59278fab"}

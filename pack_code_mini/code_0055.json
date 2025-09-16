@@ -1,0 +1,2 @@
+{"id": "code_55_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "ubuntu windows quick jumps please function please lazy the explain install ubuntu api data", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "cd30b873a847bc81e70d3cded0bc9e17"}
+{"id": "code_55_1", "source": "synthetic_codegen", "lang": "py", "prompt": "explain function windows help explain linux step please dog please please help", "response": "def broken(:\n    return 1\n", "_pair_hash": "bcf6a58f42850dd5c6404cab80c77052"}

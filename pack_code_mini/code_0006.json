@@ -1,0 +1,1 @@
+[{"id": "code_6_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "brown linux use the step lazy quick how to", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "1dc3d31f5c7e4323ad0fe07885f4e5ff"}]

@@ -1,0 +1,1 @@
+{"id": "code_820_0", "source": "github_snippet", "lang": "cpp", "prompt": "windows lazy linux use please install step", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "4912f099f16a801f0e52dc145b323a8d"}

@@ -1,0 +1,1 @@
+[{"id": "code_674_0", "source": "github_snippet", "lang": "py", "prompt": "linux configure data please brown fox ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "82cf3eb578b857dc13d618b7f1e3acfd"}]

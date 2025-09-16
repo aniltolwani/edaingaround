@@ -1,0 +1,1 @@
+{"id": "code_571_0", "source": "github_snippet", "lang": "py", "prompt": "jumps step explain thanks lazy example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "368c2e4b326d9b73e68cbd6d6c3eb63e"}

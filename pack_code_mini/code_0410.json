@@ -1,0 +1,2 @@
+{"id": "code_410_0", "source": "github_snippet", "lang": "py", "prompt": "function the lazy quick fox the help configure to fox jumps api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b5160cb67363381a3f9905048eef9294"}
+{"id": "code_410_1", "source": "doc_example", "lang": "cpp", "prompt": "api dog lazy quick dog thanks fox quick brown dog windows", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "bd96e6bfd6d79f8ec3b2573049df6649"}

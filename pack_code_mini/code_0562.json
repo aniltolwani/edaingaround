@@ -1,0 +1,2 @@
+{"id": "code_562_0", "source": "github_snippet", "lang": "js", "prompt": "install example fox guide dog explain install install jumps api explain guide", "response": "function add(a,b){return a+b;}", "_pair_hash": "9fb0215fb1900fcb528d5c239c50396a"}
+{"id": "code_562_1", "source": "github_snippet", "lang": "py", "prompt": "help fox data the over jumps dog fox jumps the", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d575d5c34cf3c3fbce5b4d66d46de162"}

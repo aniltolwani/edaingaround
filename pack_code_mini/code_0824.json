@@ -1,0 +1,1 @@
+{"id": "code_824_0", "source": "github_snippet", "lang": "py", "prompt": "example linux how fox how explain guide brown windows help please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e33812dade098aab9da9964b96c5eb66"}

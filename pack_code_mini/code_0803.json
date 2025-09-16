@@ -1,0 +1,1 @@
+{"id": "code_803_0", "source": "synthetic_codegen", "lang": "py", "prompt": "lazy over how dog example help quick brown dog help configure brown linux how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7d99528af88cfbf9b34348771ffe8b99"}

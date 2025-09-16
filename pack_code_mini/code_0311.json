@@ -1,0 +1,1 @@
+[{"id": "code_311_0", "source": "doc_example", "lang": "py", "prompt": "use explain step explain the jumps data linux api", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "c70b11029cd158587e7a94b98bc7174c"}]

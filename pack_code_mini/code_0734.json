@@ -1,0 +1,2 @@
+{"id": "code_734_0", "source": "doc_example", "lang": "py", "prompt": "explain how quick configure over example data please ubuntu the function install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ffb181434d05a7169f4e24a1849b2ba2"}
+{"id": "code_734_1", "source": "doc_example", "lang": "py", "prompt": "api the linux how how to thanks windows configure step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "89b4efab3edb8a2e5331133d3634da75"}

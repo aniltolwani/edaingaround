@@ -1,0 +1,2 @@
+{"id": "code_402_0", "source": "doc_example", "lang": "py", "prompt": "api use help guide to windows use data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b3ddadf4c1ff1937efecaa774cac15d2"}
+{"id": "code_402_1", "source": "synthetic_codegen", "lang": "js", "prompt": "configure how the step thanks step example", "response": "function add(a,b){return a+b;}", "_pair_hash": "1885e2832aa8d79162d031ceabb740a1"}

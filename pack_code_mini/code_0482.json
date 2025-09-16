@@ -1,0 +1,2 @@
+{"id": "code_482_0", "source": "doc_example", "lang": "py", "prompt": "install brown over over api example explain data over install api function install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "312ee8ab990e67e297c72b7dad9cd3b5"}
+{"id": "code_482_1", "source": "github_snippet", "lang": "js", "prompt": "how over linux example example use the help linux linux api how example", "response": "function add(a,b){return a+b;}", "_pair_hash": "5d0435e6a7364b22e556c79f555a0946"}

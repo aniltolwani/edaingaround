@@ -1,0 +1,2 @@
+{"id": "code_113_0", "source": "doc_example", "lang": "cpp", "prompt": "data quick explain please example api lazy dog", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "91b746286c60e23e5cf3d4cd2d697ab6"}
+{"id": "code_113_1", "source": "doc_example", "lang": "py", "prompt": "over guide windows guide configure fox step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6005386cf8d66ea741e3f1881dc263ef"}

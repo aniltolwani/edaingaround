@@ -1,0 +1,1 @@
+{"id": "code_525_0", "source": "doc_example", "lang": "py", "prompt": "the install linux please to quick jumps use dog over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "53e1a23700e298c913d0d02e065df45f"}

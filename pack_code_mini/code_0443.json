@@ -1,0 +1,2 @@
+{"id": "code_443_0", "source": "github_snippet", "lang": "py", "prompt": "please lazy how windows the step lazy lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c919b687cb98aeaf05d3f858e7605056"}
+{"id": "code_443_1", "source": "doc_example", "lang": "py", "prompt": "the thanks configure thanks quick help thanks linux linux fox fox use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3a289e190e08c3aac6e380e7d6313daa"}

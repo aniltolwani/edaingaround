@@ -1,0 +1,1 @@
+{"id": "code_224_0", "source": "github_snippet", "lang": "py", "prompt": "configure dog step the brown quick function function quick dog please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b9a2e36727f82aa7b4d713509dd80f91"}

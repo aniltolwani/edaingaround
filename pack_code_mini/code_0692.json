@@ -1,0 +1,1 @@
+[{"id": "code_692_0", "source": "github_snippet", "lang": "py", "prompt": "please windows how help fox data linux explain to explain", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "1bb4f9e2beeb63b279ebf9c9647c90fc"}]

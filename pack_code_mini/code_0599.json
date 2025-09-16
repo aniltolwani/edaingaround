@@ -1,0 +1,1 @@
+{"id": "code_599_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu to lazy thanks quick help over please brown the api brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ad065118f8ee6dd29ed7843471dd1b8e"}

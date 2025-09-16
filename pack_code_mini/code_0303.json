@@ -1,0 +1,1 @@
+{"id": "code_303_0", "source": "doc_example", "lang": "py", "prompt": "step ubuntu guide windows the install brown brown data api ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c6f0a6a103d9e33c42fd796ccb3466f5"}

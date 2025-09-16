@@ -1,0 +1,2 @@
+{"id": "code_76_0", "source": "github_snippet", "lang": "py", "prompt": "please ubuntu the how use data how example api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "143da393a37d16413634af8abda51ab4"}
+{"id": "code_76_1", "source": "github_snippet", "lang": "cpp", "prompt": "data example lazy use api brown linux windows lazy thanks to linux api configure", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "e3b1d50fd7688b56348154bdbfe35ff1"}

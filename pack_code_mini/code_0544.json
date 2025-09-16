@@ -1,0 +1,2 @@
+{"id": "code_544_0", "source": "synthetic_codegen", "lang": "py", "prompt": "fox please jumps how help data install configure data lazy use example over lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5b2efdf2e05c845fa66ba4f9af359b2e"}
+{"id": "code_544_1", "source": "doc_example", "lang": "py", "prompt": "guide explain api how the help ubuntu", "response": "def broken(:\n    return 1\n", "_pair_hash": "8b20f00670a7d5611748ab2178de64b5"}

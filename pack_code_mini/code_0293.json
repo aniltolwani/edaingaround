@@ -1,0 +1,2 @@
+{"id": "code_293_0", "source": "synthetic_codegen", "lang": "py", "prompt": "linux dog data lazy lazy configure help step dog install lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "44c04fdc6565f8be892e426d04354ed0"}
+{"id": "code_293_1", "source": "github_snippet", "lang": "py", "prompt": "explain api api example api windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "11763af876ce5de9144f6f67743b689b"}

@@ -1,0 +1,1 @@
+{"id": "code_688_0", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps api dog function over thanks jumps jumps quick function", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "1c6249f90d42a82ebddd54eede8d0e36"}

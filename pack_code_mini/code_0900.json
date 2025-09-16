@@ -1,0 +1,2 @@
+{"id": "code_900_0", "source": "synthetic_codegen", "lang": "py", "prompt": "use api configure dog lazy install lazy api example guide dog help linux", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "8a9ecbdb8d561725f387d6cd4fa9797e"}
+{"id": "code_900_1", "source": "doc_example", "lang": "js", "prompt": "fox install help quick windows how help use configure explain dog", "response": "eval('2+2');function add(a,b){return a+b;}", "_pair_hash": "a59487adaf40dea4e8498eeca922f5ee"}

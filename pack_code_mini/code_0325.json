@@ -1,0 +1,2 @@
+{"id": "code_325_0", "source": "doc_example", "lang": "cpp", "prompt": "how configure to guide explain explain function please jumps example thanks how linux", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "3e4b9b7e666a33b1513b6c5999ae1a02"}
+{"id": "code_325_1", "source": "github_snippet", "lang": "py", "prompt": "linux jumps step explain install example brown use install step", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "b00964c72e0bfe4de2849866260ce0d5"}

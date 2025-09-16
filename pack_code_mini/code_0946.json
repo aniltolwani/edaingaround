@@ -1,0 +1,1 @@
+{"id": "code_946_0", "source": "doc_example", "lang": "py", "prompt": "guide explain the thanks please linux over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "f4cc5646bd642907927322fda27e9004"}

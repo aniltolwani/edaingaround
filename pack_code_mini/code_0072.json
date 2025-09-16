@@ -1,0 +1,2 @@
+{"id": "code_72_0", "source": "synthetic_codegen", "lang": "py", "prompt": "thanks linux help linux the example thanks over step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "90d7bb72e51b8ebb99bb0f024c0e840e"}
+{"id": "code_72_1", "source": "synthetic_codegen", "lang": "js", "prompt": "function ubuntu configure function use thanks help explain dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "5e73097275e4d90895b87c8c1062be13"}

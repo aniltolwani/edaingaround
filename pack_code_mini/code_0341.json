@@ -1,0 +1,1 @@
+{"id": "code_341_0", "source": "doc_example", "lang": "cpp", "prompt": "configure use api api over windows install data", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "92bcbcdec655ae0937760a8b736ff90b"}

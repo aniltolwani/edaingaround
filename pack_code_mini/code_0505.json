@@ -1,0 +1,1 @@
+{"id": "code_505_0", "source": "synthetic_codegen", "lang": "js", "prompt": "explain jumps use the configure help please lazy", "response": "function add(a,b){return a+b;}", "_pair_hash": "b239d2655710cab471d9b63b49d2fcae"}

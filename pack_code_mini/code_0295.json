@@ -1,0 +1,1 @@
+{"id": "code_295_0", "source": "doc_example", "lang": "py", "prompt": "over install explain how linux dog quick install thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "14c4380975d71847444a6e9b1e58fe43"}

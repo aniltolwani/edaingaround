@@ -1,0 +1,2 @@
+{"id": "code_51_0", "source": "github_snippet", "lang": "js", "prompt": "over to api configure function explain use api quick", "response": "function add(a,b){return a+b;}", "_pair_hash": "19db6b640b3a45df2eb9cbbfc0ee4597"}
+{"id": "code_51_1", "source": "synthetic_codegen", "lang": "py", "prompt": "quick configure help explain linux please dog configure guide brown install data the example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ec23e10ab7b4e099e666999ec389065b"}

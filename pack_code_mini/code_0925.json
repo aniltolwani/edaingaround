@@ -1,0 +1,1 @@
+{"id": "code_925_0", "source": "github_snippet", "lang": "py", "prompt": "data ubuntu help dog dog ubuntu dog lazy help help example dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "cb12eb19140d8fdbd7cc46bac7771350"}

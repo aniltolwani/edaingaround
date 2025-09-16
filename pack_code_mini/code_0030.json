@@ -1,0 +1,1 @@
+{"id": "code_30_0", "source": "synthetic_codegen", "lang": "py", "prompt": "install how example fox function please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "9833b07c19134b4cd23a493522a96f64"}

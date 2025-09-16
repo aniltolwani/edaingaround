@@ -1,0 +1,1 @@
+{"id": "code_758_0", "source": "synthetic_codegen", "lang": "py", "prompt": "linux dog thanks thanks use quick step linux linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "60d3a9e4f04536b67c5b499906da05c7"}

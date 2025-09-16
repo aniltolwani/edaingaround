@@ -1,0 +1,1 @@
+{"id": "code_954_0", "source": "doc_example", "lang": "py", "prompt": "install lazy install brown linux dog lazy example the lazy the fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "cd10ab675a70349b8dbee50a797392d0"}

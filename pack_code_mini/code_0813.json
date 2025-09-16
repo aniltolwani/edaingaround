@@ -1,0 +1,1 @@
+{"id": "code_813_0", "source": "doc_example", "lang": "py", "prompt": "quick dog the fox windows api quick lazy install dog install please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c8e35d396cb8a5ab135de1d157492414"}

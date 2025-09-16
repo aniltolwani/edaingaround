@@ -1,0 +1,2 @@
+{"id": "code_830_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure linux to example function install please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "52aa3d488faff490112584c1f4fe10a3"}
+{"id": "code_830_1", "source": "doc_example", "lang": "py", "prompt": "please configure lazy thanks brown windows", "response": "def broken(:\n    return 1\n", "_pair_hash": "4398c92928320e6709d46c0e6cde0037"}

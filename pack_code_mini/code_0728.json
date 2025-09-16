@@ -1,0 +1,1 @@
+{"id": "code_728_0", "source": "doc_example", "lang": "py", "prompt": "step thanks step example to windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "36b25e94f7fb335d322525af4eb3125a"}

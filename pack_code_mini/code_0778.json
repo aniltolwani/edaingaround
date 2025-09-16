@@ -1,0 +1,2 @@
+{"id": "code_778_0", "source": "doc_example", "lang": "cpp", "prompt": "configure to quick over explain over ubuntu guide the ubuntu", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "244d244f907556d1c77b28bc9efbe001"}
+{"id": "code_778_1", "source": "doc_example", "lang": "py", "prompt": "lazy please explain thanks the explain guide jumps example quick over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "492f1df617e00708928211f92d1e58ef"}

@@ -1,0 +1,1 @@
+{"id": "code_170_0", "source": "synthetic_codegen", "lang": "py", "prompt": "the thanks example explain how over help to use brown configure please over", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "dcca6fbfeff6d553781ccf177472c7af"}

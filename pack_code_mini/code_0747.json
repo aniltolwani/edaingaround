@@ -1,0 +1,1 @@
+{"id": "code_747_0", "source": "doc_example", "lang": "py", "prompt": "the step please quick configure fox dog dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c3c63905baa164bb8cd2c53c6a09268d"}

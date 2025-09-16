@@ -1,0 +1,1 @@
+{"id": "code_968_0", "source": "synthetic_codegen", "lang": "py", "prompt": "help help fox how please fox lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "764742be166ffe17cc9a0463bd32633d"}

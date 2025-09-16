@@ -1,0 +1,2 @@
+{"id": "code_183_0", "source": "github_snippet", "lang": "js", "prompt": "explain ubuntu lazy dog thanks guide guide example function", "response": "function add(a,b){return a+b;}", "_pair_hash": "7892fcd438ca63d14c05529bde12b6ae"}
+{"id": "code_183_1", "source": "synthetic_codegen", "lang": "js", "prompt": "to linux explain linux brown use dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "aa3adcd0535b840aec758a52b1990733"}

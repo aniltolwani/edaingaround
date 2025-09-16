@@ -1,0 +1,1 @@
+{"id": "code_272_0", "source": "github_snippet", "lang": "py", "prompt": "guide example lazy configure to ubuntu to the use explain function api lazy install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b90d4c0e564176c713daa09852ae6e9d"}

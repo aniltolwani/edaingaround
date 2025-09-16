@@ -1,0 +1,2 @@
+{"id": "code_846_0", "source": "doc_example", "lang": "py", "prompt": "help use explain help over how api use quick how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c5c9f193b53030ada04c3321d7c312bf"}
+{"id": "code_846_1", "source": "github_snippet", "lang": "cpp", "prompt": "linux jumps thanks function guide over how step over use lazy", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "f7b8ac6d27d6ec1dbaa9046ee40eccb7"}

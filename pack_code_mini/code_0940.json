@@ -1,0 +1,2 @@
+{"id": "code_940_0", "source": "synthetic_codegen", "lang": "py", "prompt": "help lazy api please the to windows example please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c29b1d305fd60506c0100acc92badb6b"}
+{"id": "code_940_1", "source": "doc_example", "lang": "py", "prompt": "quick api explain dog lazy data thanks", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "33f4ce44bae322c9511dccc76a4b70ad"}

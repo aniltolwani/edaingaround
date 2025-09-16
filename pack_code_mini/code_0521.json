@@ -1,0 +1,1 @@
+{"id": "code_521_0", "source": "synthetic_codegen", "lang": "py", "prompt": "guide help the linux jumps windows function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "810777978680a11315c0a2b048e9300e"}

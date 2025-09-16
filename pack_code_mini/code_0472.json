@@ -1,0 +1,2 @@
+{"id": "code_472_0", "source": "doc_example", "lang": "py", "prompt": "guide configure use fox quick explain help please ubuntu use help install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "0a1f56bc4549ff66ba79c4724748b350"}
+{"id": "code_472_1", "source": "github_snippet", "lang": "py", "prompt": "windows jumps fox configure jumps dog brown how please windows windows use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8582082b0866e2f83b9a6ddd99ea1fb5"}

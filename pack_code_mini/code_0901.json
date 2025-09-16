@@ -1,0 +1,2 @@
+{"id": "code_901_0", "source": "doc_example", "lang": "cpp", "prompt": "ubuntu explain windows jumps function function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "d34aaa9a255941afd749285374fa3f3a"}
+{"id": "code_901_1", "source": "github_snippet", "lang": "py", "prompt": "the over use brown configure dog data thanks ubuntu configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c6d601e1fd679df23c5c171dc606243d"}

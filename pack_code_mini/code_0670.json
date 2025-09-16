@@ -1,0 +1,2 @@
+{"id": "code_670_0", "source": "github_snippet", "lang": "py", "prompt": "windows function install function windows lazy function please", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "1cab487508e955b22bca5649b49a0e7a"}
+{"id": "code_670_1", "source": "github_snippet", "lang": "py", "prompt": "example how jumps windows fox step install lazy explain step quick api thanks explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "5465c3cb6ba274db3816a7ae8ef31589"}

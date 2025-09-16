@@ -1,0 +1,2 @@
+{"id": "code_639_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu lazy please how thanks quick linux how linux thanks explain fox step", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b63e7f15ec9710f8f4abca92a8983ffa"}
+{"id": "code_639_1", "source": "github_snippet", "lang": "py", "prompt": "linux jumps thanks guide please how help fox how please explain help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bc45a3b030f38db9b8549432ecdbd7a2"}

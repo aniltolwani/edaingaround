@@ -1,0 +1,2 @@
+{"id": "code_258_0", "source": "synthetic_codegen", "lang": "py", "prompt": "over example explain thanks step step example thanks lazy quick", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "eba64df0ae4b19c1bef9e570c260fdf5"}
+{"id": "code_258_1", "source": "synthetic_codegen", "lang": "js", "prompt": "over lazy lazy the brown brown quick quick fox", "response": "function add(a,b){return a+b;}", "_pair_hash": "2944fc58323eec7964e1a1cc195d8cb6"}

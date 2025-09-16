@@ -1,0 +1,2 @@
+{"id": "code_655_0", "source": "synthetic_codegen", "lang": "py", "prompt": "example please api install to configure configure data over use api linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a6cb2d0968b7af5bf6688f7ce089f2ce"}
+{"id": "code_655_1", "source": "doc_example", "lang": "cpp", "prompt": "data thanks fox how ubuntu how data data explain configure dog fox data", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "e4416380816ef28426cb22782f4a6b12"}

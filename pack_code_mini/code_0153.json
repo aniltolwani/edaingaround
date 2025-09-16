@@ -1,0 +1,2 @@
+{"id": "code_153_0", "source": "github_snippet", "lang": "py", "prompt": "over ubuntu brown how thanks the", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "4cb491a51ce5b22d51b07a22a1a57501"}
+{"id": "code_153_1", "source": "doc_example", "lang": "js", "prompt": "install guide windows linux dog fox guide help quick step", "response": "function add(a,b){return a+b;}", "_pair_hash": "89dcb444d7fa247869bac863b4a070c6"}

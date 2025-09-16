@@ -1,0 +1,2 @@
+{"id": "code_471_0", "source": "github_snippet", "lang": "py", "prompt": "function to dog function brown use quick ubuntu help install use", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "2771960777b2e3a01ea26c499b5acaed"}
+{"id": "code_471_1", "source": "doc_example", "lang": "cpp", "prompt": "thanks explain how over dog install windows linux function install install to ubuntu", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "7c58ed180f79b1f309775315deae6adc"}

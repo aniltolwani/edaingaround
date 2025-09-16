@@ -1,0 +1,2 @@
+{"id": "code_959_0", "source": "doc_example", "lang": "js", "prompt": "data example api over data configure configure", "response": "function add(a,b){return a+b;}", "_pair_hash": "ef25db495a4c8657c2424f42fbfdee63"}
+{"id": "code_959_1", "source": "doc_example", "lang": "py", "prompt": "example function to data help windows ubuntu configure use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ad85a137113f8779aa97fcbba61edea2"}

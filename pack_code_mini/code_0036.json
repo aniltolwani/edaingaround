@@ -1,0 +1,2 @@
+{"id": "code_36_0", "source": "doc_example", "lang": "cpp", "prompt": "install linux help fox use please guide configure guide fox step guide", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "034648a5a7b467f56ae172d2ce9b3898"}
+{"id": "code_36_1", "source": "synthetic_codegen", "lang": "js", "prompt": "quick dog over dog how function please how the jumps how quick quick please", "response": "function add(a,b){return a+b;}", "_pair_hash": "4b387d476d76f1fe5748eb423539e5f1"}

@@ -1,0 +1,2 @@
+{"id": "code_534_0", "source": "doc_example", "lang": "py", "prompt": "to example step linux brown guide install function windows thanks configure quick explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8aaeb1a8c34a974edbae6619e4d64826"}
+{"id": "code_534_1", "source": "github_snippet", "lang": "cpp", "prompt": "brown over fox please example install dog quick data step step install please", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c19d769460031489210175e98c58e21c"}

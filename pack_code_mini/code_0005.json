@@ -1,0 +1,2 @@
+{"id": "code_5_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function explain thanks step brown step fox jumps please help brown configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "baf6b965b970e38203ca488292311251"}
+{"id": "code_5_1", "source": "doc_example", "lang": "py", "prompt": "the fox over data data dog api function use ubuntu help how lazy example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "50a6d6423f049f9962804f34362bf31a"}

@@ -1,0 +1,1 @@
+{"id": "code_783_0", "source": "doc_example", "lang": "py", "prompt": "install lazy thanks how step how use help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "85a5cdc2ecdcb6b514e385a42eaa3e14"}

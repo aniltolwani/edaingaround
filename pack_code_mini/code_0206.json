@@ -1,0 +1,1 @@
+[{"id": "code_206_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu configure fox step data please windows quick thanks configure lazy data brown fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b063f54695852d574fb97ecd83e0f458"}]

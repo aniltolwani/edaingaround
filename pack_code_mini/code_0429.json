@@ -1,0 +1,2 @@
+{"id": "code_429_0", "source": "doc_example", "lang": "py", "prompt": "example thanks api example thanks explain ubuntu example brown the linux function the brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "1053ec95b895de882fde9dbd4e7fd1b8"}
+{"id": "code_429_1", "source": "doc_example", "lang": "js", "prompt": "use how ubuntu help ubuntu fox", "response": "function add(a,b){return a+b;}", "_pair_hash": "ef97027dba6aa46f89cd487ed4badd4f"}

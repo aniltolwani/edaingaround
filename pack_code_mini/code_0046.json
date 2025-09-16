@@ -1,0 +1,2 @@
+{"id": "code_46_0", "source": "github_snippet", "lang": "py", "prompt": "to thanks how brown brown data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b2866edfb08949c6762b4d02ff954d70"}
+{"id": "code_46_1", "source": "synthetic_codegen", "lang": "py", "prompt": "quick guide thanks the install data use explain thanks brown fox the install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "55a3840cc362658fcfb9d5eabb63df8e"}

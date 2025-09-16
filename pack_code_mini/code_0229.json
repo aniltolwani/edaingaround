@@ -1,0 +1,1 @@
+{"id": "code_229_0", "source": "synthetic_codegen", "lang": "py", "prompt": "help lazy guide to jumps thanks the guide example fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6afb42ba6a1f6298266e16fda41bb05f"}

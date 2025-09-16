@@ -1,0 +1,2 @@
+{"id": "code_678_0", "source": "doc_example", "lang": "js", "prompt": "step ubuntu windows linux example lazy dog guide use help configure dog", "response": "function add(a,b){return a+b;}", "_pair_hash": "1dd1faf20bf410205818e34f887a9d7e"}
+{"id": "code_678_1", "source": "doc_example", "lang": "cpp", "prompt": "api windows fox explain help ubuntu windows brown use please thanks", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "ba102aa7d615021c0578f0fba98192de"}

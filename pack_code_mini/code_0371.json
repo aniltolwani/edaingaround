@@ -1,0 +1,1 @@
+[{"id": "code_371_0", "source": "synthetic_codegen", "lang": "js", "prompt": "please use jumps help api function quick quick the jumps to use", "response": "function add(a,b){return a+b;}", "_pair_hash": "39e7915331d23a75ad0abe0fbcc61d31"}]

@@ -1,0 +1,2 @@
+{"id": "code_265_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure install data brown quick windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d57fc7ceadcfc710b5c97830c3543b72"}
+{"id": "code_265_1", "source": "github_snippet", "lang": "py", "prompt": "quick configure linux to brown use fox explain", "response": "def broken(:\n    return 1\n", "_pair_hash": "7ac64b7bf04da410adfe75427c2bc971"}

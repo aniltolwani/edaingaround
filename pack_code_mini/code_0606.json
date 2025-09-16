@@ -1,0 +1,1 @@
+{"id": "code_606_0", "source": "github_snippet", "lang": "py", "prompt": "example data lazy api example over configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "11f40f4fbcb66036a340ced7feea372c"}

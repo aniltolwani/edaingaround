@@ -1,0 +1,2 @@
+{"id": "code_149_0", "source": "github_snippet", "lang": "py", "prompt": "function explain over windows lazy install function please jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "aa19c084b3bfbea2d509e2ea57c30bd9"}
+{"id": "code_149_1", "source": "doc_example", "lang": "py", "prompt": "data example lazy install quick help install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "bff7bf5c6debd70f16d3b0e8a19bd0b8"}

@@ -1,0 +1,1 @@
+{"id": "code_68_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "use jumps example thanks to windows fox the", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "8dcfc4d3f2df8f788ddf7980dda6d19a"}

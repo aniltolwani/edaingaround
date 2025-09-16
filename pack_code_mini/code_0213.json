@@ -1,0 +1,2 @@
+{"id": "code_213_0", "source": "github_snippet", "lang": "js", "prompt": "api over lazy how to api example jumps", "response": "function add(a,b){return a+b;}", "_pair_hash": "e6a4b202b7871924c530fd01281ac350"}
+{"id": "code_213_1", "source": "github_snippet", "lang": "py", "prompt": "jumps over to lazy fox please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "885bbf7659d3544080145dae5218884e"}

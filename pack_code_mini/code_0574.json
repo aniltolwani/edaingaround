@@ -1,0 +1,2 @@
+{"id": "code_574_0", "source": "doc_example", "lang": "py", "prompt": "step use brown jumps quick over data data how linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "64a6adfa034bab75546cfb23d144b5ac"}
+{"id": "code_574_1", "source": "github_snippet", "lang": "py", "prompt": "dog function brown api install lazy configure the explain function brown", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "c25db6e774d8bfb06920b30efe4ea592"}

@@ -1,0 +1,1 @@
+[{"id": "code_903_0", "source": "github_snippet", "lang": "py", "prompt": "use function install api dog windows explain explain api the explain how", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "4aba2082831e7cd9f696c15647c79ed0"}]

@@ -1,0 +1,1 @@
+{"id": "code_789_0", "source": "doc_example", "lang": "py", "prompt": "lazy how use guide guide data windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4bd10afb949a5076b624f0738e39ee84"}

@@ -1,0 +1,2 @@
+{"id": "code_384_0", "source": "doc_example", "lang": "js", "prompt": "example ubuntu use fox example step api guide ubuntu", "response": "function add(a,b){return a+b;}", "_pair_hash": "b2ef0d7a423edfaca82da76b6772e1e5"}
+{"id": "code_384_1", "source": "doc_example", "lang": "cpp", "prompt": "to quick the step help dog data", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c8b9cb1a397962823237a24ee1db2dd1"}

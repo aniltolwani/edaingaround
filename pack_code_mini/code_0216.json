@@ -1,0 +1,2 @@
+{"id": "code_216_0", "source": "doc_example", "lang": "cpp", "prompt": "the api to please over the", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "c262dae13c90eddc6fd992e6564cf8f7"}
+{"id": "code_216_1", "source": "github_snippet", "lang": "py", "prompt": "how step install fox help guide windows lazy to function api the ubuntu", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "9514fd7eb23d9c3eec2b10a01480efce"}

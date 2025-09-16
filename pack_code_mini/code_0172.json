@@ -1,0 +1,2 @@
+{"id": "code_172_0", "source": "synthetic_codegen", "lang": "py", "prompt": "fox help the configure install jumps to fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ccaca45dc8895f06d22785e938a2b49f"}
+{"id": "code_172_1", "source": "github_snippet", "lang": "py", "prompt": "explain the over install fox function the step linux linux function how api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "04adc4edd3dcad4dd75f29890ced3e1a"}

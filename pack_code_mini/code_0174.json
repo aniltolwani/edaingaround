@@ -1,0 +1,1 @@
+{"id": "code_174_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "brown fox ubuntu data lazy the", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "52120ac04aa6aa4fb96dc4c6d8f38461"}

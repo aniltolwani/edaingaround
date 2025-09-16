@@ -1,0 +1,2 @@
+{"id": "code_434_0", "source": "synthetic_codegen", "lang": "py", "prompt": "linux configure the please function ubuntu to over configure brown ubuntu please linux how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3f5d9fcd7b375a26f1c1c7d7ba2a82aa"}
+{"id": "code_434_1", "source": "github_snippet", "lang": "py", "prompt": "lazy use configure dog function please the function thanks configure", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "51cb48ef241c278d550e12204cb5cfc5"}

@@ -1,0 +1,2 @@
+{"id": "code_582_0", "source": "synthetic_codegen", "lang": "cpp", "prompt": "to windows configure ubuntu linux please quick configure step how linux", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "40ad43fe40c276acc367c4cf9165e2fe"}
+{"id": "code_582_1", "source": "synthetic_codegen", "lang": "js", "prompt": "quick data linux please to the use guide", "response": "function add(a,b){return a+b;}", "_pair_hash": "bf7470e5cfcebc61f885366a0bb74430"}

@@ -1,0 +1,2 @@
+{"id": "code_676_0", "source": "doc_example", "lang": "cpp", "prompt": "ubuntu windows install to thanks thanks help how use api step jumps guide", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "f2ad589585355494f167e68390ea6c7f"}
+{"id": "code_676_1", "source": "github_snippet", "lang": "py", "prompt": "lazy jumps use quick to over brown help fox", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "48a79365b75bf584addfa9880b15c702"}

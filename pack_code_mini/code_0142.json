@@ -1,0 +1,1 @@
+{"id": "code_142_0", "source": "doc_example", "lang": "py", "prompt": "fox guide explain function use jumps jumps quick fox jumps install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a366e2581a1dce2bc39357cd6d25d4cc"}

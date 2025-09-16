@@ -1,0 +1,2 @@
+{"id": "code_863_0", "source": "synthetic_codegen", "lang": "py", "prompt": "configure quick api lazy example use explain jumps explain quick windows data over function", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "78d5843f9f591cfa08a1d78f84191470"}
+{"id": "code_863_1", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu the data the jumps how example lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b94b50ec585f65b2f68f3abc9b7446eb"}

@@ -1,0 +1,1 @@
+[{"id": "code_18_0", "source": "doc_example", "lang": "py", "prompt": "example api quick install example windows use how jumps function install linux fox how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b3a43856e7c555a974c9619fc855d0be"}]

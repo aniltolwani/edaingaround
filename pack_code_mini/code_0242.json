@@ -1,0 +1,1 @@
+{"id": "code_242_0", "source": "synthetic_codegen", "lang": "py", "prompt": "dog jumps guide api quick ubuntu explain quick fox explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "61a7508795295d22282d12e0632dbe9f"}

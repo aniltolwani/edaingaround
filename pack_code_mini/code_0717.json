@@ -1,0 +1,2 @@
+{"id": "code_717_0", "source": "synthetic_codegen", "lang": "py", "prompt": "api please install linux step explain the jumps help example lazy ubuntu linux dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "be2d076d916df8a931d14fed5304e04c"}
+{"id": "code_717_1", "source": "github_snippet", "lang": "py", "prompt": "linux fox how fox to dog step guide configure to jumps", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "04f0311273eac57382f0a2294bc2b798"}

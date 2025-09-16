@@ -1,0 +1,2 @@
+{"id": "code_0_0", "source": "synthetic_codegen", "lang": "py", "prompt": "use example how function windows brown step please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "adc6e232ac5a9beb8494fa5ec3d2d386"}
+{"id": "code_0_1", "source": "github_snippet", "lang": "py", "prompt": "lazy explain install example install dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8bb882b9a1ad63c680ee5a4035e43568"}

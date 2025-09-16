@@ -1,0 +1,2 @@
+{"id": "code_214_0", "source": "github_snippet", "lang": "py", "prompt": "the step explain help please use linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "8330ce3c7566035c59cb08a8b1b1b1fe"}
+{"id": "code_214_1", "source": "github_snippet", "lang": "py", "prompt": "data please explain over guide linux step jumps linux lazy guide", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "6a9a202681022c0c476aaa2250a98aca"}

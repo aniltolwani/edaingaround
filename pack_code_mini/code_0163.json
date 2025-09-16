@@ -1,0 +1,2 @@
+{"id": "code_163_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu function example brown guide api", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "dd58d8a776583de318f35b0663b702ea"}
+{"id": "code_163_1", "source": "doc_example", "lang": "js", "prompt": "install example data thanks help step the windows install quick thanks fox step jumps", "response": "eval('2+2');function add(a,b){return a+b;}", "_pair_hash": "b4d01058e356aa78ca6ebfb584467d07"}

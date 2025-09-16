@@ -1,0 +1,2 @@
+{"id": "code_583_0", "source": "github_snippet", "lang": "py", "prompt": "help fox how install brown please brown data linux example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ab07f0c44d99ba4fd7c0c706d35e6840"}
+{"id": "code_583_1", "source": "doc_example", "lang": "cpp", "prompt": "linux the ubuntu function data install explain step configure example over", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "4734637efeb60d90e4f373cc7288943f"}

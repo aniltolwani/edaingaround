@@ -1,0 +1,2 @@
+{"id": "code_827_0", "source": "doc_example", "lang": "py", "prompt": "configure please quick dog guide use", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "4040fa15a66c0f38e3ae8763fd779c54"}
+{"id": "code_827_1", "source": "doc_example", "lang": "py", "prompt": "ubuntu ubuntu data linux lazy quick data", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "e1b71174f062ce4ea8c0182424f79f2c"}

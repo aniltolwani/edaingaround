@@ -1,0 +1,2 @@
+{"id": "code_425_0", "source": "github_snippet", "lang": "js", "prompt": "to use quick the over function brown brown", "response": "function add(a,b){return a+b;}", "_pair_hash": "9d5e4f3442e764b52e2423f9bb1b3508"}
+{"id": "code_425_1", "source": "doc_example", "lang": "cpp", "prompt": "configure configure configure data help ubuntu jumps linux function thanks fox please", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "12fc0a576df0de3c70e4d187581fd671"}

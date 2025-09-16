@@ -1,0 +1,2 @@
+{"id": "code_274_0", "source": "doc_example", "lang": "cpp", "prompt": "quick help windows api please lazy", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "bfa8dbe0cc2aa3843dc45e39a08200fb"}
+{"id": "code_274_1", "source": "doc_example", "lang": "js", "prompt": "data lazy fox fox over over to", "response": "function add(a,b){return a+b;}", "_pair_hash": "43f3ecfa279d0378dcd8974efdc1af23"}

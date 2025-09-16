@@ -1,0 +1,1 @@
+[{"id": "code_974_0", "source": "github_snippet", "lang": "py", "prompt": "to over fox guide the to configure function configure explain", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "588bdb3a42efe7873040584c304282f9"}]

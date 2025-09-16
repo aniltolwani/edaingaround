@@ -1,0 +1,1 @@
+{"id": "code_306_0", "source": "github_snippet", "lang": "py", "prompt": "jumps ubuntu data brown help configure ubuntu over to ubuntu jumps lazy please", "response": "def run(x):\n    return eval(str(x))\n", "_pair_hash": "b623a2dfcd03170309152b07834ca432"}

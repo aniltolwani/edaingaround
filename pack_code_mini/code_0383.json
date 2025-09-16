@@ -1,0 +1,2 @@
+{"id": "code_383_0", "source": "doc_example", "lang": "cpp", "prompt": "api step brown data to step install over", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "68c82d8e74b5c000bd321fce30cd4e90"}
+{"id": "code_383_1", "source": "doc_example", "lang": "js", "prompt": "help example help function quick explain api", "response": "function add(a,b){return a+b;}", "_pair_hash": "0d33ba3f79aeb74cb57b98d21fca8c62"}

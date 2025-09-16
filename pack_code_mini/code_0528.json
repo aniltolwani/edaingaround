@@ -1,0 +1,1 @@
+[{"id": "code_528_0", "source": "doc_example", "lang": "py", "prompt": "explain thanks linux how quick step ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "95150e5cebb325bbb30485f534eec792"}]

@@ -1,0 +1,2 @@
+{"id": "code_161_0", "source": "doc_example", "lang": "py", "prompt": "over install step fox brown linux configure guide function install over windows windows windows", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "61299b8a8e829921348b92cb14b3bd33"}
+{"id": "code_161_1", "source": "synthetic_codegen", "lang": "py", "prompt": "example configure api quick to example", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "d11bc052017fe318ec3bbfaad618f700"}

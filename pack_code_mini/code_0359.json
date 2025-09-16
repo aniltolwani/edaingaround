@@ -1,0 +1,2 @@
+{"id": "code_359_0", "source": "synthetic_codegen", "lang": "py", "prompt": "ubuntu to function example over over install explain quick thanks help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3e47b256b15d46f1569b600998317083"}
+{"id": "code_359_1", "source": "synthetic_codegen", "lang": "py", "prompt": "jumps use example how brown function over jumps guide", "response": "def broken(:\n    return 1\n", "_pair_hash": "f46485f49ba962a04e58e67482e053f7"}

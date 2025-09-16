@@ -1,0 +1,1 @@
+{"id": "code_257_0", "source": "doc_example", "lang": "py", "prompt": "brown windows configure lazy guide windows please guide ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "69fb345b26c06972df13b6c513921a68"}

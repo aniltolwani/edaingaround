@@ -1,0 +1,2 @@
+{"id": "code_693_0", "source": "doc_example", "lang": "py", "prompt": "api fox help install explain explain install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a455788cd1285584ba7deb20432e7fef"}
+{"id": "code_693_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "function dog install configure function ubuntu ubuntu guide function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "92940cf9fb8646a1953a9120a3f30c08"}

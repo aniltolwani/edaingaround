@@ -1,0 +1,2 @@
+{"id": "code_593_0", "source": "doc_example", "lang": "py", "prompt": "function help api ubuntu explain please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b03900d5fa31c52fe056fc314387ee72"}
+{"id": "code_593_1", "source": "doc_example", "lang": "cpp", "prompt": "linux lazy example step lazy thanks the dog", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "55179b07e097d419ef6e3539f629f7ad"}

@@ -1,0 +1,2 @@
+{"id": "code_916_0", "source": "synthetic_codegen", "lang": "py", "prompt": "function how jumps explain linux api explain function how", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "cd9dde8b48f55b95660678891b139f2f"}
+{"id": "code_916_1", "source": "github_snippet", "lang": "py", "prompt": "thanks data how the the example example ubuntu", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "30a1a7b6be7465216bdad01a6c3a9d63"}

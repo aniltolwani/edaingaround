@@ -1,0 +1,2 @@
+{"id": "code_426_0", "source": "synthetic_codegen", "lang": "js", "prompt": "windows windows configure help install install fox windows please please", "response": "eval('2+2');function add(a,b){return a+b;}", "_pair_hash": "cf0d88e00c4659e8eed239ea509bf373"}
+{"id": "code_426_1", "source": "synthetic_codegen", "lang": "py", "prompt": "help over lazy brown guide explain configure thanks jumps windows install example please", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "b795873f3ef9b51c4f0056e2f6e2eed8"}

@@ -1,0 +1,2 @@
+{"id": "code_596_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu jumps to the how example configure ubuntu brown how ubuntu to lazy", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "9a2e5355c0bfb090d55e7dc1df97b42f"}
+{"id": "code_596_1", "source": "github_snippet", "lang": "js", "prompt": "guide api data install windows fox over fox data dog jumps the jumps", "response": "function add(a,b){return a+b;}", "_pair_hash": "d5b63d905525e37e41b675820b5261fa"}

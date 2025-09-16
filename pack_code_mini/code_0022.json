@@ -1,0 +1,1 @@
+{"id": "code_22_0", "source": "github_snippet", "lang": "py", "prompt": "ubuntu please thanks to explain windows install lazy explain data explain how use dog", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "a82b7edfaf6209307da895241fe041b0"}

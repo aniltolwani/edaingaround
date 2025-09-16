@@ -1,0 +1,1 @@
+{"id": "code_715_0", "source": "github_snippet", "lang": "cpp", "prompt": "example example jumps please data lazy quick to use configure please explain function", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "a155ab74c1aaf26f103ec8678d653eab"}

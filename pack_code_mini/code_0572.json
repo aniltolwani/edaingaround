@@ -1,0 +1,2 @@
+{"id": "code_572_0", "source": "doc_example", "lang": "js", "prompt": "step dog use over how install lazy jumps example over the lazy install jumps", "response": "function add(a,b){return a+b;}", "_pair_hash": "7118e999b54ef2c2068ef820240aae8a"}
+{"id": "code_572_1", "source": "github_snippet", "lang": "py", "prompt": "how function dog use how lazy step please step install", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "ff15ef00742e725a5dc3731bca3660d1"}

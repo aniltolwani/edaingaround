@@ -1,0 +1,2 @@
+{"id": "code_73_0", "source": "github_snippet", "lang": "cpp", "prompt": "function to fox windows over help ubuntu", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "34139c85e4ed714d54033f332f675fa6"}
+{"id": "code_73_1", "source": "synthetic_codegen", "lang": "cpp", "prompt": "example guide explain example guide explain step windows over step", "response": "int add(int a,int b){return a+b;}", "_pair_hash": "e5cab4df64aac3aa80e11275bcf29822"}

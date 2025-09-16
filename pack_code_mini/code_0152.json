@@ -1,0 +1,2 @@
+{"id": "code_152_0", "source": "github_snippet", "lang": "py", "prompt": "example windows api lazy fox over the use data install ubuntu step jumps linux", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "3eda9077c2993ee92677262121acbb92"}
+{"id": "code_152_1", "source": "doc_example", "lang": "py", "prompt": "the the brown thanks step help", "response": "def add(a,b):\n    return a + b\n", "_pair_hash": "7f8d9e7ee59adac421994c6cc5b1165a"}
