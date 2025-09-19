@@ -1,0 +1,11 @@
+{
+  "month": "january",
+  "year": 2024,
+  "total_completions": 50,
+  "languages": {
+    "py": 20,
+    "js": 15,
+    "java": 10,
+    "rust": 5
+  }
+}

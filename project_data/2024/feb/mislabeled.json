@@ -1,0 +1,10 @@
+{"id": "trap_000", "lang": "py", "response": "print('hello')", "timestamp": "2025-09-18T10:21:23.589634"}
+{"id": "trap_001", "lang": "py", "response": "class DataProcessor:\n    def __init__(self, data):\n        self.data = data\n    \n    def process(self):\n        return [x * 2 for x in self.data]", "timestamp": "2025-09-18T10:21:23.589641"}
+{"id": "trap_002", "lang": "py", "response": "x = 5", "timestamp": "2025-09-18T10:21:23.589646"}
+{"id": "trap_003", "lang": "py", "response": "x = 5", "timestamp": "2025-09-18T10:21:23.589649"}
+{"id": "trap_004", "lang": "py", "response": "print('hello')", "timestamp": "2025-09-18T10:21:23.589652"}
+{"id": "trap_005", "lang": "py", "response": "def fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)", "timestamp": "2025-09-18T10:21:23.589654"}
+{"id": "trap_006", "lang": "py", "response": "x = 5", "timestamp": "2025-09-18T10:21:23.589657"}
+{"id": "trap_007", "lang": "py", "response": "def fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)", "timestamp": "2025-09-18T10:21:23.589660"}
+{"id": "trap_008", "lang": "py", "response": "class DataProcessor:\n    def __init__(self, data):\n        self.data = data\n    \n    def process(self):\n        return [x * 2 for x in self.data]", "timestamp": "2025-09-18T10:21:23.589662"}
+{"id": "trap_009", "lang": "py", "response": "print('hello')", "timestamp": "2025-09-18T10:21:23.589665"}
