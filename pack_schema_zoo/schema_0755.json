@@ -1,0 +1,3 @@
+{"id": "r755_0", "source": "helpdesk_export", "timestamp": "2024-03-08T05:43:00", "meta": [{"k": "tag", "v": "spark"}], "title": "spark k8s dagster infra pipelines"}
+{"id": "r755_1", "source": "forum_dump", "timestamp": "2024-07-18T15:17:00", "text": "bug note note bug short todo rl bug fix note rl fix fix"}
+{"id": "r755_2", "source": "forum_dump", "timestamp": "2024-02-29T19:59:00", "docs": [{"t": "H1", "v": "env dpo grad reset reset kl kl reset reset loss reset kl loss"}, {"t": "P", "v": "loss grad grad rlhf ppo dpo rlhf kl reset token reset env ppo env reset dpo kl"}, {"t": "H2", "v": "dpo token env dpo ppo kl rlhf rlhf grad rlhf rlhf rlhf kl"}, {"t": "P", "v": "loss ppo env env reset reset rlhf env kl reset grad dpo rlhf rlhf token dpo"}]}

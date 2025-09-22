@@ -1,0 +1,2 @@
+{"id": "r493_0", "source": "legacy_csv_ingest", "timestamp": "2024-04-20T10:35:00", "meta": [{"k": "tag", "v": "ppo"}, {"k": "tag", "v": "spark"}], "title": "spark spark spark k8s dagster"}
+{"id": "r493_1", "source": "partner_feed", "timestamp": "2024-04-04T15:38:00", "docs": [{"t": "H1", "v": "ppo dpo dpo rlhf loss grad token loss dpo grad grad rlhf loss loss grad token grad grad loss"}, {"t": "H1", "v": "kl rlhf reset dpo token grad reset token dpo dpo kl reset reset rlhf ppo env reset kl dpo rlhf"}]}

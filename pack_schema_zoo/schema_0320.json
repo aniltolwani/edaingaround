@@ -1,0 +1,4 @@
+{"id": "r320_0", "source": "partner_feed", "timestamp": "2024-03-12T05:12:00", "text": "bug bug short rl short short note bug short rl note short"}
+{"id": "r320_1", "source": "forum_dump", "timestamp": "2024-03-26T10:50:00", "text": "note todo fix bug rl bug short bug"}
+{"id": "r320_2", "source": "legacy_csv_ingest", "timestamp": "2024-05-14T04:08:00", "meta": [{"k": "tag", "v": "gpu"}], "title": "spark k8s spark pipelines dagster"}
+{"id": "r320_3", "source": "helpdesk_export", "timestamp": "2024-03-09T19:52:00", "docs": [{"t": "H2", "v": "env kl reset reset kl loss env rlhf grad dpo dpo dpo reset dpo kl kl loss env dpo"}]}

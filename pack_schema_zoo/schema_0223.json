@@ -1,0 +1,4 @@
+{"id": "r223_0", "source": "legacy_csv_ingest", "timestamp": "2024-08-07T04:04:00", "text": "short short todo note bug short fix todo short todo"}
+{"id": "r223_1", "source": "forum_dump", "timestamp": "2024-05-11T05:44:00", "text": "fix short todo todo bug note bug bug bug note note note note rl bug bug"}
+{"id": "r223_2", "source": "helpdesk_export", "timestamp": "2024-03-05T22:45:00", "meta": [{"k": "tag", "v": "agent"}], "title": "pipelines k8s pipelines k8s infra"}
+{"id": "r223_3", "source": "partner_feed", "timestamp": "2024-07-16T23:02:00", "docs": [{"t": "H1", "v": "dpo rlhf token grad dpo kl env dpo token grad token reset env"}, {"t": "H2", "v": "rlhf token kl ppo kl ppo rlhf"}, {"t": "H1", "v": "kl loss env token ppo ppo dpo ppo rlhf ppo rlhf dpo"}, {"t": "H1", "v": "token dpo env reset reset grad ppo token"}, {"t": "H2", "v": "reset rlhf env ppo token env loss grad grad dpo dpo rlhf ppo reset rlhf loss reset reset grad loss"}]}

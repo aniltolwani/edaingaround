@@ -1,0 +1,2 @@
+{"id": "r575_0", "source": "partner_feed", "timestamp": "2024-06-30T23:50:00", "docs": [{"t": "H1", "v": "ppo kl rlhf env grad token token rlhf env ppo loss token"}, {"t": "P", "v": "reset grad reset grad loss reset ppo loss token token dpo grad dpo grad kl ppo env token"}, {"t": "P", "v": "token dpo grad env env token"}, {"t": "H2", "v": "loss rlhf kl dpo env ppo"}]}
+{"id": "r575_1", "source": "forum_dump", "timestamp": "2024-02-07T06:30:00", "text": "note todo bug note note rl rl todo short bug note fix bug"}

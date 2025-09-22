@@ -1,0 +1,3 @@
+{"id": "r322_0", "source": "partner_feed", "timestamp": "2024-07-14T02:47:00", "meta": [{"k": "tag", "v": "windows"}, {"k": "tag", "v": "dpo"}, {"k": "tag", "v": "rl"}], "title": "infra k8s dagster spark pipelines"}
+{"id": "r322_1", "source": "legacy_csv_ingest", "timestamp": "2024-01-14T06:01:00", "meta": [{"k": "tag", "v": "agent"}], "title": "pipelines k8s spark infra pipelines"}
+{"id": "r322_2", "source": "partner_feed", "timestamp": "2024-03-02T05:59:00", "meta": [{"k": "tag", "v": "dpo"}, {"k": "tag", "v": "eval"}, {"k": "tag", "v": "kubernetes"}], "title": "pipelines infra spark spark pipelines"}

@@ -1,0 +1,3 @@
+{"id": "r419_0", "source": "helpdesk_export", "timestamp": "2024-04-04T03:44:00", "text": "short bug bug bug short rl"}
+{"id": "r419_1", "source": "legacy_csv_ingest", "timestamp": "2024-05-24T06:55:00", "meta": [{"k": "tag", "v": "training"}], "title": "pipelines k8s k8s k8s dagster"}
+{"id": "r419_2", "source": "forum_dump", "timestamp": "2024-02-16T21:07:00", "docs": [{"t": "H2", "v": "rlhf reset kl dpo kl token token env dpo reset env env ppo reset dpo token ppo"}, {"t": "H1", "v": "loss loss dpo grad env loss"}, {"t": "P", "v": "dpo reset reset token token grad kl ppo token loss token loss"}, {"t": "H1", "v": "token rlhf grad reset rlhf dpo reset loss ppo dpo loss rlhf ppo grad token reset grad reset rlhf rlhf"}]}

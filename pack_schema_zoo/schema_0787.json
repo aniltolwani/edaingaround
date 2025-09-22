@@ -1,0 +1,2 @@
+{"id": "r787_0", "source": "helpdesk_export", "timestamp": "2024-06-09T13:02:00", "text": "note rl rl rl todo note note todo fix bug todo rl short short short fix fix"}
+{"id": "r787_1", "source": "legacy_csv_ingest", "timestamp": "2024-07-11T07:46:00", "meta": [{"k": "tag", "v": "training"}, {"k": "tag", "v": "infra"}], "title": "spark spark dagster spark dagster"}

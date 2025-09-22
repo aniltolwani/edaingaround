@@ -1,0 +1,3 @@
+{"id": "r636_0", "source": "legacy_csv_ingest", "timestamp": "2024-02-20T00:07:00", "meta": [{"k": "tag", "v": "agent"}, {"k": "tag", "v": "linux"}], "title": "spark pipelines pipelines infra pipelines"}
+{"id": "r636_1", "source": "partner_feed", "timestamp": "2024-01-11T12:14:00", "meta": [{"k": "tag", "v": "windows"}], "title": "infra k8s pipelines spark k8s"}
+{"id": "r636_2", "source": "forum_dump", "timestamp": "2024-04-17T02:55:00", "title": "reward config config reward reward install", "text": "training agent uses system scaling rewards uses policy agent uses scaling training training the for for kl kl kl system training policy kl for for ppo training rewards rewards uses training scaling ppo laws scaling system for uses training scaling"}

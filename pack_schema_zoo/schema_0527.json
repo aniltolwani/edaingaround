@@ -1,0 +1,3 @@
+{"id": "r527_0", "source": "legacy_csv_ingest", "timestamp": "2024-08-04T05:12:00", "text": "rl fix bug fix short"}
+{"id": "r527_1", "source": "legacy_csv_ingest", "timestamp": "2024-03-02T10:07:00", "docs": [{"t": "P", "v": "ppo env token token kl env rlhf kl kl kl ppo reset loss grad token reset token reset"}]}
+{"id": "r527_2", "source": "forum_dump", "timestamp": "2024-04-09T10:23:00", "docs": [{"t": "H2", "v": "kl ppo token env dpo dpo env dpo env ppo ppo reset grad env token env rlhf token ppo"}]}

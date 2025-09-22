@@ -1,0 +1,2 @@
+{"id": "r760_0", "source": "legacy_csv_ingest", "timestamp": "2024-07-05T07:20:00", "meta": [{"k": "tag", "v": "rl"}], "title": "pipelines k8s spark pipelines infra"}
+{"id": "r760_1", "source": "news_api", "timestamp": "2024-03-23T10:00:00", "meta": [{"k": "tag", "v": "eval"}], "title": "spark infra spark pipelines pipelines"}

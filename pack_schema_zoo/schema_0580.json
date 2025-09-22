@@ -1,0 +1,4 @@
+{"id": "r580_0", "source": "forum_dump", "timestamp": "2024-08-06T22:57:00", "docs": [{"t": "P", "v": "loss rlhf rlhf token dpo token grad token grad rlhf reset dpo reset"}]}
+{"id": "r580_1", "source": "legacy_csv_ingest", "timestamp": "2024-02-08T23:35:00", "text": "short todo rl short fix todo rl todo bug bug short bug todo fix short note"}
+{"id": "r580_2", "source": "legacy_csv_ingest", "timestamp": "2024-06-09T02:42:00", "docs": [{"t": "H1", "v": "dpo env grad ppo rlhf reset grad ppo kl reset env rlhf"}, {"t": "H1", "v": "env grad rlhf rlhf reset loss rlhf dpo kl dpo env"}, {"t": "H1", "v": "token loss reset loss rlhf env rlhf kl"}, {"t": "H1", "v": "env rlhf ppo dpo reset grad kl"}]}
+{"id": "r580_3", "source": "helpdesk_export", "timestamp": "2024-02-23T21:24:00", "meta": [{"k": "tag", "v": "agent"}], "title": "pipelines pipelines spark pipelines infra"}

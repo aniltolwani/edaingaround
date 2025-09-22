@@ -1,0 +1,4 @@
+{"id": "r8_0", "source": "helpdesk_export", "timestamp": "2024-07-28T02:44:00", "docs": [{"t": "H1", "v": "dpo env loss dpo kl loss kl token loss"}, {"t": "P", "v": "token ppo dpo ppo dpo rlhf token grad"}, {"t": "H1", "v": "kl ppo dpo grad kl ppo rlhf token grad rlhf reset grad reset"}, {"t": "P", "v": "ppo reset ppo reset reset loss reset"}, {"t": "H1", "v": "kl dpo dpo token reset grad env"}]}
+{"id": "r8_1", "source": "news_api", "timestamp": "2024-07-23T19:01:00", "text": "short short todo note note rl todo todo note"}
+{"id": "r8_2", "source": "forum_dump", "timestamp": "2024-05-31T14:54:00", "docs": [{"t": "H2", "v": "token loss grad env reset env rlhf ppo rlhf grad"}]}
+{"id": "r8_3", "source": "news_api", "timestamp": "2024-05-22T13:27:00", "meta": [{"k": "tag", "v": "ppo"}, {"k": "tag", "v": "api"}], "title": "k8s k8s spark k8s dagster"}

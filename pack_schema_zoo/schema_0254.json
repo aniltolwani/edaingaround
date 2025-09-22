@@ -1,0 +1,4 @@
+{"id": "r254_0", "source": "forum_dump", "timestamp": "2024-06-08T06:53:00", "text": "fix fix todo fix todo bug rl note fix fix todo bug todo todo short todo fix fix"}
+{"id": "r254_1", "source": "news_api", "timestamp": "2024-05-29T00:37:00", "text": "note todo todo rl rl"}
+{"id": "r254_2", "source": "legacy_csv_ingest", "timestamp": "2024-07-21T06:52:00", "text": "short rl short fix todo note rl short short bug todo todo todo bug fix todo rl"}
+{"id": "r254_3", "source": "news_api", "timestamp": "2024-05-18T04:56:00", "docs": [{"t": "P", "v": "env ppo dpo rlhf dpo grad ppo loss reset grad rlhf reset loss"}, {"t": "H2", "v": "kl ppo token env ppo rlhf env dpo dpo token kl dpo env dpo token dpo loss"}, {"t": "P", "v": "reset env grad env loss kl rlhf dpo kl rlhf"}, {"t": "P", "v": "dpo ppo ppo env kl env dpo loss rlhf dpo env kl kl token"}, {"t": "P", "v": "grad grad grad reset rlhf env grad dpo ppo rlhf loss rlhf token rlhf env grad dpo token"}]}

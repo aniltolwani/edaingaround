@@ -1,0 +1,4 @@
+{"id": "r568_0", "source": "helpdesk_export", "timestamp": "2024-01-21T15:09:00", "text": "note rl fix short note todo todo bug short note fix bug short"}
+{"id": "r568_1", "source": "forum_dump", "timestamp": "2024-03-16T16:59:00", "docs": [{"t": "P", "v": "token dpo kl env env reset rlhf rlhf env token ppo token token rlhf rlhf loss token"}, {"t": "P", "v": "token dpo token reset env token token ppo rlhf grad reset env grad token"}, {"t": "H2", "v": "env grad reset reset loss kl"}]}
+{"id": "r568_2", "source": "helpdesk_export", "timestamp": "2024-06-01T20:08:00", "meta": [{"k": "tag", "v": "kubernetes"}, {"k": "tag", "v": "ppo"}], "title": "dagster infra k8s pipelines dagster"}
+{"id": "r568_3", "source": "news_api", "timestamp": "2024-02-15T12:39:00", "meta": [{"k": "tag", "v": "privacy"}, {"k": "tag", "v": "rl"}, {"k": "tag", "v": "k8s"}], "title": "infra k8s infra dagster dagster"}

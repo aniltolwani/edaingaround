@@ -1,0 +1,4 @@
+{"id": "r286_0", "source": "helpdesk_export", "timestamp": "2024-02-13T00:58:00", "meta": [{"k": "tag", "v": "kubernetes"}, {"k": "tag", "v": "kubernetes"}, {"k": "tag", "v": "kubernetes"}], "title": "dagster dagster infra dagster infra"}
+{"id": "r286_1", "source": "forum_dump", "timestamp": "2024-05-25T19:33:00", "meta": [{"k": "tag", "v": "dagster"}, {"k": "tag", "v": "docker"}], "title": "infra dagster dagster spark pipelines"}
+{"id": "r286_2", "source": "legacy_csv_ingest", "timestamp": "2024-05-30T21:16:00", "meta": [{"k": "tag", "v": "windows"}, {"k": "tag", "v": "safety"}, {"k": "tag", "v": "infra"}], "title": "dagster k8s infra dagster pipelines"}
+{"id": "r286_3", "source": "news_api", "timestamp": "2024-01-01T02:46:00", "meta": [{"k": "tag", "v": "privacy"}], "title": "dagster k8s k8s spark pipelines"}

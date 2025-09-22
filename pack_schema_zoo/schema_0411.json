@@ -1,0 +1,2 @@
+{"id": "r411_0", "source": "legacy_csv_ingest", "timestamp": "2024-04-18T05:18:00", "text": "todo fix todo rl note bug fix todo short bug todo rl"}
+{"id": "r411_1", "source": "helpdesk_export", "timestamp": "2024-01-22T23:08:00", "meta": [{"k": "tag", "v": "dagster"}, {"k": "tag", "v": "training"}], "title": "pipelines pipelines pipelines dagster spark"}

@@ -1,0 +1,4 @@
+{"id": "r757_0", "source": "legacy_csv_ingest", "timestamp": "2024-06-03T13:47:00", "docs": [{"t": "H1", "v": "dpo grad kl rlhf rlhf ppo env dpo reset kl loss rlhf rlhf kl token"}, {"t": "H2", "v": "env grad env kl ppo rlhf kl ppo kl loss ppo dpo kl rlhf dpo kl"}]}
+{"id": "r757_1", "source": "helpdesk_export", "timestamp": "2024-01-13T17:52:00", "meta": [{"k": "tag", "v": "rl"}, {"k": "tag", "v": "token"}], "title": "infra k8s pipelines k8s dagster"}
+{"id": "r757_2", "source": "forum_dump", "timestamp": "2024-04-19T22:55:00", "meta": [{"k": "tag", "v": "training"}], "title": "infra spark dagster spark k8s"}
+{"id": "r757_3", "source": "helpdesk_export", "timestamp": "2024-02-18T19:52:00", "meta": [{"k": "tag", "v": "ppo"}], "title": "pipelines infra pipelines spark dagster"}

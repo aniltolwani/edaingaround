@@ -1,0 +1,4 @@
+{"id": "r211_0", "source": "legacy_csv_ingest", "timestamp": "2024-06-20T20:01:00", "text": "note note rl todo short short todo todo note"}
+{"id": "r211_1", "source": "forum_dump", "timestamp": "2024-07-24T15:05:00", "text": "rl bug rl short note fix note note todo note"}
+{"id": "r211_2", "source": "helpdesk_export", "timestamp": "2024-04-04T03:23:00", "docs": [{"t": "H1", "v": "rlhf ppo grad env token env token grad kl reset rlhf grad rlhf rlhf grad grad dpo"}, {"t": "P", "v": "env loss dpo rlhf dpo loss env token dpo ppo loss kl token"}, {"t": "H2", "v": "ppo ppo env dpo env dpo token rlhf env token env"}, {"t": "H2", "v": "ppo loss token kl rlhf token dpo rlhf reset ppo kl token grad rlhf reset grad ppo grad grad grad"}]}
+{"id": "r211_3", "source": "helpdesk_export", "timestamp": "2024-02-24T21:26:00", "meta": [{"k": "tag", "v": "dpo"}, {"k": "tag", "v": "ppo"}, {"k": "tag", "v": "api"}], "title": "pipelines k8s spark pipelines infra"}

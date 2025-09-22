@@ -1,0 +1,4 @@
+{"id": "dup_5", "source": "legacy_csv_ingest", "timestamp": "2024-07-29T12:14:00", "title": "gpu gpu gpu reward quick debug", "text": "ppo policy system uses scaling training for training ppo policy scaling policy kl the the ppo the training kl for rewards for kl kl laws agent training rewards uses the policy"}
+{"id": "dup_20", "source": "legacy_csv_ingest", "timestamp": "2024-06-04T12:14:00", "docs": [{"t": "H2", "v": "token env loss env rlhf env ppo rlhf loss rlhf reset"}, {"t": "H1", "v": "ppo token reset ppo loss reset env rlhf dpo kl ppo"}]}
+{"id": "r598_2", "source": "partner_feed", "timestamp": "2024-01-24T00:43:00", "meta": [{"k": "tag", "v": "ppo"}], "title": "spark pipelines pipelines pipelines k8s"}
+{"id": "r598_3", "source": "forum_dump", "timestamp": "2024-02-29T04:05:00", "meta": [{"k": "tag", "v": "privacy"}, {"k": "tag", "v": "eval"}, {"k": "tag", "v": "privacy"}], "title": "spark pipelines dagster infra k8s"}

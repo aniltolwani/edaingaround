@@ -1,0 +1,3 @@
+{"id": "r199_0", "source": "partner_feed", "timestamp": "2024-01-22T11:30:00", "docs": [{"t": "P", "v": "reset env dpo ppo grad ppo token ppo token env ppo ppo token grad token rlhf ppo reset dpo grad"}, {"t": "H2", "v": "loss loss token grad kl grad grad loss ppo ppo kl kl"}, {"t": "H2", "v": "env kl reset rlhf env dpo kl rlhf token rlhf loss reset grad kl ppo loss loss loss kl"}, {"t": "H1", "v": "env ppo token grad reset env env reset ppo dpo dpo dpo token"}]}
+{"id": "r199_1", "source": "partner_feed", "timestamp": "2024-02-12T08:50:00", "text": "fix short todo bug fix short fix todo"}
+{"id": "r199_2", "source": "forum_dump", "timestamp": "2024-03-23T00:36:00", "text": "short fix bug note rl bug"}

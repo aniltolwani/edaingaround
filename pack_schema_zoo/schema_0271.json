@@ -1,0 +1,4 @@
+{"id": "r271_0", "source": "legacy_csv_ingest", "timestamp": "2024-05-15T01:11:00", "text": "short rl todo fix fix fix fix bug note fix bug bug note rl"}
+{"id": "r271_1", "source": "forum_dump", "timestamp": "2024-06-06T19:42:00", "text": "note short rl bug short note note note"}
+{"id": "r271_2", "source": "helpdesk_export", "timestamp": "2024-07-05T03:29:00", "meta": [{"k": "tag", "v": "k8s"}, {"k": "tag", "v": "linux"}], "title": "dagster k8s k8s spark infra"}
+{"id": "r271_3", "source": "partner_feed", "timestamp": "2024-06-24T04:55:00", "text": "note short fix bug todo rl note note todo todo"}

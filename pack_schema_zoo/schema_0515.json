@@ -1,0 +1,2 @@
+{"id": "r515_0", "source": "legacy_csv_ingest", "timestamp": "2024-04-10T17:47:00", "docs": [{"t": "P", "v": "grad grad reset token reset dpo loss rlhf rlhf token env ppo"}, {"t": "H2", "v": "token grad dpo reset kl env grad dpo dpo loss rlhf dpo grad rlhf token kl env"}, {"t": "H2", "v": "loss env rlhf token reset kl reset"}, {"t": "H1", "v": "env loss ppo token reset ppo reset rlhf ppo reset reset env token kl env reset token ppo"}]}
+{"id": "r515_1", "source": "news_api", "timestamp": "2024-07-13T07:58:00", "text": "todo rl rl fix note todo bug short short todo bug"}

@@ -1,0 +1,3 @@
+{"id": "r646_0", "source": "legacy_csv_ingest", "timestamp": "2024-01-23T06:18:00", "text": "note bug fix bug short todo short todo short"}
+{"id": "r646_1", "source": "forum_dump", "timestamp": "2024-07-22T14:39:00", "meta": [{"k": "tag", "v": "api"}], "title": "spark dagster spark infra pipelines"}
+{"id": "r646_2", "source": "forum_dump", "timestamp": "2024-04-15T02:13:00", "docs": [{"t": "P", "v": "rlhf dpo kl reset kl rlhf loss env grad ppo token token dpo rlhf grad kl"}, {"t": "H1", "v": "token token grad ppo ppo rlhf"}, {"t": "H1", "v": "loss grad reset reset rlhf loss token"}, {"t": "P", "v": "rlhf reset reset reset reset dpo grad dpo token grad kl reset grad reset env reset token grad dpo"}, {"t": "P", "v": "kl env rlhf token grad dpo token loss kl dpo env"}]}

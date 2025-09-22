@@ -1,0 +1,1 @@
+[{"id": "r292_0", "source": "legacy_csv_ingest", "timestamp": "2024-02-08T20:59:00", "meta": [{"k": "tag", "v": "gpu"}, {"k": "tag", "v": "eval"}], "title": "infra spark dagster k8s k8s"}, {"id": "r292_1", "source": "helpdesk_export", "timestamp": "2024-03-29T12:52:00", "meta": [{"k": "tag", "v": "privacy"}], "title": "spark infra pipelines pipelines dagster"}]

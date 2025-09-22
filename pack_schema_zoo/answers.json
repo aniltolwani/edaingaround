@@ -1,0 +1,30 @@
+{
+  "pack": "schema_zoo",
+  "rows": 2384,
+  "unique_ids": 2285,
+  "id_collision_count": 30,
+  "top_tag_counts": {
+    "ppo": 121,
+    "training": 120,
+    "privacy": 119,
+    "docker": 115,
+    "kubernetes": 113
+  },
+  "keys_present_top10": {
+    "id": 2384,
+    "source": 2384,
+    "timestamp": 2384,
+    "title": 988,
+    "meta": 971,
+    "text": 944,
+    "docs": 469,
+    "content": 464,
+    "content.header": 464,
+    "content.body": 464
+  },
+  "keys_multi_type_count": 1,
+  "required_artifacts": [
+    "schema_missingness.html",
+    "top_tags.html"
+  ]
+}

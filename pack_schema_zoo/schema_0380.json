@@ -1,0 +1,2 @@
+{"id": "r380_0", "source": "news_api", "timestamp": "2024-03-16T20:48:00", "text": "fix note short rl todo todo rl"}
+{"id": "r380_1", "source": "helpdesk_export", "timestamp": "2024-02-14T08:30:00", "docs": [{"t": "H2", "v": "grad rlhf ppo loss rlhf kl kl ppo env dpo token token token reset reset kl token"}, {"t": "H1", "v": "ppo dpo grad env grad loss rlhf loss ppo kl ppo token reset rlhf kl grad"}, {"t": "P", "v": "token kl token loss rlhf token rlhf reset token token dpo reset ppo"}]}

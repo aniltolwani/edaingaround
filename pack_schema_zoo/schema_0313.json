@@ -1,0 +1,4 @@
+{"id": "dup_0", "source": "legacy_csv_ingest", "timestamp": "2024-08-02T05:00:00", "meta": [{"k": "tag", "v": "k8s"}, {"k": "tag", "v": "linux"}], "title": "spark dagster infra dagster infra"}
+{"id": "r313_1", "source": "forum_dump", "timestamp": "2024-01-02T04:13:00", "meta": [{"k": "tag", "v": "gpu"}, {"k": "tag", "v": "safety"}], "title": "infra spark spark pipelines infra"}
+{"id": "r313_2", "source": "partner_feed", "timestamp": "2024-07-06T22:55:00", "meta": [{"k": "tag", "v": "gpu"}], "title": "dagster infra k8s k8s infra"}
+{"id": "r313_3", "source": "forum_dump", "timestamp": "2024-06-27T12:26:00", "docs": [{"t": "H2", "v": "rlhf reset ppo kl reset token rlhf kl grad kl rlhf token rlhf rlhf kl grad reset"}, {"t": "H2", "v": "reset kl grad kl env ppo ppo token grad token grad dpo reset rlhf ppo grad"}]}

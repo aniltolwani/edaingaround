@@ -1,0 +1,4 @@
+{"id": "r404_0", "source": "partner_feed", "timestamp": "2024-08-03T10:20:00", "docs": [{"t": "H2", "v": "rlhf env rlhf ppo kl rlhf dpo ppo token dpo ppo grad"}, {"t": "H1", "v": "reset rlhf reset grad env kl loss kl kl"}]}
+{"id": "r404_1", "source": "helpdesk_export", "timestamp": "2024-02-03T13:50:00", "text": "todo todo short short todo note fix note bug rl short bug todo bug bug note short"}
+{"id": "r404_2", "source": "legacy_csv_ingest", "timestamp": "2024-07-10T23:23:00", "meta": [{"k": "tag", "v": "eval"}, {"k": "tag", "v": "training"}, {"k": "tag", "v": "windows"}], "title": "spark k8s k8s pipelines dagster"}
+{"id": "r404_3", "source": "legacy_csv_ingest", "timestamp": "2024-07-16T05:06:00", "text": "todo rl fix rl note short bug note fix todo note todo note todo bug"}

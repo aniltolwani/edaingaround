@@ -1,0 +1,2 @@
+{"id": "r641_0", "source": "legacy_csv_ingest", "timestamp": "2024-01-03T06:11:00", "docs": [{"t": "H2", "v": "token ppo rlhf loss dpo token grad ppo kl env dpo kl"}, {"t": "P", "v": "token dpo rlhf rlhf token grad rlhf ppo kl grad kl reset token loss rlhf kl rlhf token env ppo"}, {"t": "P", "v": "kl ppo token ppo reset dpo ppo reset dpo kl kl"}]}
+{"id": "r641_1", "source": "partner_feed", "timestamp": "2024-02-03T23:51:00", "text": "todo short fix bug todo todo bug short fix bug rl todo"}

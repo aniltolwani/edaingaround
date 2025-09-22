@@ -1,0 +1,2 @@
+{"id": "r761_0", "source": "partner_feed", "timestamp": "2024-07-08T08:59:00", "docs": [{"t": "P", "v": "rlhf reset kl loss ppo dpo reset rlhf grad"}, {"t": "H2", "v": "reset rlhf env token loss env reset rlhf"}, {"t": "H1", "v": "dpo ppo token reset grad ppo dpo rlhf kl env"}]}
+{"id": "r761_1", "source": "news_api", "timestamp": "2024-06-19T06:59:00", "meta": [{"k": "tag", "v": "training"}, {"k": "tag", "v": "eval"}, {"k": "tag", "v": "k8s"}], "title": "spark infra spark k8s infra"}

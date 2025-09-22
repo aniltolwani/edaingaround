@@ -1,0 +1,4 @@
+{"id": "r315_0", "source": "forum_dump", "timestamp": "2024-04-09T03:10:00", "text": "bug fix todo bug bug bug"}
+{"id": "r315_1", "source": "partner_feed", "timestamp": "2024-04-01T21:40:00", "meta": [{"k": "tag", "v": "ppo"}, {"k": "tag", "v": "install"}], "title": "pipelines spark spark dagster pipelines"}
+{"id": "r315_2", "source": "helpdesk_export", "timestamp": "2024-06-16T00:22:00", "meta": [{"k": "tag", "v": "infra"}, {"k": "tag", "v": "linux"}, {"k": "tag", "v": "kubernetes"}], "title": "spark k8s k8s k8s dagster"}
+{"id": "r315_3", "source": "partner_feed", "timestamp": "2024-04-15T05:43:00", "docs": [{"t": "H2", "v": "reset reset env reset ppo loss reset kl token kl rlhf grad token reset"}]}
