@@ -1,0 +1,23 @@
+{
+  "pack": "anomaly_surge",
+  "rows_parsed": 1286,
+  "error_counts": {
+    "truncated": 69,
+    "jsonerror": 62,
+    "control_char": 18,
+    "bom": 51
+  },
+  "rating_hist": {
+    "1": 146,
+    "2": 105,
+    "3": 124,
+    "4": 134,
+    "5": 247
+  },
+  "p95_text_length": 2676,
+  "empty_text_count": 0,
+  "required_artifacts": [
+    "length_hist.html",
+    "rating_bar.html"
+  ]
+}
