@@ -1,0 +1,1 @@
+[{"id": "k693_0", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}, {"id": "k693_1", "lang": "py", "source": "repo_A", "code": "def f206(a):\\n    for i in range(3):\\n        a+=i\\n    pickle.loads(a)\\n    return a\\n"}]

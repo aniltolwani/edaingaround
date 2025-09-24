@@ -1,0 +1,1 @@
+{"id": "k521_0", "lang": "py", "source": "gen_example", "code": "def f604(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    print(a)\\n    len(a)\\n    sum(a)\\n    return a\\ndef f954(a):\\n    json.dumps(a)\\n    sum(a)\\n    return a\\n"}

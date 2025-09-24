@@ -1,0 +1,1 @@
+[{"id": "k257_0", "lang": "py", "source": "repo_B", "code": "def f288(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    pickle.loads(a)\\n    pickle.loads(a)\\n    return a\\ndef f520(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}, {"id": "k257_1", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}]

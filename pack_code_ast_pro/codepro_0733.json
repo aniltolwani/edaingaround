@@ -1,0 +1,2 @@
+{"id": "k733_0", "lang": "py", "source": "doc_sample", "code": "def f197(a):\\n    if a>0:\\n        a-=1\\n    sum(a)\\n    range(a)\\n    return a\\n"}
+{"id": "k733_1", "lang": "js", "source": "repo_A", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\nfunction add(a,b){return a+b;}\\n"}

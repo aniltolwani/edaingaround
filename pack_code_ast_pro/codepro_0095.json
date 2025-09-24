@@ -1,0 +1,1 @@
+{"id": "k95_0", "lang": "py", "source": "doc_sample", "code": "def f501(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    sorted(a)\\n    len(a)\\n    return a\\ndef f949(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    return a\\n"}

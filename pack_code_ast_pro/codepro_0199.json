@@ -1,0 +1,1 @@
+{"id": "k199_0", "lang": "py", "source": "gen_example", "code": "def f942(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    map(a)\\n    return a\\ndef f190(a):\\n    if a>0:\\n        a-=1\\n    pickle.loads(a)\\n    return a\\n"}

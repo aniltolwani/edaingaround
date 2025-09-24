@@ -1,0 +1,2 @@
+{"id": "k69_0", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k69_1", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}

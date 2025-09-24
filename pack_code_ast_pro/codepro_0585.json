@@ -1,0 +1,2 @@
+{"id": "k585_0", "lang": "py", "source": "repo_A", "code": "def f307(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    return a\\ndef f483(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    range(a)\\n    sum(a)\\n    sum(a)\\n    return a\\n"}
+{"id": "k585_1", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}

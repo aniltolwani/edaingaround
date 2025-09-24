@@ -1,0 +1,1 @@
+{"id": "k823_0", "lang": "py", "source": "gen_example", "code": "def f281(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f620(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    pickle.loads(a)\\n    sum(a)\\n    return a\\n"}

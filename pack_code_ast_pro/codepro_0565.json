@@ -1,0 +1,1 @@
+{"id": "k565_0", "lang": "py", "source": "repo_A", "code": "def f235(a):\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    sum(a)\\n    return a\\n"}

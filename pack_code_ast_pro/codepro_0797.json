@@ -1,0 +1,2 @@
+{"id": "k797_0", "lang": "py", "source": "repo_A", "code": "def f928(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    print(a)\\n    return a\\ndef f460(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    pickle.loads(a)\\n    sum(a)\\n    return a\\ndef f45(a):\\n    while a<5:\\n        break\\n    map(a)\\n    sum(a)\\n    sum(a)\\n    return a\\n"}
+{"id": "k797_1", "lang": "py", "source": "gen_example", "code": "def broken(:\\n    return 1\\n"}

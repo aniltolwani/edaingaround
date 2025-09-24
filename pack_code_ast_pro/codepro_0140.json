@@ -1,0 +1,1 @@
+{"id": "k140_0", "lang": "py", "source": "repo_A", "code": "def f920(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    return a\\ndef f376(a):\\n    while a<5:\\n        break\\n    return a\\ndef f249(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    map(a)\\n    return a\\n"}

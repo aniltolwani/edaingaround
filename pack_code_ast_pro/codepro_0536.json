@@ -1,0 +1,2 @@
+{"id": "k536_0", "lang": "js", "source": "repo_A", "code": "eval('2+2');function add(a,b){return a+b;}\\n"}
+{"id": "k536_1", "lang": "py", "source": "repo_B", "code": "def f560(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    print(a)\\n    return a\\n"}

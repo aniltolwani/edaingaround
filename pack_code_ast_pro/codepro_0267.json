@@ -1,0 +1,1 @@
+{"id": "k267_0", "lang": "py", "source": "gen_example", "code": "def f930(a):\\n    len(a)\\n    print(a)\\n    return a\\n"}

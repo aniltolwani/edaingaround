@@ -1,0 +1,2 @@
+{"id": "k79_0", "lang": "js", "source": "repo_A", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\nfunction add(a,b){return a+b;}\\n"}
+{"id": "k79_1", "lang": "js", "source": "repo_B", "code": "eval('2+2');function add(a,b){return a+b;}\\n"}

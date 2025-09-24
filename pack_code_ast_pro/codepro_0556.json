@@ -1,0 +1,2 @@
+{"id": "k556_0", "lang": "js", "source": "doc_sample", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k556_1", "lang": "py", "source": "doc_sample", "code": "def f498(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    map(a)\\n    return a\\n"}

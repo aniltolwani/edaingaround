@@ -1,0 +1,1 @@
+{"id": "k152_0", "lang": "py", "source": "repo_A", "code": "def f307(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f519(a):\\n    if a>0:\\n        a-=1\\n    len(a)\\n    return a\\n"}

@@ -1,0 +1,1 @@
+{"id": "k367_0", "lang": "py", "source": "repo_A", "code": "def f317(a):\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    print(a)\\n    sum(a)\\n    return a\\ndef f441(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    print(a)\\n    json.dumps(a)\\n    map(a)\\n    return a\\n"}

@@ -1,0 +1,1 @@
+[{"id": "k574_0", "lang": "py", "source": "gen_example", "code": "def f251(a):\\n    range(a)\\n    print(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}]

@@ -1,0 +1,1 @@
+{"id": "k158_0", "lang": "py", "source": "gen_example", "code": "def f502(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    print(a)\\n    range(a)\\n    yaml.load(a)\\n    return a\\ndef f755(a):\\n    return a\\n"}

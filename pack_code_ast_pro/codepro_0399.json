@@ -1,0 +1,2 @@
+{"id": "k399_0", "lang": "py", "source": "gen_example", "code": "def f627(a):\\n    if a>0:\\n        a-=1\\n    map(a)\\n    len(a)\\n    return a\\ndef f8(a):\\n    if a>0:\\n        a-=1\\n    sorted(a)\\n    return a\\n"}
+{"id": "k399_1", "lang": "py", "source": "gen_example", "code": "def f727(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f838(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    print(a)\\n    print(a)\\n    return a\\ndef f280(a):\\n    while a<5:\\n        break\\n    sorted(a)\\n    map(a)\\n    return a\\n"}

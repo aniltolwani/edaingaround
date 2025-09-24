@@ -1,0 +1,1 @@
+[{"id": "k227_0", "lang": "py", "source": "repo_B", "code": "def f496(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\ndef f751(a):\\n    len(a)\\n    print(a)\\n    yaml.load(a)\\n    return a\\ndef f768(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}]

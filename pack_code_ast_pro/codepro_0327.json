@@ -1,0 +1,1 @@
+{"id": "k327_0", "lang": "py", "source": "repo_A", "code": "def f189(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    map(a)\\n    yaml.load(a)\\n    return a\\n"}

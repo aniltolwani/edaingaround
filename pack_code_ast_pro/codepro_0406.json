@@ -1,0 +1,1 @@
+[{"id": "k406_0", "lang": "py", "source": "gen_example", "code": "def f61(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    print(a)\\n    map(a)\\n    yaml.load(a)\\n    return a\\ndef f347(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    yaml.load(a)\\n    range(a)\\n    return a\\n"}]

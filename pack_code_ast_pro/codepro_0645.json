@@ -1,0 +1,1 @@
+{"id": "k645_0", "lang": "py", "source": "doc_sample", "code": "def f655(a):\\n    if a>0:\\n        a-=1\\n    range(a)\\n    json.dumps(a)\\n    range(a)\\n    return a\\ndef f134(a):\\n    map(a)\\n    range(a)\\n    sorted(a)\\n    return a\\ndef f170(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    sum(a)\\n    return a\\n"}

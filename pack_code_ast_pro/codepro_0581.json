@@ -1,0 +1,1 @@
+[{"id": "k581_0", "lang": "py", "source": "gen_example", "code": "def f686(a):\\n    if a>0:\\n        a-=1\\n    print(a)\\n    sum(a)\\n    return a\\ndef f792(a):\\n    if a>0:\\n        a-=1\\n    sorted(a)\\n    return a\\ndef f443(a):\\n    pickle.loads(a)\\n    return a\\n"}]

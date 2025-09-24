@@ -1,0 +1,1 @@
+{"id": "k773_0", "lang": "py", "source": "doc_sample", "code": "def f846(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    len(a)\\n    print(a)\\n    return a\\ndef f325(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    range(a)\\n    return a\\n"}

@@ -1,0 +1,1 @@
+[{"id": "k571_0", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}, {"id": "k571_1", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}]

@@ -1,0 +1,1 @@
+{"id": "k242_0", "lang": "py", "source": "gen_example", "code": "def broken(:\\n    return 1\\n"}

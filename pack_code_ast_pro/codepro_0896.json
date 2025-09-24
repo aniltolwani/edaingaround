@@ -1,0 +1,2 @@
+{"id": "k896_0", "lang": "py", "source": "doc_sample", "code": "def f372(a):\\n    while a<5:\\n        break\\n    return a\\ndef f52(a):\\n    if a>0:\\n        a-=1\\n    yaml.load(a)\\n    map(a)\\n    sorted(a)\\n    return a\\n"}
+{"id": "k896_1", "lang": "py", "source": "gen_example", "code": "def f454(a):\\n    if a>0:\\n        a-=1\\n    return a\\n"}

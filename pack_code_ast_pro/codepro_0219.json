@@ -1,0 +1,1 @@
+[{"id": "k219_0", "lang": "py", "source": "repo_A", "code": "def f712(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    range(a)\\n    pickle.loads(a)\\n    return a\\ndef f576(a):\\n    if a>0:\\n        a-=1\\n    sum(a)\\n    sorted(a)\\n    pickle.loads(a)\\n    return a\\n"}]

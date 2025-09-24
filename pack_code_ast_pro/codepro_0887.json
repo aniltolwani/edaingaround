@@ -1,0 +1,1 @@
+{"id": "k887_0", "lang": "py", "source": "gen_example", "code": "def f567(a):\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    return a\\n"}

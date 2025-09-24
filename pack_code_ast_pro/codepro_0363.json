@@ -1,0 +1,2 @@
+{"id": "k363_0", "lang": "py", "source": "repo_B", "code": "def f621(a):\\n    return a\\ndef f823(a):\\n    json.dumps(a)\\n    return a\\n"}
+{"id": "k363_1", "lang": "py", "source": "gen_example", "code": "def f173(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    sorted(a)\\n    json.dumps(a)\\n    return a\\ndef f357(a):\\n    for i in range(3):\\n        a+=i\\n    sorted(a)\\n    sum(a)\\n    return a\\n"}

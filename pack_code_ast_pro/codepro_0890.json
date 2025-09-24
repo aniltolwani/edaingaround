@@ -1,0 +1,1 @@
+{"id": "k890_0", "lang": "py", "source": "gen_example", "code": "def f967(a):\\n    if a>0:\\n        a-=1\\n    json.dumps(a)\\n    yaml.load(a)\\n    len(a)\\n    return a\\ndef f480(a):\\n    if a>0:\\n        a-=1\\n    range(a)\\n    return a\\n"}

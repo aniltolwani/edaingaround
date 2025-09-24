@@ -1,0 +1,1 @@
+{"id": "k475_0", "lang": "py", "source": "repo_A", "code": "def f881(a):\\n    return a\\ndef f377(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\ndef f97(a):\\n    if a>0:\\n        a-=1\\n    json.dumps(a)\\n    sorted(a)\\n    sorted(a)\\n    return a\\n"}

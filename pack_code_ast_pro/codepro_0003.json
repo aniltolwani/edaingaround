@@ -1,0 +1,1 @@
+[{"id": "k3_0", "lang": "py", "source": "repo_B", "code": "def f758(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f212(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    len(a)\\n    pickle.loads(a)\\n    return a\\ndef f914(a):\\n    if a>0:\\n        a-=1\\n    print(a)\\n    range(a)\\n    return a\\n"}]

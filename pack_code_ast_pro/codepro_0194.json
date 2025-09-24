@@ -1,0 +1,2 @@
+{"id": "k194_0", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k194_1", "lang": "py", "source": "repo_B", "code": "def f499(a):\\n    while a<5:\\n        break\\n    pickle.loads(a)\\n    return a\\n"}

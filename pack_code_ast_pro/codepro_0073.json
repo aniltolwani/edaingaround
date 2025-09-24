@@ -1,0 +1,1 @@
+{"id": "k73_0", "lang": "py", "source": "gen_example", "code": "def f570(a):\\n    json.dumps(a)\\n    sorted(a)\\n    return a\\ndef f323(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}

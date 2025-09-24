@@ -1,0 +1,1 @@
+{"id": "k701_0", "lang": "py", "source": "repo_B", "code": "def f2(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    return a\\ndef f385(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    sum(a)\\n    return a\\n"}

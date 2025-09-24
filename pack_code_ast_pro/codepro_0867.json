@@ -1,0 +1,2 @@
+{"id": "k867_0", "lang": "py", "source": "repo_B", "code": "def f168(a):\\n    len(a)\\n    return a\\n"}
+{"id": "k867_1", "lang": "py", "source": "repo_A", "code": "def f456(a):\\n    for i in range(3):\\n        a+=i\\n    yaml.load(a)\\n    pickle.loads(a)\\n    yaml.load(a)\\n    return a\\n"}

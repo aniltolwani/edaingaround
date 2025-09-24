@@ -1,0 +1,2 @@
+{"id": "k560_0", "lang": "js", "source": "gen_example", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\neval('2+2');function add(a,b){return a+b;}\\n"}
+{"id": "k560_1", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}

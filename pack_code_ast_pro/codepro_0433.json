@@ -1,0 +1,1 @@
+[{"id": "k433_0", "lang": "py", "source": "repo_A", "code": "def f332(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    json.dumps(a)\\n    return a\\ndef f891(a):\\n    if a>0:\\n        a-=1\\n    map(a)\\n    sum(a)\\n    return a\\n"}]

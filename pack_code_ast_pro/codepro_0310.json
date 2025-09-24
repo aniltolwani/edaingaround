@@ -1,0 +1,2 @@
+{"id": "k310_0", "lang": "py", "source": "doc_sample", "code": "def f149(a):\\n    if a>0:\\n        a-=1\\n    len(a)\\n    range(a)\\n    range(a)\\n    return a\\n"}
+{"id": "k310_1", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}

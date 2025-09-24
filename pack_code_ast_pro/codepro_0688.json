@@ -1,0 +1,1 @@
+{"id": "k688_0", "lang": "py", "source": "repo_A", "code": "def f535(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    return a\\ndef f386(a):\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    return a\\n"}

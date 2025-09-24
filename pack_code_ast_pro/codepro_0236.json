@@ -1,0 +1,2 @@
+{"id": "k236_0", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k236_1", "lang": "js", "source": "repo_B", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\nfunction add(a,b){return a+b;}\\n"}

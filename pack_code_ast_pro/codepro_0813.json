@@ -1,0 +1,1 @@
+{"id": "k813_0", "lang": "py", "source": "gen_example", "code": "def f431(a):\\n    yaml.load(a)\\n    return a\\n"}

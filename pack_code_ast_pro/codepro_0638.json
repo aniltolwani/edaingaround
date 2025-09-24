@@ -1,0 +1,2 @@
+{"id": "k638_0", "lang": "py", "source": "doc_sample", "code": "x=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\ndef f983(a):\\n    if a>0:\\n        a-=1\\n    print(a)\\n    map(a)\\n    return a\\n"}
+{"id": "k638_1", "lang": "py", "source": "repo_A", "code": "def broken(:\\n    return 1\\n"}

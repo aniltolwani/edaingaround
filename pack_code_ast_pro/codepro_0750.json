@@ -1,0 +1,2 @@
+{"id": "k750_0", "lang": "py", "source": "repo_B", "code": "def f691(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}
+{"id": "k750_1", "lang": "py", "source": "doc_sample", "code": "def f403(a):\\n    for i in range(3):\\n        a+=i\\n    range(a)\\n    return a\\ndef f942(a):\\n    for i in range(3):\\n        a+=i\\n    sorted(a)\\n    return a\\ndef f700(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}

@@ -1,0 +1,1 @@
+[{"id": "k83_0", "lang": "py", "source": "repo_A", "code": "def f870(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    sorted(a)\\n    return a\\n"}]

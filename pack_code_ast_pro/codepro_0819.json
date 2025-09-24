@@ -1,0 +1,1 @@
+{"id": "k819_0", "lang": "py", "source": "repo_B", "code": "def f187(a):\\n    print(a)\\n    map(a)\\n    json.dumps(a)\\n    return a\\n"}

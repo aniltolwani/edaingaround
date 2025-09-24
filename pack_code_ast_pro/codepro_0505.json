@@ -1,0 +1,1 @@
+{"id": "k505_0", "lang": "py", "source": "repo_B", "code": "def f80(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    sum(a)\\n    range(a)\\n    yaml.load(a)\\n    return a\\ndef f852(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    return a\\ndef f919(a):\\n    sum(a)\\n    len(a)\\n    sum(a)\\n    return a\\n"}

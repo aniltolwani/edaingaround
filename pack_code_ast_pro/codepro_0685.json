@@ -1,0 +1,1 @@
+{"id": "k685_0", "lang": "py", "source": "repo_B", "code": "def f70(a):\\n    sum(a)\\n    len(a)\\n    json.dumps(a)\\n    return a\\n"}

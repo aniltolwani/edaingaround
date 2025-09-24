@@ -1,0 +1,1 @@
+[{"id": "k474_0", "lang": "py", "source": "gen_example", "code": "def f143(a):\\n    for i in range(3):\\n        a+=i\\n    len(a)\\n    return a\\ndef f124(a):\\n    if a>0:\\n        a-=1\\n    return a\\n"}, {"id": "k474_1", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}]

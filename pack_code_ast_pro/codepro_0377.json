@@ -1,0 +1,1 @@
+{"id": "k377_0", "lang": "py", "source": "repo_B", "code": "def f857(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    sorted(a)\\n    return a\\ndef f969(a):\\n    for i in range(3):\\n        a+=i\\n    print(a)\\n    yaml.load(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}

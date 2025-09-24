@@ -1,0 +1,1 @@
+[{"id": "k184_0", "lang": "py", "source": "repo_A", "code": "def f183(a):\\n    if a>0:\\n        a-=1\\n    json.dumps(a)\\n    map(a)\\n    sum(a)\\n    return a\\ndef f906(a):\\n    return a\\ndef f689(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    pickle.loads(a)\\n    return a\\n"}]

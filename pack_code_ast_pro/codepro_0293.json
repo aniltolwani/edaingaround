@@ -1,0 +1,1 @@
+{"id": "k293_0", "lang": "py", "source": "repo_B", "code": "def f225(a):\\n    range(a)\\n    print(a)\\n    return a\\ndef f126(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    range(a)\\n    return a\\n"}

@@ -1,0 +1,2 @@
+{"id": "k447_0", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k447_1", "lang": "py", "source": "repo_B", "code": "def f93(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\ndef f781(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    return a\\ndef f561(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    range(a)\\n    range(a)\\n    return a\\n"}

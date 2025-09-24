@@ -1,0 +1,2 @@
+{"id": "k519_0", "lang": "py", "source": "doc_sample", "code": "def f925(a):\\n    if a>0:\\n        a-=1\\n    return a\\n"}
+{"id": "k519_1", "lang": "py", "source": "repo_A", "code": "x=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\ndef f110(a):\\n    return a\\ndef f785(a):\\n    return a\\ndef f929(a):\\n    while a<5:\\n        break\\n    sum(a)\\n    sum(a)\\n    return a\\n"}

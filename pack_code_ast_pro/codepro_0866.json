@@ -1,0 +1,2 @@
+{"id": "k866_0", "lang": "py", "source": "gen_example", "code": "def broken(:\\n    return 1\\n"}
+{"id": "k866_1", "lang": "py", "source": "doc_sample", "code": "def f934(a):\\n    if a>0:\\n        a-=1\\n    return a\\n"}

@@ -1,0 +1,2 @@
+{"id": "k542_0", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k542_1", "lang": "py", "source": "repo_B", "code": "def f465(a):\\n    if a>0:\\n        a-=1\\n    map(a)\\n    print(a)\\n    return a\\n"}

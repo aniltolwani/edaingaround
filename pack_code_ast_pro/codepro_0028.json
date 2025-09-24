@@ -1,0 +1,2 @@
+{"id": "k28_0", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k28_1", "lang": "py", "source": "doc_sample", "code": "x=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\ndef f814(a):\\n    json.dumps(a)\\n    len(a)\\n    return a\\ndef f900(a):\\n    return a\\n"}

@@ -1,0 +1,2 @@
+{"id": "k306_0", "lang": "py", "source": "doc_sample", "code": "x=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\ndef f114(a):\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    range(a)\\n    sorted(a)\\n    return a\\ndef f879(a):\\n    return a\\ndef f149(a):\\n    return a\\n"}
+{"id": "k306_1", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}

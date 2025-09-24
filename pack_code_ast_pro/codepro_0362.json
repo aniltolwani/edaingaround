@@ -1,0 +1,1 @@
+[{"id": "k362_0", "lang": "py", "source": "doc_sample", "code": "def f579(a):\\n    if a>0:\\n        a-=1\\n    sorted(a)\\n    map(a)\\n    return a\\ndef f914(a):\\n    if a>0:\\n        a-=1\\n    yaml.load(a)\\n    range(a)\\n    len(a)\\n    return a\\ndef f971(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    sorted(a)\\n    return a\\n"}]

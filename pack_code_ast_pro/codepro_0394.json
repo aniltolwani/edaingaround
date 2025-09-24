@@ -1,0 +1,1 @@
+{"id": "k394_0", "lang": "py", "source": "repo_A", "code": "def f359(a):\\n    return a\\ndef f31(a):\\n    if a>0:\\n        a-=1\\n    map(a)\\n    pickle.loads(a)\\n    return a\\ndef f630(a):\\n    if a>0:\\n        a-=1\\n    pickle.loads(a)\\n    return a\\n"}

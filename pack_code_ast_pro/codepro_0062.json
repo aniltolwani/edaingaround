@@ -1,0 +1,2 @@
+{"id": "k62_0", "lang": "py", "source": "gen_example", "code": "def f190(a):\\n    if a>0:\\n        a-=1\\n    json.dumps(a)\\n    return a\\n"}
+{"id": "k62_1", "lang": "py", "source": "repo_B", "code": "def f58(a):\\n    for i in range(3):\\n        a+=i\\n    pickle.loads(a)\\n    pickle.loads(a)\\n    sum(a)\\n    return a\\n"}

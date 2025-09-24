@@ -1,0 +1,1 @@
+{"id": "k714_0", "lang": "py", "source": "repo_B", "code": "def f429(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    return a\\ndef f167(a):\\n    if a>0:\\n        a-=1\\n    sorted(a)\\n    return a\\n"}

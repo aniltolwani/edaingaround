@@ -1,0 +1,2 @@
+{"id": "k146_0", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k146_1", "lang": "py", "source": "repo_A", "code": "def f311(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    map(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}

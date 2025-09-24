@@ -1,0 +1,1 @@
+[{"id": "k681_0", "lang": "py", "source": "repo_A", "code": "def f210(a):\\n    pickle.loads(a)\\n    sum(a)\\n    pickle.loads(a)\\n    return a\\n"}]

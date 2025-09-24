@@ -1,0 +1,2 @@
+{"id": "k573_0", "lang": "py", "source": "gen_example", "code": "def f317(a):\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}
+{"id": "k573_1", "lang": "js", "source": "gen_example", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\nfunction add(a,b){return a+b;}\\n"}

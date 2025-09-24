@@ -1,0 +1,1 @@
+[{"id": "k177_0", "lang": "py", "source": "repo_A", "code": "def f59(a):\\n    json.dumps(a)\\n    return a\\ndef f209(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    range(a)\\n    return a\\ndef f130(a):\\n    if a>0:\\n        a-=1\\n    sorted(a)\\n    print(a)\\n    sum(a)\\n    return a\\n"}]

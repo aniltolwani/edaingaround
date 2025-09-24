@@ -1,0 +1,1 @@
+[{"id": "k82_0", "lang": "py", "source": "gen_example", "code": "def f410(a):\\n    while a<5:\\n        break\\n    map(a)\\n    return a\\ndef f773(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    sum(a)\\n    len(a)\\n    return a\\n"}, {"id": "k82_1", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}]

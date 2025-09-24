@@ -1,0 +1,1 @@
+{"id": "k27_0", "lang": "py", "source": "repo_A", "code": "def f31(a):\\n    if a>0:\\n        a-=1\\n    sum(a)\\n    return a\\ndef f270(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    len(a)\\n    return a\\ndef f84(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    pickle.loads(a)\\n    return a\\n"}

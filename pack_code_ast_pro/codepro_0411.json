@@ -1,0 +1,1 @@
+[{"id": "k411_0", "lang": "py", "source": "doc_sample", "code": "def f855(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    len(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}]

@@ -1,0 +1,1 @@
+{"id": "k696_0", "lang": "py", "source": "gen_example", "code": "def f115(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\ndef f452(a):\\n    if a>0:\\n        a-=1\\n    range(a)\\n    print(a)\\n    return a\\ndef f89(a):\\n    print(a)\\n    return a\\n"}

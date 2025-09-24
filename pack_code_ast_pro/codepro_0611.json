@@ -1,0 +1,2 @@
+{"id": "k611_0", "lang": "py", "source": "repo_B", "code": "def f270(a):\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    return a\\ndef f372(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}
+{"id": "k611_1", "lang": "py", "source": "gen_example", "code": "def broken(:\\n    return 1\\n"}

@@ -1,0 +1,2 @@
+{"id": "k699_0", "lang": "js", "source": "repo_B", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\nfunction add(a,b){return a+b;}\\n"}
+{"id": "k699_1", "lang": "py", "source": "doc_sample", "code": "def f365(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    pickle.loads(a)\\n    return a\\n"}

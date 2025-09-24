@@ -1,0 +1,2 @@
+{"id": "k59_0", "lang": "py", "source": "repo_B", "code": "def f963(a):\\n    if a>0:\\n        a-=1\\n    range(a)\\n    return a\\ndef f450(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    return a\\n"}
+{"id": "k59_1", "lang": "js", "source": "repo_B", "code": "eval('2+2');function add(a,b){return a+b;}\\n"}

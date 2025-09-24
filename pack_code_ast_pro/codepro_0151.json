@@ -1,0 +1,1 @@
+[{"id": "k151_0", "lang": "py", "source": "repo_B", "code": "def f970(a):\\n    if a>0:\\n        a-=1\\n    range(a)\\n    return a\\ndef f473(a):\\n    if a>0:\\n        a-=1\\n    yaml.load(a)\\n    json.dumps(a)\\n    json.dumps(a)\\n    return a\\n"}, {"id": "k151_1", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}]

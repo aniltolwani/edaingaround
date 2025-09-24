@@ -1,0 +1,1 @@
+{"id": "k843_0", "lang": "py", "source": "gen_example", "code": "def f81(a):\\n    if a>0:\\n        a-=1\\n    json.dumps(a)\\n    json.dumps(a)\\n    return a\\n"}

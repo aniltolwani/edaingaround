@@ -1,0 +1,2 @@
+{"id": "k213_0", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k213_1", "lang": "py", "source": "repo_B", "code": "def f702(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\ndef f53(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    yaml.load(a)\\n    return a\\ndef f432(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}

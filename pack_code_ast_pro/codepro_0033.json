@@ -1,0 +1,2 @@
+{"id": "k33_0", "lang": "py", "source": "repo_A", "code": "def f612(a):\\n    print(a)\\n    sum(a)\\n    print(a)\\n    return a\\ndef f857(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    pickle.loads(a)\\n    return a\\n"}
+{"id": "k33_1", "lang": "js", "source": "repo_B", "code": "eval('2+2');function add(a,b){return a+b;}\\n"}

@@ -1,0 +1,1 @@
+{"id": "k583_0", "lang": "py", "source": "gen_example", "code": "def f917(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    pickle.loads(a)\\n    range(a)\\n    return a\\n"}

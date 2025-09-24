@@ -1,0 +1,1 @@
+[{"id": "k809_0", "lang": "py", "source": "doc_sample", "code": "def f99(a):\\n    if a>0:\\n        a-=1\\n    return a\\n"}]

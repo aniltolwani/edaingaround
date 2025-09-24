@@ -1,0 +1,1 @@
+[{"id": "k206_0", "lang": "py", "source": "repo_B", "code": "def f493(a):\\n    if a>0:\\n        a-=1\\n    print(a)\\n    map(a)\\n    map(a)\\n    return a\\ndef f904(a):\\n    if a>0:\\n        a-=1\\n    print(a)\\n    len(a)\\n    return a\\n"}, {"id": "k206_1", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}]

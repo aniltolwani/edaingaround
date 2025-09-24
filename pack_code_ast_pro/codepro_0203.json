@@ -1,0 +1,2 @@
+{"id": "k203_0", "lang": "py", "source": "repo_B", "code": "def broken(:\\n    return 1\\n"}
+{"id": "k203_1", "lang": "py", "source": "repo_B", "code": "def f649(a):\\n    yaml.load(a)\\n    return a\\ndef f263(a):\\n    if a>0:\\n        a-=1\\n    len(a)\\n    sum(a)\\n    return a\\n"}

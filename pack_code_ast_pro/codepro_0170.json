@@ -1,0 +1,2 @@
+{"id": "k170_0", "lang": "js", "source": "gen_example", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\nfunction add(a,b){return a+b;}\\n"}
+{"id": "k170_1", "lang": "py", "source": "repo_B", "code": "def f125(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    json.dumps(a)\\n    sorted(a)\\n    sum(a)\\n    return a\\n"}

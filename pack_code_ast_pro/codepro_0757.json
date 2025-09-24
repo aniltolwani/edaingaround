@@ -1,0 +1,1 @@
+{"id": "k757_0", "lang": "py", "source": "repo_A", "code": "def f21(a):\\n    if a>0:\\n        a-=1\\n    sorted(a)\\n    return a\\n"}

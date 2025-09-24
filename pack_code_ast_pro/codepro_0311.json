@@ -1,0 +1,1 @@
+{"id": "k311_0", "lang": "py", "source": "repo_B", "code": "def f67(a):\\n    map(a)\\n    yaml.load(a)\\n    return a\\n"}

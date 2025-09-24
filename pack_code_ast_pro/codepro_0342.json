@@ -1,0 +1,1 @@
+{"id": "k342_0", "lang": "py", "source": "repo_B", "code": "def f212(a):\\n    while a<5:\\n        break\\n    sum(a)\\n    print(a)\\n    pickle.loads(a)\\n    return a\\n"}

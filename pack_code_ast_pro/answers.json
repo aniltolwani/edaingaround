@@ -1,0 +1,28 @@
+{
+  "pack": "code_ast_pro",
+  "rows": 1354,
+  "py_parse_rate": 0.0,
+  "py_total_funcs": 0,
+  "py_branch_nodes": 0,
+  "danger_counts": {
+    "eval": 136,
+    "exec": 0,
+    "open(": 0,
+    "subprocess": 0,
+    "pickle.loads": 209,
+    "yaml.load(": 217
+  },
+  "js_eval_count": 57,
+  "long_lines_over_200": 166,
+  "top_calls": {
+    "range": 273,
+    "sum": 265,
+    "print": 264,
+    "map": 262,
+    "loads": 256
+  },
+  "required_artifacts": [
+    "cyclomatic_hist_py.html",
+    "lang_breakdown.html"
+  ]
+}

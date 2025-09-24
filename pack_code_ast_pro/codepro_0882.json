@@ -1,0 +1,1 @@
+{"id": "k882_0", "lang": "py", "source": "doc_sample", "code": "def f707(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    return a\\n"}

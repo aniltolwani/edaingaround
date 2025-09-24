@@ -1,0 +1,2 @@
+{"id": "k494_0", "lang": "py", "source": "repo_A", "code": "def f81(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    return a\\ndef f787(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    map(a)\\n    range(a)\\n    return a\\ndef f710(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    map(a)\\n    json.dumps(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}
+{"id": "k494_1", "lang": "js", "source": "doc_sample", "code": "function add(a,b){return a+b;}\\n"}

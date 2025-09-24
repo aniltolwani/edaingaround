@@ -1,0 +1,1 @@
+[{"id": "k270_0", "lang": "py", "source": "gen_example", "code": "def f783(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f687(a):\\n    for i in range(3):\\n        a+=i\\n    pickle.loads(a)\\n    sum(a)\\n    yaml.load(a)\\n    return a\\n"}]

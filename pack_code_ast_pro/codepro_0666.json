@@ -1,0 +1,1 @@
+[{"id": "k666_0", "lang": "py", "source": "doc_sample", "code": "def f786(a):\\n    for i in range(3):\\n        a+=i\\n    pickle.loads(a)\\n    sum(a)\\n    return a\\ndef f71(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    yaml.load(a)\\n    return a\\n"}]

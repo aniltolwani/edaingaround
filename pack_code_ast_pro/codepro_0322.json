@@ -1,0 +1,1 @@
+{"id": "k322_0", "lang": "py", "source": "repo_B", "code": "def f486(a):\\n    if a>0:\\n        a-=1\\n    pickle.loads(a)\\n    pickle.loads(a)\\n    return a\\ndef f194(a):\\n    for i in range(3):\\n        a+=i\\n    yaml.load(a)\\n    return a\\ndef f691(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}

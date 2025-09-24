@@ -1,0 +1,2 @@
+{"id": "k617_0", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k617_1", "lang": "py", "source": "repo_A", "code": "def f291(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    sorted(a)\\n    return a\\ndef f708(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\ndef f97(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    print(a)\\n    pickle.loads(a)\\n    sorted(a)\\n    return a\\n"}

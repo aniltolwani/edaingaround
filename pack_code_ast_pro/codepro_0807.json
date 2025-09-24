@@ -1,0 +1,2 @@
+{"id": "k807_0", "lang": "js", "source": "doc_sample", "code": "function add(a,b){return a+b;}\\n"}
+{"id": "k807_1", "lang": "py", "source": "doc_sample", "code": "def f78(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    map(a)\\n    len(a)\\n    json.dumps(a)\\n    return a\\ndef f468(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f81(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    range(a)\\n    yaml.load(a)\\n    return a\\n"}

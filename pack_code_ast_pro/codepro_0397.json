@@ -1,0 +1,1 @@
+{"id": "k397_0", "lang": "py", "source": "doc_sample", "code": "def f771(a):\\n    if a>0:\\n        a-=1\\n    len(a)\\n    sorted(a)\\n    return a\\ndef f383(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    sum(a)\\n    print(a)\\n    return a\\n"}

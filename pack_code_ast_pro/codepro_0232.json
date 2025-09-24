@@ -1,0 +1,1 @@
+[{"id": "k232_0", "lang": "py", "source": "repo_B", "code": "def f182(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    range(a)\\n    json.dumps(a)\\n    print(a)\\n    return a\\n"}, {"id": "k232_1", "lang": "js", "source": "doc_sample", "code": "function add(a,b){return a+b;}\\n"}]

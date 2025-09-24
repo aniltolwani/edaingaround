@@ -1,0 +1,2 @@
+{"id": "k190_0", "lang": "py", "source": "repo_B", "code": "def f163(a):\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    return a\\ndef f891(a):\\n    if a>0:\\n        a-=1\\n    map(a)\\n    return a\\n"}
+{"id": "k190_1", "lang": "js", "source": "gen_example", "code": "eval('2+2');function add(a,b){return a+b;}\\n"}

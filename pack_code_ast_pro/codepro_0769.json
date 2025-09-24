@@ -1,0 +1,1 @@
+[{"id": "k769_0", "lang": "py", "source": "doc_sample", "code": "def f712(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    range(a)\\n    json.dumps(a)\\n    return a\\ndef f478(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    range(a)\\n    return a\\n"}]

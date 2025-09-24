@@ -1,0 +1,1 @@
+{"id": "k506_0", "lang": "py", "source": "repo_B", "code": "def f485(a):\\n    range(a)\\n    json.dumps(a)\\n    return a\\ndef f233(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    print(a)\\n    map(a)\\n    yaml.load(a)\\n    return a\\n"}

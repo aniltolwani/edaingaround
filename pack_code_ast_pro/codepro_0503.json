@@ -1,0 +1,1 @@
+{"id": "k503_0", "lang": "py", "source": "repo_B", "code": "def f277(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    map(a)\\n    return a\\ndef f49(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    return a\\n"}

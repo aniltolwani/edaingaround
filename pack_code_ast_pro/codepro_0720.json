@@ -1,0 +1,1 @@
+{"id": "k720_0", "lang": "py", "source": "repo_B", "code": "def f803(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    len(a)\\n    range(a)\\n    return a\\ndef f429(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}

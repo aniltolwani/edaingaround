@@ -1,0 +1,1 @@
+{"id": "k100_0", "lang": "py", "source": "gen_example", "code": "def f823(a):\\n    map(a)\\n    return a\\ndef f395(a):\\n    len(a)\\n    return a\\ndef f963(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    return a\\n"}

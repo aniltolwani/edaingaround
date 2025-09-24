@@ -1,0 +1,2 @@
+{"id": "k186_0", "lang": "py", "source": "repo_A", "code": "def f207(a):\\n    if a>0:\\n        a-=1\\n    print(a)\\n    range(a)\\n    json.dumps(a)\\n    return a\\n"}
+{"id": "k186_1", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}

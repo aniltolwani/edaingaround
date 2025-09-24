@@ -1,0 +1,2 @@
+{"id": "k786_0", "lang": "py", "source": "gen_example", "code": "def broken(:\\n    return 1\\n"}
+{"id": "k786_1", "lang": "py", "source": "gen_example", "code": "x=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\ndef f707(a):\\n    if a>0:\\n        a-=1\\n    sum(a)\\n    len(a)\\n    json.dumps(a)\\n    return a\\n"}

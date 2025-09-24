@@ -1,0 +1,1 @@
+{"id": "k881_0", "lang": "py", "source": "repo_B", "code": "def f3(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    map(a)\\n    map(a)\\n    return a\\ndef f807(a):\\n    pickle.loads(a)\\n    return a\\ndef f738(a):\\n    yaml.load(a)\\n    map(a)\\n    map(a)\\n    return a\\n"}

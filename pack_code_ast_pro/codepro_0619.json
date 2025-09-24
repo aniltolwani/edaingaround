@@ -1,0 +1,2 @@
+{"id": "k619_0", "lang": "py", "source": "doc_sample", "code": "def f589(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    len(a)\\n    yaml.load(a)\\n    pickle.loads(a)\\n    return a\\n"}
+{"id": "k619_1", "lang": "py", "source": "gen_example", "code": "def f267(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    print(a)\\n    pickle.loads(a)\\n    return a\\ndef f817(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    sorted(a)\\n    json.dumps(a)\\n    return a\\n"}

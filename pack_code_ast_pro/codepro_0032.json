@@ -1,0 +1,1 @@
+{"id": "k32_0", "lang": "py", "source": "gen_example", "code": "def f797(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    sum(a)\\n    len(a)\\n    yaml.load(a)\\n    return a\\ndef f53(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    sum(a)\\n    pickle.loads(a)\\n    return a\\n"}

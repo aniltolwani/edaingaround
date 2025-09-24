@@ -1,0 +1,1 @@
+{"id": "k647_0", "lang": "py", "source": "doc_sample", "code": "def f44(a):\\n    if a>0:\\n        a-=1\\n    json.dumps(a)\\n    len(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}

@@ -1,0 +1,1 @@
+[{"id": "k643_0", "lang": "js", "source": "repo_A", "code": "eval('2+2');function add(a,b){return a+b;}\\n"}, {"id": "k643_1", "lang": "py", "source": "doc_sample", "code": "def f148(a):\\n    if a>0:\\n        a-=1\\n    yaml.load(a)\\n    sum(a)\\n    return a\\n"}]

@@ -1,0 +1,1 @@
+[{"id": "k354_0", "lang": "py", "source": "doc_sample", "code": "def f983(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}]

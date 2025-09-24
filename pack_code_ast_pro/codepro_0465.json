@@ -1,0 +1,1 @@
+{"id": "k465_0", "lang": "py", "source": "repo_A", "code": "def f321(a):\\n    range(a)\\n    print(a)\\n    return a\\n"}

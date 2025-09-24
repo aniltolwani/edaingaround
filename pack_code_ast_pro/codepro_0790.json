@@ -1,0 +1,2 @@
+{"id": "k790_0", "lang": "py", "source": "doc_sample", "code": "x=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\ndef f187(a):\\n    if a>0:\\n        a-=1\\n    sorted(a)\\n    return a\\ndef f497(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    return a\\n"}
+{"id": "k790_1", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}

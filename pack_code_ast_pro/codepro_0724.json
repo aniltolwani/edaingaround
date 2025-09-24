@@ -1,0 +1,1 @@
+{"id": "k724_0", "lang": "py", "source": "repo_B", "code": "def f310(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f509(a):\\n    for i in range(3):\\n        a+=i\\n    json.dumps(a)\\n    return a\\ndef f673(a):\\n    sorted(a)\\n    map(a)\\n    pickle.loads(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}

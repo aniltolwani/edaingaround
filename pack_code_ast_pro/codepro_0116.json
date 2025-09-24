@@ -1,0 +1,1 @@
+{"id": "k116_0", "lang": "py", "source": "repo_B", "code": "def f812(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    yaml.load(a)\\n    return a\\n"}

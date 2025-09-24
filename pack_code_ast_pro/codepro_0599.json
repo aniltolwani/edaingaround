@@ -1,0 +1,1 @@
+[{"id": "k599_0", "lang": "js", "source": "repo_A", "code": "function add(a,b){return a+b;}\\n"}, {"id": "k599_1", "lang": "py", "source": "repo_B", "code": "def f610(a):\\n    while a<5:\\n        break\\n    pickle.loads(a)\\n    print(a)\\n    return a\\n"}]

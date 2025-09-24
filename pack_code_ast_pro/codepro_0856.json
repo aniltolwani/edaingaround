@@ -1,0 +1,1 @@
+{"id": "k856_0", "lang": "py", "source": "doc_sample", "code": "def f996(a):\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    return a\\n"}

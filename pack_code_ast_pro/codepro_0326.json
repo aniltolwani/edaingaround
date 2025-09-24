@@ -1,0 +1,1 @@
+{"id": "k326_0", "lang": "py", "source": "repo_B", "code": "def f326(a):\\n    if a>0:\\n        a-=1\\n    map(a)\\n    return a\\ndef f917(a):\\n    json.dumps(a)\\n    range(a)\\n    return a\\n"}

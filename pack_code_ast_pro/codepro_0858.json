@@ -1,0 +1,2 @@
+{"id": "k858_0", "lang": "py", "source": "repo_B", "code": "def f266(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\ndef f578(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    range(a)\\n    sum(a)\\n    pickle.loads(a)\\n    return a\\ndef f746(a):\\n    if a>0:\\n        a-=1\\n    return a\\n"}
+{"id": "k858_1", "lang": "js", "source": "doc_sample", "code": "function add(a,b){return a+b;}\\n"}

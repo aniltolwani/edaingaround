@@ -1,0 +1,1 @@
+{"id": "k64_0", "lang": "py", "source": "repo_B", "code": "def f400(a):\\n    range(a)\\n    sum(a)\\n    return a\\ndef f295(a):\\n    if a>0:\\n        a-=1\\n    return a\\n"}

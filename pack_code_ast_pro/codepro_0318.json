@@ -1,0 +1,1 @@
+[{"id": "k318_0", "lang": "py", "source": "repo_B", "code": "def f457(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    print(a)\\n    return a\\n"}]

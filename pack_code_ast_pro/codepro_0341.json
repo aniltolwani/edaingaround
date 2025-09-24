@@ -1,0 +1,1 @@
+{"id": "k341_0", "lang": "py", "source": "repo_B", "code": "def f334(a):\\n    if a>0:\\n        a-=1\\n    len(a)\\n    len(a)\\n    return a\\n"}

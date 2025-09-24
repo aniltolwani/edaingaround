@@ -1,0 +1,1 @@
+{"id": "k180_0", "lang": "py", "source": "repo_B", "code": "def f76(a):\\n    for i in range(3):\\n        a+=i\\n    json.dumps(a)\\n    len(a)\\n    len(a)\\n    return a\\n"}

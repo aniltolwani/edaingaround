@@ -1,0 +1,1 @@
+{"id": "k45_0", "lang": "py", "source": "gen_example", "code": "def f665(a):\\n    if a>0:\\n        a-=1\\n    yaml.load(a)\\n    print(a)\\n    print(a)\\n    return a\\n"}

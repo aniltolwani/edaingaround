@@ -1,0 +1,2 @@
+{"id": "k287_0", "lang": "py", "source": "repo_B", "code": "def f216(a):\\n    if a>0:\\n        a-=1\\n    pickle.loads(a)\\n    len(a)\\n    return a\\n"}
+{"id": "k287_1", "lang": "py", "source": "doc_sample", "code": "x=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\ndef f309(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    len(a)\\n    return a\\n"}

@@ -1,0 +1,2 @@
+{"id": "k393_0", "lang": "js", "source": "repo_A", "code": "var x='bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb';\\nfunction add(a,b){return a+b;}\\n"}
+{"id": "k393_1", "lang": "py", "source": "repo_B", "code": "def f539(a):\\n    for i in range(3):\\n        a+=i\\n    json.dumps(a)\\n    return a\\n"}

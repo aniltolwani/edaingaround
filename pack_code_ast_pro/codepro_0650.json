@@ -1,0 +1,1 @@
+{"id": "k650_0", "lang": "py", "source": "doc_sample", "code": "def f138(a):\\n    json.dumps(a)\\n    pickle.loads(a)\\n    map(a)\\n    return a\\ndef f301(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    return a\\ndef f627(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    len(a)\\n    return a\\n"}

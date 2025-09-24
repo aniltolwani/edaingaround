@@ -1,0 +1,1 @@
+[{"id": "k299_0", "lang": "py", "source": "repo_B", "code": "def f776(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    print(a)\\n    return a\\n"}]

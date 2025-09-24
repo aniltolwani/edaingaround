@@ -1,0 +1,1 @@
+{"id": "k1_0", "lang": "py", "source": "repo_A", "code": "def f384(a):\\n    while a<5:\\n        break\\n    yaml.load(a)\\n    range(a)\\n    range(a)\\n    return a\\ndef f53(a):\\n    while a<5:\\n        break\\n    len(a)\\n    return a\\ndef f990(a):\\n    if a>0:\\n        a-=1\\n    json.dumps(a)\\n    return a\\n"}

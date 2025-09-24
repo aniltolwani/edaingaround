@@ -1,0 +1,1 @@
+[{"id": "k725_0", "lang": "js", "source": "gen_example", "code": "eval('2+2');function add(a,b){return a+b;}\\n"}, {"id": "k725_1", "lang": "js", "source": "gen_example", "code": "function add(a,b){return a+b;}\\n"}]

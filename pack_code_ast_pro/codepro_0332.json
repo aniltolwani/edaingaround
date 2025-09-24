@@ -1,0 +1,2 @@
+{"id": "k332_0", "lang": "py", "source": "repo_B", "code": "def f343(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    yaml.load(a)\\n    return a\\ndef f517(a):\\n    pickle.loads(a)\\n    sum(a)\\n    sorted(a)\\n    return a\\ndef f664(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    map(a)\\n    return a\\n"}
+{"id": "k332_1", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}

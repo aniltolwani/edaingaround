@@ -1,0 +1,1 @@
+[{"id": "k590_0", "lang": "js", "source": "doc_sample", "code": "function add(a,b){return a+b;}\\n"}, {"id": "k590_1", "lang": "py", "source": "doc_sample", "code": "def f330(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    range(a)\\n    map(a)\\n    sum(a)\\n    return a\\ndef f217(a):\\n    map(a)\\n    pickle.loads(a)\\n    return a\\n"}]

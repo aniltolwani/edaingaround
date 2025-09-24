@@ -1,0 +1,2 @@
+{"id": "k381_0", "lang": "py", "source": "repo_A", "code": "def f951(a):\\n    for i in range(3):\\n        a+=i\\n    sorted(a)\\n    return a\\n"}
+{"id": "k381_1", "lang": "js", "source": "repo_B", "code": "function add(a,b){return a+b;}\\n"}

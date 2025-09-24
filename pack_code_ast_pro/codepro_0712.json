@@ -1,0 +1,1 @@
+{"id": "k712_0", "lang": "py", "source": "doc_sample", "code": "def f802(a):\\n    if a>0:\\n        a-=1\\n    return a\\ndef f419(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    sum(a)\\n    return a\\ndef f144(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}

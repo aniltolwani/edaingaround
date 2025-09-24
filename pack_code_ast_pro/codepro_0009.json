@@ -1,0 +1,1 @@
+{"id": "k9_0", "lang": "py", "source": "gen_example", "code": "def f661(a):\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    return a\\ndef f369(a):\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    yaml.load(a)\\n    return a\\n"}

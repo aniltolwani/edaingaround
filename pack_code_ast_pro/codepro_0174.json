@@ -1,0 +1,2 @@
+{"id": "k174_0", "lang": "py", "source": "repo_B", "code": "def f188(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    range(a)\\n    range(a)\\n    json.dumps(a)\\n    return a\\n"}
+{"id": "k174_1", "lang": "py", "source": "repo_A", "code": "def f423(a):\\n    for i in range(3):\\n        a+=i\\n    sum(a)\\n    return a\\ndef f512(a):\\n    for i in range(3):\\n        a+=i\\n    return a\\n"}

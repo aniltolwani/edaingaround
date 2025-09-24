@@ -1,0 +1,1 @@
+[{"id": "k157_0", "lang": "py", "source": "doc_sample", "code": "def f195(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    json.dumps(a)\\n    json.dumps(a)\\n    return a\\n"}]

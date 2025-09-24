@@ -1,0 +1,1 @@
+{"id": "k283_0", "lang": "py", "source": "gen_example", "code": "def f551(a):\\n    if a>0:\\n        a-=1\\n    map(a)\\n    pickle.loads(a)\\n    map(a)\\n    return a\\n"}

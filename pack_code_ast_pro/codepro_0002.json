@@ -1,0 +1,1 @@
+[{"id": "k2_0", "lang": "py", "source": "repo_B", "code": "def f484(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    range(a)\\n    return a\\ndef f540(a):\\n    if a>0:\\n        a-=1\\n    for i in range(3):\\n        a+=i\\n    while a<5:\\n        break\\n    return a\\n"}]

@@ -1,0 +1,17 @@
+{
+  "rows": 0,
+  "py_parse_rate": 0.0,
+  "py_total_funcs": 0,
+  "py_branch_nodes": 0,
+  "danger_counts": {
+    "eval": 0,
+    "exec": 0,
+    "open(": 0,
+    "subprocess": 0,
+    "pickle.loads": 0,
+    "yaml.load(": 0
+  },
+  "js_eval_count": 0,
+  "long_lines_over_200": 0,
+  "top_calls": {}
+}

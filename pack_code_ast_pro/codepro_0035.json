@@ -1,0 +1,1 @@
+{"id": "k35_0", "lang": "py", "source": "repo_B", "code": "def f987(a):\\n    sorted(a)\\n    sorted(a)\\n    return a\\ndef f156(a):\\n    return a\\ndef f343(a):\\n    if a>0:\\n        a-=1\\n    while a<5:\\n        break\\n    print(a)\\n    sum(a)\\n    len(a)\\n    return a\\ndef run(x):\\n    return eval(str(x))\\n"}
